@@ -1,4 +1,4 @@
-# ai_governance_policy_resources
+# HallResearch.ai Library of AI Governance Policy Resources
 
 A curated split of the original *Awesome Machine Learning Interpretability* repository, focused on AI governance, public policy, legal materials, institutional guidance, incidents, accountability, and critique.
 
