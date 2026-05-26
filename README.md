@@ -1212,6 +1212,7 @@ This section collects papers on agentic AI with a focus on safety, governance, r
 * [Socially-Weighted Alignment: A Game-Theoretic Framework for Multi-Agent LLM Systems](https://arxiv.org/pdf/2602.14471.pdf) | arXiv, 2026
 * [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/pdf/2406.01637.pdf)
 * [The 2025 AI Agent Index: Documenting Technical and Safety Features of Deployed Agentic AI Systems](https://arxiv.org/pdf/2602.17753.pdf) | arXiv, 2026
+* [The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness](https://philpapers.org/rec/LERTAF) | Alexander Lerchner
 * [The Coming Crisis of Multi-Agent Misalignment: AI Alignment Must Be a Dynamic and Social Process](https://arxiv.org/pdf/2506.01080.pdf)
 * [The Controllability Trap: A Governance Framework for Military AI Agents](https://arxiv.org/pdf/2603.03515.pdf) | arXiv, 2026
 * [The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis](https://arxiv.org/pdf/2602.10453.pdf)
