@@ -1,10 +1,16 @@
-# HallResearch.ai Library of AI Governance Policy Resources
+# HallResearch.ai Library of AI Governance and Policy Resources
 
-A curated split of the original *Awesome Machine Learning Interpretability* repository, focused on AI governance, public policy, legal materials, institutional guidance, incidents, accountability, and critique.
+This repository is one of the two main branches of the [HallResearch.ai Library](https://hallresearch.ai/), a curated public collection of resources for understanding, governing, assessing, and implementing artificial intelligence systems.
 
-Maintenance and curation sponsored by [HallResearch.ai](https://www.hallresearch.ai).
+Use this branch for materials related to AI governance, public policy, legal materials, institutional guidance, incidents, accountability, labor, civil society critique, and the social consequences of AI deployment.
 
-This file was derived from the original AMLI repository markdown and reorganized into a governance/policy-focused repository split.
+For resources focused on responsible machine learning assessment, implementation practice, evaluation, auditing, testing, tooling, documentation, and education, visit the companion branch: [AI Assessment and Implementation Resources](https://github.com/hallresearch-ai/ai_assessment_implementation_resources).
+
+For the full Library index, visit the [HallResearch.ai Library](https://hallresearch.ai/) or the [HallResearch.ai GitHub organization](https://github.com/hallresearch-ai).
+
+Maintained by Patrick Hall and Daniel Atherton. Maintenance and curation are sponsored by [HallResearch.ai](https://hallresearch.ai/).
+
+This repository grew out of the original [*Awesome Machine Learning Interpretability*](https://github.com/jphall663/awesome-machine-learning-interpretability) project and is maintained as part of the broader HallResearch.ai Library structure.
 
 ## Contents
 
