@@ -1170,34 +1170,55 @@ This section collects papers on agentic AI with a focus on safety, governance, r
 * [A Framework for Benchmarking and Aligning Task-Planning Safety in LLM-Based Embodied Agents](https://arxiv.org/pdf/2504.14650.pdf)
 * [A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](https://arxiv.org/pdf/2505.10924.pdf)
 * [A Systematization of Security Vulnerabilities in Computer Use Agents](https://arxiv.org/pdf/2507.05445.pdf)
+* [Adaptive Attacks Break Defenses Against Indirect Prompt Injection Attacks on LLM Agents](https://arxiv.org/pdf/2503.00061.pdf) | arXiv, 2025
+* [Agent Alignment in Evolving Social Norms](https://arxiv.org/pdf/2401.04620.pdf) | arXiv, 2024
 * [AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents](https://arxiv.org/pdf/2506.00641.pdf)
 * [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents](https://arxiv.org/pdf/2406.13352.pdf)
+* [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents](https://arxiv.org/pdf/2406.13352.pdf) | arXiv, 2024
 * [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://openreview.net/pdf?id=AC5n7xHuR1)
+* [AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents](https://arxiv.org/pdf/2410.09024.pdf) | arXiv, 2024
 * [Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges](https://arxiv.org/pdf/2510.23883.pdf)
 * [Agentic AI: Autonomy, Accountability, and the Algorithmic Society](https://arxiv.org/pdf/2502.00289.pdf)
+* [Agentic AI: Autonomy, Accountability, and the Algorithmic Society](https://arxiv.org/pdf/2502.00289.pdf) | arXiv, 2025
 * [Agents of Chaos](https://arxiv.org/pdf/2602.20021)
+* [AGENTSAFE: A Unified Framework for Ethical Assurance and Governance in Agentic AI](https://arxiv.org/pdf/2512.03180.pdf) | arXiv, 2025
 * [Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/pdf/2412.14470.pdf)
+* [Agent-SafetyBench: Evaluating the Safety of LLM Agents](https://arxiv.org/pdf/2412.14470.pdf) | arXiv, 2024
 * [AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification](https://arxiv.org/pdf/2602.22724.pdf)
 * [AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways](https://arxiv.org/pdf/2406.02630.pdf)
+* [Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives](https://arxiv.org/pdf/2506.09656.pdf) | arXiv, 2025
+* [Can We Trust AI Agents? A Case Study of an LLM-Based Multi-Agent System for Ethical AI](https://arxiv.org/pdf/2411.08881.pdf) | arXiv, 2024
+* [Cooperation as a Black Box: Conceptual Fluctuation and Diagnostic Tools for Misalignment in MAS](https://arxiv.org/pdf/2506.22876.pdf) | arXiv, 2025
+* [DataGovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows](https://arxiv.org/pdf/2512.04416.pdf) | arXiv, 2025
 * [Decentralized Governance of Autonomous AI Agents](https://arxiv.org/pdf/2412.17114.pdf)
 * [Design Patterns for Securing LLM Agents against Prompt Injections](https://arxiv.org/pdf/2506.08837.pdf)
+* [Evaluating LLM Agent Adherence to Hierarchical Safety Principles: A Lightweight Benchmark for Probing Foundational Controllability Components](https://arxiv.org/pdf/2506.02357.pdf) | arXiv, 2025
 * [Fairness in Agentic AI: A Unified Framework for Ethical and Equitable Multi-Agent System](https://arxiv.org/pdf/2502.07254.pdf)
+* [Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework](https://arxiv.org/pdf/2603.11768.pdf) | arXiv, 2026
+* [InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents](https://arxiv.org/pdf/2403.02691.pdf) | arXiv, 2024
 * [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/pdf/2404.08144.pdf)
 * [Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree](https://arxiv.org/pdf/2507.14799.pdf)
 * [MI9: An Integrated Runtime Governance Framework for Agentic AI](https://arxiv.org/pdf/2508.03858.pdf)
+* [Multi-Agent Systems Should be Treated as Principal-Agent Problems](https://arxiv.org/pdf/2601.23211.pdf) | arXiv, 2026
 * [Practices for Governing Agentic AI Systems](https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf)
+* [Prompt Injection Attack to Tool Selection in LLM Agents](https://arxiv.org/pdf/2504.19793.pdf) | arXiv, 2025
 * [Quantifying Misalignment Between Agents: Towards a Sociotechnical Understanding of Alignment](https://arxiv.org/pdf/2406.04231.pdf)
 * [RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments](https://arxiv.org/pdf/2506.15253.pdf)
 * [R-Judge: Benchmarking Safety Risk Awareness for LLM Agents](https://arxiv.org/pdf/2401.10019.pdf)
 * [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/pdf/2412.13178.pdf)
+* [SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents](https://arxiv.org/pdf/2509.25885.pdf) | arXiv, 2025
 * [SAGA: A Security Architecture for Governing AI Agentic Systems](https://arxiv.org/pdf/2504.21034.pdf)
 * [Silent Egress: When Implicit Prompt Injection Makes LLM Agents Leak Without a Trace](https://arxiv.org/pdf/2602.22450.pdf)
+* [Socially-Weighted Alignment: A Game-Theoretic Framework for Multi-Agent LLM Systems](https://arxiv.org/pdf/2602.14471.pdf) | arXiv, 2026
 * [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/pdf/2406.01637.pdf)
+* [The 2025 AI Agent Index: Documenting Technical and Safety Features of Deployed Agentic AI Systems](https://arxiv.org/pdf/2602.17753.pdf) | arXiv, 2026
 * [The Coming Crisis of Multi-Agent Misalignment: AI Alignment Must Be a Dynamic and Social Process](https://arxiv.org/pdf/2506.01080.pdf)
+* [The Controllability Trap: A Governance Framework for Military AI Agents](https://arxiv.org/pdf/2603.03515.pdf) | arXiv, 2026
 * [The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis](https://arxiv.org/pdf/2602.10453.pdf)
 * [TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems](https://arxiv.org/pdf/2506.04133.pdf)
 * [Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation](https://arxiv.org/pdf/2508.14031.pdf)
 * [With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems](https://arxiv.org/pdf/2512.22211.pdf)
+
 
 ### Critiques of AI
 
