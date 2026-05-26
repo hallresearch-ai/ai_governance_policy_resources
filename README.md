@@ -34,6 +34,12 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
 
 ### University Policies and Guidance
 
+This section collects institutional policies, teaching guidance, academic integrity materials, syllabus guidance, assessment policies, and university-level statements on the use of AI in educational settings.
+
+These resources are included here because they function as governance materials: they shape how institutions regulate, permit, disclose, restrict, or evaluate AI use in teaching and learning.
+
+For courses, curricula, tutorials, and educational materials designed to teach AI assessment, responsible machine learning, AI safety, or implementation practice, see the companion branch: [AI Assessment and Implementation Resources](https://github.com/hallresearch-ai/ai_assessment_implementation_resources).
+
 * [Brown University, Classroom Policies for AI Generative Tools](https://sheridan.brown.edu/sites/default/files/2023-09/Classroom-Policies-for-AI-Generative-Tools.pdf)
 * [Cal Poly, Syllabus Statements: AI Core Values and Syllabus Statements](https://ctlt.calpoly.edu/syllabus-statements-ai-core-values-and-syllabus-statements)
 * [Carnegie Mellon University, Generative Artificial Intelligence (AI) (Computing Services)](https://www.cmu.edu/computing/services/ai/)
