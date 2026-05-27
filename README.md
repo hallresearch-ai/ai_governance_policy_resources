@@ -1,12 +1,12 @@
 # HallResearch.ai Library of AI Governance and Policy Resources
 
-This repository is one of the two main branches of the [HallResearch.ai Library](https://hallresearch.ai/), a curated public collection of resources for understanding, governing, assessing, and implementing artificial intelligence systems.
+This repository is one of the two main branches of the [HallResearch.ai Library](https://github.com/hallresearch-ai), a curated public collection of resources for understanding, governing, assessing, and implementing artificial intelligence systems.
 
 Use this branch for materials related to AI governance, public policy, legal materials, institutional guidance, incidents, accountability, labor, civil society critique, and the social consequences of AI deployment.
 
 For resources focused on responsible machine learning assessment, implementation practice, evaluation, auditing, testing, tooling, documentation, and education, visit the companion branch: [AI Assessment and Implementation Resources](https://github.com/hallresearch-ai/ai_assessment_implementation_resources).
 
-For the full Library index, visit the [HallResearch.ai Library](https://hallresearch.ai/) or the [HallResearch.ai GitHub organization](https://github.com/hallresearch-ai).
+For the full Library index, visit the [HallResearch.ai Library](https://github.com/hallresearch-ai).
 
 Maintained by Patrick Hall and Daniel Atherton. Maintenance and curation are sponsored by [HallResearch.ai](https://hallresearch.ai/).
 
