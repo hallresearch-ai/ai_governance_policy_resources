@@ -14,25 +14,35 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
 
 ## Contents
 
-- [Governance and Policy Guidance](#governance-and-policy-guidance)
-  - [University Policies and Guidance](#university-policies-and-guidance)
-  - [Official Policy, Frameworks, and Guidance](#official-policy-frameworks-and-guidance)
+- [Institutional AI Governance](#institutional-ai-governance)
+  - [University Policies and Teaching Guidance](#university-policies-and-teaching-guidance)
+- [Government and Multilateral AI Policy Guidance](#government-and-multilateral-ai-policy-guidance)
+  - [National and Regional Government Guidance](#national-and-regional-government-guidance)
+  - [International and Multilateral Frameworks](#international-and-multilateral-frameworks)
+- [Legal and Regulatory Materials](#legal-and-regulatory-materials)
   - [Documents in Legal Genres](#documents-in-legal-genres)
-- [AI Incidents, Accountability, and Critique](#ai-incidents-accountability-and-critique)
-  - [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
   - [AI Law, Policy, and Guidance Trackers](#ai-law-policy-and-guidance-trackers)
+- [AI Incidents and Accountability](#ai-incidents-and-accountability)
+  - [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
+  - [Bibliography of Papers on AI Incidents and Failures](#bibliography-of-papers-on-ai-incidents-and-failures)
+- [AI, Labor, and Social Impact](#ai-labor-and-social-impact)
   - [AI and Labor Resources](#ai-and-labor-resources)
   - [Responsible and Critical Perspectives on Agentic AI](#responsible-and-critical-perspectives-on-agentic-ai)
   - [Critiques of AI](#critiques-of-ai)
+    - [Environmental Costs of AI](#environmental-costs-of-ai)
+    - [Language Diversity and Resource Gaps](#language-diversity-and-resource-gaps)
+    - [AI Slop and Information Quality](#ai-slop-and-information-quality)
+    - [Measurement Critiques](#measurement-critiques)
+- [Organizations, Bibliographies, and Resource Lists](#organizations-bibliographies-and-resource-lists)
   - [Groups and Organizations](#groups-and-organizations)
   - [Curated Bibliographies](#curated-bibliographies)
   - [List of Lists](#list-of-lists)
 - [Archived Governance Materials](#archived-governance-materials)
-- [Repository Note](#repository-note)
+  - [Archived: Official Policy, Frameworks, and Guidance](#archived-official-policy-frameworks-and-guidance)
 
-## Governance and Policy Guidance
+## Institutional AI Governance
 
-### University Policies and Guidance
+### University Policies and Teaching Guidance
 
 This section collects institutional policies, teaching guidance, academic integrity materials, syllabus guidance, assessment policies, and university-level statements on the use of AI in educational settings.
 
@@ -165,9 +175,11 @@ For courses, curricula, tutorials, and educational materials designed to teach A
 * [Yale University, AI Guidance for Teachers](https://poorvucenter.yale.edu/AIguidance)
 * [Yale University, Guidelines for the Use of Generative AI Tools](https://provost.yale.edu/news/guidelines-use-generative-ai-tools)
 
-### Official Policy, Frameworks, and Guidance
+## Government and Multilateral AI Policy Guidance
 
 This section serves as a repository for policy documents, regulations, guidelines, and recommendations that govern the ethical and responsible use of artificial intelligence and machine learning technologies. From international legal frameworks to specific national laws, the resources cover a broad spectrum of topics such as fairness, privacy, ethics, and governance.
+
+### National and Regional Government Guidance
 
 #### Australia
 
@@ -854,7 +866,7 @@ This section serves as a repository for policy documents, regulations, guideline
  * [AI Guidance Resources](https://wde.instructure.com/courses/826)
  * [Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)
 
-#### International and Multilateral Frameworks
+### International and Multilateral Frameworks
 
 #### ASEAN
 
@@ -1046,6 +1058,8 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Principles for the ethical use of artificial intelligence in the United Nations system](https://unsceb.org/sites/default/files/2023-03/CEB_2022_2_Add.1%20%28AI%20ethics%20principles%29.pdf) | Chief Executives Board for Coordination, 2022-10-27
 * [Terms of Reference and Modalities for the Establishment and Functioning of the Independent International Scientific Panel on Artificial Intelligence and the Global Dialogue on Artificial Intelligence Governance](https://documents.un.org/doc/undoc/ltd/n25/222/68/pdf/n2522268.pdf)
 
+## Legal and Regulatory Materials
+
 ### Documents in Legal Genres
 
 Legislation, litigation, and other legal materials relevant to AI policy and governance.
@@ -1090,52 +1104,6 @@ Legislation, litigation, and other legal materials relevant to AI policy and gov
 * [United States Congress, 118th Congress, S.4769 - VET Artificial Intelligence Act](https://www.congress.gov/bill/118th-congress/senate-bill/4769/text) | 2023-2024
 * [Willis v. Bank National Association as Trustee Igloo Series Trust LLC](https://caselaw.findlaw.com/court/us-dis-crt-n-d-tex-dal-div/117272437.html) | 2025
 
-## AI Incidents, Accountability, and Critique
-
-### AI Incident Information Sharing Resources
-
-This section houses initiatives, networks, repositories, and publications that facilitate collective and interdisciplinary efforts to enhance AI safety. It includes platforms where experts and practitioners come together to share insights, identify potential vulnerabilities, and collaborate on developing robust safeguards for AI systems, including AI incident trackers.
-
-* [AI Incident Database](https://incidentdatabase.ai/) | Responsible AI Collaborative
-* [AI Vulnerability Database](https://avidml.org/) | (AVID)
-* [AIAAIC](https://www.aiaaic.org/)
-* [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
-* [AI Risk Database](https://airisk.io/)
-* [Atlas of AI Risks](https://social-dynamics.net/atlas/)
-* [Brennan Center for Justice, Artificial Intelligence Legislation Tracker](https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker)
-* [EthicalTech@GW, Deepfakes & Democracy Initiative](https://blogs.gwu.edu/law-eti/deepfakes-disinformation-democracy/)
-* [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
-* [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
-* [Mitre's AI Risk Database](https://github.com/mitre-atlas/ai-risk-database) | ![](https://img.shields.io/github/stars/mitre-atlas/ai-risk-database?style=social)
-* [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
-* [Resemble.AI Deepfake Incident Database](https://www.resemble.ai/deepfake-database/)
-* [Verica Open Incident Database](https://www.thevoid.community/) | (VOID)
-
-#### Bibliography of Papers on AI Incidents and Failures
-
-* [A comprehensive taxonomy of hallucinations in Large Language Models](https://arxiv.org/pdf/2508.01781)
-* [AI Ethics Issues in Real World: Evidence from AI Incident Database](https://doi.org/10.48550/arXiv.2206.07635)
-* [Artificial Intelligence Incidents & Ethics: A Narrative Review](https://doi.org/10.54489/ijtim.v2i2.80)
-* [Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures](https://doi.org/10.48550/arXiv.1610.07997)
-* [Center for Countering Digital Hate, YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf) | (CCDH)
-* [Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf) | American Sunlight Project, December 11, 2024
-* [Deployment Corrections: An Incident Response Framework for Frontier AI Models](https://doi.org/10.48550/arXiv.2310.00328)
-* [Exploring Trust With the AI Incident Database](https://doi.org/10.1177/21695067231198084)
-* [Indexing AI Risks with Incidents, Issues, and Variants](https://doi.org/10.48550/arXiv.2211.10384)
-* [Good Systems, Bad Data?: Interpretations of AI Hype and Failures](https://doi.org/10.1002/pra2.275)
-* [Hidden Risks: Artificial Intelligence and Hermeneutic Harm](https://link.springer.com/article/10.1007/s11023-025-09733-0)
-* [How Does AI Fail Us? A Typological Theorization of AI Failures](https://aisel.aisnet.org/icis2023/aiinbus/aiinbus/25/)
-* [New Noodlophile Stealer Distributes Via Fake AI Video Generation Platforms](https://engage.morphisec.com/hubfs/Noodlophile_Ransomware_ThreatAnalysis.pdf) | Morphisec Threat Analysis
-* [Omission and Commission Errors Underlying AI Failures](https://doi.org/10.1007/s00146-022-01585-x)
-* [Ontologies for Reasoning about Failures in AI Systems](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf)
-* [Planning for Natural Language Failures with the AI Playbook](https://doi.org/10.1145/3411764.3445735)
-* [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://arxiv.org/abs/2011.08512)
-* [SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security](https://doi.org/10.1145/3664476.3664510)
-* [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://doi.org/10.48550/arXiv.2407.15685)
-* [Understanding and Avoiding AI Failures: A Practical Guide](https://doi.org/10.3390/philosophies6030053)
-* [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://doi.org/10.1609/aaai.v38i21.30347)
-* [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
-
 ### AI Law, Policy, and Guidance Trackers
 
 This section contains trackers, databases, and repositories of laws, policies, and guidance pertaining to AI.
@@ -1160,6 +1128,54 @@ This section contains trackers, databases, and repositories of laws, policies, a
 * [Regulatory Mapping on Artificial Intelligence in Latin America: Regional AI Public Policy Report](https://www.accessnow.org/wp-content/uploads/2024/07/TRF-LAC-Reporte-Regional-IA-JUN-2024-V3.pdf) | Access Now
 * [The Ethical AI Database](https://www.eaidb.org/)
 * [Tracking international legislation relevant to AI at work](https://www.ifow.org/publications/legislation-tracker) | Institute for the Future of Work
+
+## AI Incidents and Accountability
+
+### AI Incident Information Sharing Resources
+
+This section houses initiatives, networks, repositories, and publications that facilitate collective and interdisciplinary efforts to enhance AI safety. It includes platforms where experts and practitioners come together to share insights, identify potential vulnerabilities, and collaborate on developing robust safeguards for AI systems, including AI incident trackers.
+
+* [AI Incident Database](https://incidentdatabase.ai/) | Responsible AI Collaborative
+* [AI Vulnerability Database](https://avidml.org/) | (AVID)
+* [AIAAIC](https://www.aiaaic.org/)
+* [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
+* [AI Risk Database](https://airisk.io/)
+* [Atlas of AI Risks](https://social-dynamics.net/atlas/)
+* [Brennan Center for Justice, Artificial Intelligence Legislation Tracker](https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker)
+* [EthicalTech@GW, Deepfakes & Democracy Initiative](https://blogs.gwu.edu/law-eti/deepfakes-disinformation-democracy/)
+* [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
+* [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
+* [Mitre's AI Risk Database](https://github.com/mitre-atlas/ai-risk-database) | ![](https://img.shields.io/github/stars/mitre-atlas/ai-risk-database?style=social)
+* [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+* [Resemble.AI Deepfake Incident Database](https://www.resemble.ai/deepfake-database/)
+* [Verica Open Incident Database](https://www.thevoid.community/) | (VOID)
+
+### Bibliography of Papers on AI Incidents and Failures
+
+* [A comprehensive taxonomy of hallucinations in Large Language Models](https://arxiv.org/pdf/2508.01781)
+* [AI Ethics Issues in Real World: Evidence from AI Incident Database](https://doi.org/10.48550/arXiv.2206.07635)
+* [Artificial Intelligence Incidents & Ethics: A Narrative Review](https://doi.org/10.54489/ijtim.v2i2.80)
+* [Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures](https://doi.org/10.48550/arXiv.1610.07997)
+* [Center for Countering Digital Hate, YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf) | (CCDH)
+* [Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf) | American Sunlight Project, December 11, 2024
+* [Deployment Corrections: An Incident Response Framework for Frontier AI Models](https://doi.org/10.48550/arXiv.2310.00328)
+* [Exploring Trust With the AI Incident Database](https://doi.org/10.1177/21695067231198084)
+* [Indexing AI Risks with Incidents, Issues, and Variants](https://doi.org/10.48550/arXiv.2211.10384)
+* [Good Systems, Bad Data?: Interpretations of AI Hype and Failures](https://doi.org/10.1002/pra2.275)
+* [Hidden Risks: Artificial Intelligence and Hermeneutic Harm](https://link.springer.com/article/10.1007/s11023-025-09733-0)
+* [How Does AI Fail Us? A Typological Theorization of AI Failures](https://aisel.aisnet.org/icis2023/aiinbus/aiinbus/25/)
+* [New Noodlophile Stealer Distributes Via Fake AI Video Generation Platforms](https://engage.morphisec.com/hubfs/Noodlophile_Ransomware_ThreatAnalysis.pdf) | Morphisec Threat Analysis
+* [Omission and Commission Errors Underlying AI Failures](https://doi.org/10.1007/s00146-022-01585-x)
+* [Ontologies for Reasoning about Failures in AI Systems](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf)
+* [Planning for Natural Language Failures with the AI Playbook](https://doi.org/10.1145/3411764.3445735)
+* [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://arxiv.org/abs/2011.08512)
+* [SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security](https://doi.org/10.1145/3664476.3664510)
+* [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://doi.org/10.48550/arXiv.2407.15685)
+* [Understanding and Avoiding AI Failures: A Practical Guide](https://doi.org/10.3390/philosophies6030053)
+* [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://doi.org/10.1609/aaai.v38i21.30347)
+* [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
+
+## AI, Labor, and Social Impact
 
 ### AI and Labor Resources
 
@@ -1256,7 +1272,6 @@ This section collects papers on agentic AI with a focus on safety, governance, r
 * [TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems](https://arxiv.org/pdf/2506.04133.pdf)
 * [Unintended Misalignment from Agentic Fine-Tuning: Risks and Mitigation](https://arxiv.org/pdf/2508.14031.pdf)
 * [With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems](https://arxiv.org/pdf/2512.22211.pdf)
-
 
 ### Critiques of AI
 
@@ -1423,7 +1438,7 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Health Care Misinformation: An artificial intelligence challenge for low-resource languages](https://ceur-ws.org/Vol-2884/paper_131.pdf)
 * [The Serendipity of Claude AI: Case of the 13 Low-Resource National Languages of Mali](https://arxiv.org/pdf/2503.03380)
 
-#### AI Slop Genre
+#### AI Slop and Information Quality
 
 * [AI Slop Might Finally Cure Our Internet Addiction](https://www.theatlantic.com/technology/archive/2025/07/ai-slop-internet-addiction/683619/)
 * [Living the Slop Life](https://www.nytimes.com/2025/05/19/style/ai-slop-slop-bowls-shein-slop-hauls.html) | The New York Times, Emma Goldberg, 5/19/2025
@@ -1431,6 +1446,8 @@ This section contains an assortment of papers, articles, essays, and general res
 #### Measurement Critiques
 
 * [The Leaderboard Illusion](https://arxiv.org/pdf/2504.20879)
+
+## Organizations, Bibliographies, and Resource Lists
 
 ### Groups and Organizations
 
@@ -1563,7 +1580,3 @@ For official government files pertaining to responsible AI practices that have b
  * [Aiming for truth, fairness, and equity in your company’s use of AI](https://web.archive.org/web/20250117235232/https://www.ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai) | United States, Federal Trade Commission, Elisa Jillson, April 19, 2021, archived January 17, 2025
 * [Using Artificial Intelligence and Algorithms](https://web.archive.org/web/20240115210007/https://www.ftc.gov/business-guidance/blog/2020/04/using-artificial-intelligence-and-algorithms) | United States, Federal Trade Commission, Andrew Smith, April 8, 2020, archived January 15, 2024
 * [Validation of Employee Selection Procedures](https://web.archive.org/web/20250103095140/https://www.dol.gov/agencies/ofccp/faqs/employee-selection-procedures) | Office of Federal Contract Compliance Programs (archived)
-
-## Repository Note
-
-This split assigns materials oriented toward public governance, legal frameworks, institutional oversight, incidents, accountability, labor, and critique to this repository. The original source file listed “Platforms” in the table of contents, but no standalone “Platforms” heading was present in the source markdown at the time of this split. Update repository-specific contribution, issue, archive, and citation metadata as needed.
