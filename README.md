@@ -1031,9 +1031,23 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Summary of NATO's revised Artificial Intelligence strategy](https://www.nato.int/cps/en/natohq/official_texts_227237.htm) | July 10, 2024
 * [Virtual Manipulation Brief 2025: From War and Fear to Confusion and Uncertainty](https://stratcomcoe.org/publications/download/VMB-Final-5aa5d.pdf) | NATO Strategic Communications Centre of Excellence, June 2, 2025
 
-#### Indigenous and Tribal Governments and Nations
+#### Indigenous, First Nations, and Tribal AI Governance
 
-* [Report of the Artificial Intelligence, Data Sovereignty, and Cybersecurity Task Force](https://www.cherokee.org/media/0ipldvul/task-force-report-on-ai-data-sovereignty-cybersecurity.pdf) | Cherokee Nation, 2025
+This section includes official tribal, First Nations, Indigenous, public-sector, multilateral, and Indigenous-led resources on AI governance, data sovereignty, and related policy questions. Not every item represents an official position of an Indigenous government or nation; some are included because they are widely relevant frameworks, research reports, protocols, or community-led governance resources.
+
+* [Envisioning Aboriginal and Torres Strait Islander AI Futures Communique: March 2025](https://www.journalofglobalindigeneity.com/article/133656-envisioning-aboriginal-and-torres-strait-islander-ai-futures-communique-march-2025) | Journal of Global Indigeneity, 2025
+* [First Nations Principles of OCAP®](https://fnigc.ca/ocap-training/) | First Nations Information Governance Centre
+* [Framework for Governance of Indigenous Data](https://www.niaa.gov.au/resource-centre/framework-governance-indigenous-data) | National Indigenous Australians Agency, 2024
+* [Global Indigenous Data Alliance](https://www.gida-global.org/) | International network advancing Indigenous data sovereignty and governance
+* [Indigenous People-Centered Artificial Intelligence: Perspectives from Latin America and the Caribbean](https://unesdoc.unesco.org/ark:/48223/pf0000387814) | UNESCO, 2023
+* [Indigenous Protocol and Artificial Intelligence Position Paper](https://spectrum.library.concordia.ca/986506/) | Indigenous Protocol and Artificial Intelligence Working Group and Canadian Institute for Advanced Research, 2020
+* [Kaituhi Kaitiakitanga License](https://kaituhi.nz/kaitiakitanga) | Te Reo Irirangi o Te Hiku o Te Ika
+* [Māori AI Governance Framework](https://www.kahuiraraunga.io/maoriaigovernance) | Te Kāhui Raraunga
+* [Principles of Māori Data Sovereignty](https://www.temanararaunga.maori.nz/principles-of-maori-data-sovereignty) | Te Mana Raraunga
+* [Relational Futures: Indigenous Sovereignty and the Governance of Artificial Intelligence](https://researchers.mq.edu.au/en/publications/relational-futures-indigenous-sovereignty-and-the-governance-of-a/) | Bronwyn Carlson and Tamika Worrell, Macquarie University, 2026
+* [Report of the Artificial Intelligence, Data Sovereignty, and Cybersecurity Task Force](https://www.cherokee.org/media/0ipldvul/task-force-report-on-ai-data-sovereignty-cybersecurity.pdf) | Cherokee Nation
+* [The Five Tests: Designing and Evaluating AI According to Indigenous Māori Principles](https://link.springer.com/article/10.1007/s00146-023-01636-x) | Luke Munn, AI & Society, 2024
+* [The Future Impact of Artificial Intelligence on First Nations Communities: Opportunities and Risks](https://first-nations.ai/Full_Report_-_The_Future_Impact_of_AI_on_First_Nations_Communities.pdf) | Kyle Turner, Paul Ramsay Foundation Fellowship Report, 2025
 
 #### United Nations
 
