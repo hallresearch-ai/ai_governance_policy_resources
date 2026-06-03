@@ -1,5 +1,7 @@
 # HallResearch.ai Library of AI Governance and Policy Resources
 
+(c) HallResearch.ai [CC-BY 4.0](LICENSE), some rights reserved.
+
 This repository is one of the two main branches of the [HallResearch.ai Library](https://github.com/hallresearch-ai), a curated public collection of resources for understanding, governing, assessing, and implementing artificial intelligence systems.
 
 Use this branch for materials related to AI governance, public policy, legal materials, institutional guidance, incidents, accountability, labor, civil society critique, and the social consequences of AI deployment.
