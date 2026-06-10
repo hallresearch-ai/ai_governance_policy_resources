@@ -325,9 +325,63 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Japan
 
+* National strategy, legislation, and AI governance principles
+  * [Social Principles of Human-Centric AI](https://www8.cao.go.jp/cstp/english/humancentricai.pdf) | Integrated Innovation Strategy Promotion Council, March 2019
+  * [AI Strategy](https://www8.cao.go.jp/cstp/ai/index.html) | Cabinet Office
+  * [AI Strategy 2019](https://www8.cao.go.jp/cstp/ai/aistratagy2019en.pdf) | Cabinet Office, June 2019
+  * [AI Strategy 2022](https://www8.cao.go.jp/cstp/ai/aistratagy2022en.pdf) | Cabinet Office, April 2022
+  * [Act on Promotion of Research and Development, and Utilization of Artificial Intelligence-Related Technology](https://www.japaneselawtranslation.go.jp/en/laws/view/5066/en) | Japanese Law Translation, Act No. 53 of 2025
+    * [Outline of the Act on Promotion of Research and Development, and Utilization of AI-related Technology](https://www.japaneselawtranslation.go.jp/outline/168/905R744.pdf) | Japanese Law Translation, established May 28, 2025; enforced June 4, 2025
+  * [Interim Report](https://www8.cao.go.jp/cstp/ai/interim_report_en.pdf) | AI Strategy Council and AI Institutional Research Group, February 4, 2025
+  * [Guideline for Ensuring the Appropriateness of Research & Development and Utilization of AI-related Technology](https://www8.cao.go.jp/cstp/ai/ai_guideline/ai_gl_eng_20260116.pdf) | AI Strategic Headquarters, December 19, 2025
+  * [Artificial Intelligence Basic Plan](https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_eng_20260116.pdf) | AI Strategic Headquarters, December 2025
+    * [Summary of Japan's AI Basic Plan](https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_g_en_20260330.pdf) | AI Strategic Headquarters
+
+* Cross-government and business AI governance guidance
+  * [AI Guidelines for Business Ver. 1.2](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20260331_12.pdf) | Ministry of Internal Affairs and Communications and Ministry of Economy, Trade and Industry, provisional translation, March 31, 2026
+    * [AI Guidelines for Business Appendix Ver. 1.2](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20260331_14.pdf) | Ministry of Internal Affairs and Communications and Ministry of Economy, Trade and Industry, provisional translation, March 31, 2026
+  * [Governance Guidelines for Implementation of AI Principles Ver. 1.1](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20220128_2.pdf) | Ministry of Economy, Trade and Industry, January 28, 2022
+  * [AI Governance in Japan Ver. 1.1](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20210709_8.pdf) | Ministry of Economy, Trade and Industry, July 2021
+  * [Draft AI R&D Guidelines for International Discussions](https://www.soumu.go.jp/main_content/000507517.pdf) | Ministry of Internal Affairs and Communications, Conference toward AI Network Society, July 28, 2017
+  * [AI Utilization Guidelines: Practical Reference for AI Utilization](https://www.soumu.go.jp/main_content/000658284.pdf) | Ministry of Internal Affairs and Communications, Conference toward AI Network Society, August 9, 2019
+
+* Government use, public-sector procurement, and local government implementation
+  * [The Guideline for Japanese Governments' Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration](https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/e2a06143-ed29-4f1d-9c31-0f06fca67afc/6e45a64f/20250527_resources_standard_guidelines_guideline_04.pdf) | Digital Agency, Ministry of Economy, Trade and Industry, and Ministry of Internal Affairs and Communications, provisional translation, May 27, 2025; updated June 13, 2025
+  * [Guidebook for Countering Risks of Using Text-Generating AI (α Version)](https://www.digital.go.jp/en/resources/generalitve-ai-guidebook) | Digital Agency, June 2025
+  * [自治体におけるAI活用・導入ガイドブック＜導入手順編＞](https://www.soumu.go.jp/main_content/000820109.pdf) | Guidebook for AI Use and Introduction in Local Governments: Implementation Procedures | Ministry of Internal Affairs and Communications, 4th edition, December 2025
+  * [生成AIはじめの一歩〜生成AIの入門的な使い方と注意点〜](https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/) | First Steps in Generative AI: Introductory Uses and Points to Note | Ministry of Internal Affairs and Communications, April 2024
+  * [AIのセキュリティ確保のための技術的対策に係るガイドライン](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html) | Guidelines on Technical Measures for Ensuring AI Security | Ministry of Internal Affairs and Communications, March 2026
+  * [生成AIの導入・活用に向けた実践ハンドブック](https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/c1890510-04d4-497b-9e23-a7f514016c7d/04f2c133/20250709_councils_kodomo_seisaku_DX_40.pdf) | Practical Handbook for the Introduction and Use of Generative AI | Children and Families Agency, March 2025
+
+* Privacy, intellectual property, copyright, and contracts
+  * [生成AIサービスの利用に関する注意喚起等](https://www.ppc.go.jp/files/pdf/230602_alert_generative_AI_service.pdf) | Alert on the Use of Generative AI Services | Personal Information Protection Commission, June 2, 2023
+  * [AIと著作権について](https://www.bunka.go.jp/seisaku/chosakuken/aiandcopyright.html) | AI and Copyright | Agency for Cultural Affairs
+  * [AI時代の知的財産権検討会 中間とりまとめ](https://www.cas.go.jp/jp/seisakukaigi/titeki2/chitekizaisan2024/0528_ai.pdf) | Interim Summary of the Study Group on Intellectual Property Rights in the AI Era | Cabinet Office, Intellectual Property Strategy Headquarters, May 2024
+  * [AI利活用における民事責任の解釈適用に関する手引き](https://www.meti.go.jp/policy/mono_info_service/connected_industries/sharing_and_utilization/20260409001-1.pdf) | Handbook on the Interpretation and Application of Civil Liability in AI Use | Ministry of Economy, Trade and Industry, Version 1.0, April 2026
+  * [AIの利用・開発に関する契約チェックリスト](https://www.meti.go.jp/policy/mono_info_service/connected_industries/sharing_and_utilization/20250218003-ar.pdf) | Contract Checklist for the Use and Development of AI | Ministry of Economy, Trade and Industry, February 2025
+  * [AI・データの利用に関する契約ガイドライン 1.1版](https://www.meti.go.jp/policy/mono_info_service/connected_industries/sharing_and_utilization/20200619001.pdf) | Contract Guidelines on the Use of AI and Data, Version 1.1 | Ministry of Economy, Trade and Industry, December 2019
+  * [AI・データの利用に関する契約ガイドライン AI編](https://www.meti.go.jp/policy/mono_info_service/connected_industries/sharing_and_utilization/20180615001-3.pdf) | Contract Guidelines on the Use of AI and Data: AI Edition | Ministry of Economy, Trade and Industry, June 2018
+
+* Education, research, and literacy
+  * [Guideline for the Use of Generative AI in Elementary and Secondary Education](https://www.mext.go.jp/zyoukatsu/ai/moral-ai/assets/pdf/20260324.pdf) | Ministry of Education, Culture, Sports, Science and Technology, Version 2.0
+  * [初等中等教育段階における生成AIの利活用に関するガイドライン](https://www.mext.go.jp/content/20241226-mxt_shuukyo02-000030823_001.pdf) | Guidelines on the Use of Generative AI in Elementary and Secondary Education | Ministry of Education, Culture, Sports, Science and Technology, Version 2.0, December 26, 2024
+  * [学校現場における生成AIの利用について](https://www.mext.go.jp/zyoukatsu/ai/) | Use of Generative AI in Schools | Ministry of Education, Culture, Sports, Science and Technology
+  * [大学・高専における生成AIの教学面の取扱いについて](https://www.mext.go.jp/b_menu/houdou/2023/mext_01260.html) | Treatment of Generative AI in Teaching and Learning at Universities and Colleges of Technology | Ministry of Education, Culture, Sports, Science and Technology, July 13, 2023
+
+* Sector-specific AI guidance
+  * [コンテンツ制作のための生成AI利活用ガイドブック](https://www.meti.go.jp/policy/mono_info_service/contents/aiguidebook.html) | Guidebook on the Use of Generative AI for Content Production | Ministry of Economy, Trade and Industry, July 2024
+  * [医療デジタルデータのAI研究開発等への利活用に係るガイドライン](https://www.mhlw.go.jp/content/001310044.pdf) | Guidelines on the Use of Medical Digital Data for AI Research and Development | Ministry of Health, Labour and Welfare, March 31, 2024
+  * [Report on AI-based Software as a Medical Device (SaMD)](https://www.pmda.go.jp/files/000266100.pdf) | Pharmaceuticals and Medical Devices Agency, August 28, 2023
+  * [Subcommittee on Software as a Medical Device Utilizing AI and Machine Learning](https://www.pmda.go.jp/english/rs-sb-std/sb/subcommittees/0023.html) | Pharmaceuticals and Medical Devices Agency
+  * [農業分野におけるAI・データに関する契約ガイドライン](https://www.maff.go.jp/j/kanbo/tizai/brand/keiyaku.html) | Contract Guidelines on AI and Data in the Agricultural Sector | Ministry of Agriculture, Forestry and Fisheries, March 2020
+  * [プラント保安分野におけるAI信頼性評価ガイドライン](https://www.fdma.go.jp/relocation/neuter/topics/fieldList4_16/jisyuhoan_shiryo.html) | Guidelines for Evaluating AI Reliability in Plant Safety | Fire and Disaster Management Agency, Ministry of Health, Labour and Welfare, and Ministry of Economy, Trade and Industry, March 2021
+
 * Japan AI Safety Institute
-  * [Guide to Evaluation Perspectives on AI Safety](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.01_en.pdf) | (Version 1.01), September 25, 2024
-  * [Guide to Red Teaming Methodology on AI Safety](https://aisi.go.jp/assets/pdf/ai_safety_RT_v1.00_en.pdf) | (Version 1.00), September 25, 2024
+  * [Guide to Evaluation Perspectives on AI Safety](https://aisi.go.jp/assets/pdf/ai_safety_eval_v1.10_en.pdf) | Japan AI Safety Institute, Version 1.10, March 28, 2025
+  * [Guide to Red Teaming Methodology on AI Safety](https://aisi.go.jp/assets/pdf/E1_ai_safety_RT_v1.10_en.pdf) | Japan AI Safety Institute, Version 1.10, March 31, 2025
+  * [Data Quality Management Guidebook](https://aisi.go.jp/assets/pdf/251202_Data_quality_management_guidebook.pdf) | Japan AI Safety Institute, December 2, 2025
+  * [National Status Report on AI Safety in Japan 2025](https://aisi.go.jp/assets/pdf/j-aisi_report_2025_en.pdf) | Japan AI Safety Institute, 2025
+  * [Factsheet of AI Safety in Japan 2025](https://aisi.go.jp/assets/pdf/j-aisi_factsheet_2025_en.pdf) | Japan AI Safety Institute, 2025
  
 #### Kenya
 
