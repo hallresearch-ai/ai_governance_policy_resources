@@ -387,8 +387,6 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Philippines
 
-#### Philippines
-
 * [Artificial Intelligence Roadmap](https://pcieerd.dost.gov.ph/wp-content/uploads/2026/01/Artificial_Intelligence_Roadmap_Dec15.pdf) | Department of Science and Technology, Philippine Council for Industry, Energy and Emerging Technology Research and Development, updated September 2025
 * [Guidelines on Artificial Intelligence Systems Processing Personal Data](https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf) | National Privacy Commission, Advisory No. 2024-04, December 19, 2024
 * [Principles and Guidelines for an Ethical and Trustworthy Use of Artificial Intelligence (AI) in the Government](https://ictstatistics.dict.gov.ph/wp-content/uploads/2024/05/DRAFT-COPY_JMC-on-the-Principles-for-an-Ethical-and-Trustworthy-Use-of-Artificial-Intelligence-AI-in-Government.pdf) | Department of Information and Communications Technology and Civil Service Commission, draft Joint Memorandum Circular, April 18, 2024
