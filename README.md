@@ -387,11 +387,17 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Philippines
 
+* [Artificial Intelligence Governance and Advancement Ordinance](https://www2.naga.gov.ph/proposed-ordinance/nb6_2025-0731-hon-felix-nc-artificial-intelligence-ai-governance-and-advancement-ordinance/) | Naga City, proposed ordinance, 2025
 * [Artificial Intelligence Roadmap](https://pcieerd.dost.gov.ph/wp-content/uploads/2026/01/Artificial_Intelligence_Roadmap_Dec15.pdf) | Department of Science and Technology, Philippine Council for Industry, Energy and Emerging Technology Research and Development, updated September 2025
-* [Guidelines on Artificial Intelligence Systems Processing Personal Data](https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf) | National Privacy Commission, Advisory No. 2024-04, December 19, 2024
+* [Global Trends in the Regulation and Governance of Artificial Intelligence](https://cpbrd.congress.gov.ph/wp-content/uploads/2025/02/DP2025-02-Global_Trends_in_the_Regulation_and_Governance_of_Artificial_Intelligence.pdf) | Congressional Policy and Budget Research Department, Discussion Paper DP2025-02, February 2025
+* [Guidelines on the Application of Republic Act No. 10173 or the Data Privacy Act of 2012 (DPA), Its Implementing Rules and Regulations, and the Issuances of the Commission to Artificial Intelligence Systems Processing Personal Data](https://privacy.gov.ph/wp-content/uploads/2025/02/Advisory-2024.12.19-Guidelines-on-Artificial-Intelligence-w-SGD.pdf) | National Privacy Commission, Advisory No. 2024-04, December 19, 2024
+* [How Ready Are LGUs for AI Adoption?](https://www.pids.gov.ph/publication/discussion-papers/how-ready-are-lgus-for-ai-adoption) | Philippine Institute for Development Studies, Discussion Paper DP 2025-48, December 2025
+* [National Capability-Building Program on Artificial Intelligence for the Philippine Public Sector](https://aicapb.dap.edu.ph/) | Development Academy of the Philippines, 2026
+* [Policy Note on Artificial Intelligence](https://depdev.gov.ph/wp-content/uploads/2025/02/Policy-Note-on-Artificial-Intelligence.pdf) | Department of Economy, Planning, and Development, 2025
 * [Principles and Guidelines for an Ethical and Trustworthy Use of Artificial Intelligence (AI) in the Government](https://ictstatistics.dict.gov.ph/wp-content/uploads/2024/05/DRAFT-COPY_JMC-on-the-Principles-for-an-Ethical-and-Trustworthy-Use-of-Artificial-Intelligence-AI-in-Government.pdf) | Department of Information and Communications Technology and Civil Service Commission, draft Joint Memorandum Circular, April 18, 2024
 * [Project SAPIENS: Thematic Review on the Use of Artificial Intelligence and Machine Learning in Philippine Financial Services](https://www.bsp.gov.ph/Media_And_Research/Special%20Publications/BSP_Thematic_Review_on_the_Use_of_AI_and_ML_in_Financial_Services.pdf) | Bangko Sentral ng Pilipinas, Technology Risk and Innovation Supervision Department, 2024
 * [Proposed Governance Framework on the Use of Human-Centered Augmented Intelligence in the Judiciary](https://sc.judiciary.gov.ph/wp-content/uploads/2026/03/AM-NO-25-11-28-SC.pdf) | Supreme Court of the Philippines, A.M. No. 25-11-28-SC, February 18, 2025
+
 
 #### Sierra Leone
 
