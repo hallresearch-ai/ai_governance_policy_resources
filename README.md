@@ -382,8 +382,73 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Norway
 
-* [Artificial Intelligence and Democratic Elections — International Experiences and National Recommendations](https://www.regjeringen.no/contentassets/23f8fd1726634f589724d96b49fe994c/en_rapport-ekspertgruppe-ki-og-valg.pdf) | Ministry of Local Government and Regional Development, Expert Group on Artificial Intelligence and Elections, February 2025
-* [National Strategy for Artificial Intelligence](https://www.regjeringen.no/contentassets/1febbbb2c4fd4b7d92c67ddd353b6ae8/en-gb/pdfs/ki-strategi_en.pdf) | Ministry of Local Government and Modernisation
+* National strategy, legislation, and cross-government implementation
+  * [National Strategy for Artificial Intelligence](https://www.regjeringen.no/contentassets/1febbbb2c4fd4b7d92c67ddd353b6ae8/en-gb/pdfs/ki-strategi_en.pdf) | Ministry of Local Government and Modernisation
+  * [Fremtidens digitale Norge: Nasjonal digitaliseringsstrategi 2024–2030](https://www.regjeringen.no/contentassets/c499c3b6c93740bd989c43d886f65924/no/pdfs/nasjonal-digitaliseringsstrategi_ny.pdf) | Digitaliserings- og forvaltningsdepartementet, 2024
+  * [Forordning om kunstig intelligens (KI-forordningen)](https://www.regjeringen.no/no/sub/eos-notatbasen/notatene/2021/juni/forslag-til-forordning-om-kunstig-intelligens-ki-forordningen/id2884935/) | Regjeringen.no, EØS-notatbasen
+  * [Høring – utkast til ny lov om kunstig intelligens – gjennomføring av EUs forordning om kunstig intelligens i norsk rett](https://www.regjeringen.no/id3112327/) | Digitaliserings- og forvaltningsdepartementet, consultation, June 30, 2025
+    * [Høringsnotat: Utkast til ny lov om kunstig intelligens (KI-loven)](https://www.regjeringen.no/contentassets/e823dc21809c43f2b4ba9ff1e389e245/horingsnotat-utkast-til-ki-lov131652.pdf) | Digitaliserings- og forvaltningsdepartementet, 2025
+  * [KI-assistenter i arbeidslivet – en praktisk guide](https://www.regjeringen.no/contentassets/6332353676204e90a0ab94f9c968f967/no/pdfs/veileder-til-bruk-av-ki-assistenter.pdf) | Digitaliserings- og forvaltningsdepartementet, June 2025
+
+* Public-sector implementation, procurement, and transparency
+  * [Veiledning for KI i offentlig sektor](https://www.digdir.no/kunstig-intelligens/veiledning-ki-i-offentlig-sektor/4132) | Digitaliseringsdirektoratet
+  * [Bruk av generativ KI](https://www.digdir.no/kunstig-intelligens/bruk-av-generativ-ki/4670) | Digitaliseringsdirektoratet
+  * [Anskaffelse av generativ KI](https://www.digdir.no/kunstig-intelligens/anskaffelse-av-generativ-ki/7546) | Digitaliseringsdirektoratet
+  * [Åpenhet og kunstig intelligens](https://www.digdir.no/kunstig-intelligens/apenhet-og-kunstig-intelligens/4581) | Digitaliseringsdirektoratet
+  * [KI-ressurser](https://www.digdir.no/kunstig-intelligens/ki-ressurser/4145) | Digitaliseringsdirektoratet
+  * [Fagforum for KI i offentlig sektor](https://www.digdir.no/kunstig-intelligens/fagforum-ki-i-offentlig-sektor/4135) | Digitaliseringsdirektoratet
+  * [Kunstig intelligens](https://markedsplassen.anskaffelser.no/kunnskap-og-veiledning/kunstig-intelligens) | DFØ, Markedsplassen for skytjenester
+
+* Privacy, transparency, and data protection
+  * [Kunstig intelligens og personvern](https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/kunstig-intelligens/) | Datatilsynet
+  * [Anbefalinger for godt personvern i utvikling og bruk av kunstig intelligens](https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/kunstig-intelligens/anbefalinger/) | Datatilsynet
+  * [Verktøy og metoder for godt personvern i kunstig intelligens](https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/kunstig-intelligens/verktoy-og-metoder/) | Datatilsynet
+  * [Å lykkes med åpenhet: Hvordan informere om bruk av kunstig intelligens?](https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/a-lykkes-med-apenhet-hvordan-informere-om-bruk-av-kunstig-intelligens/) | Datatilsynet, regulatory sandbox report
+  * [Huskeliste for god åpenhet ved bruk av kunstig intelligens](https://www.datatilsynet.no/regelverk-og-verktoy/rapporter-og-utredninger/rapporter-fra-sandkassa/a-lykkes-med-apenhet-hvordan-informere-om-bruk-av-kunstig-intelligens/huskeliste-for-god-apenhet-ved-bruk-av-ki/) | Datatilsynet
+
+* Elections, democracy, and public trust
+  * [Artificial Intelligence and Democratic Elections — International Experiences and National Recommendations](https://www.regjeringen.no/contentassets/23f8fd1726634f589724d96b49fe994c/en_rapport-ekspertgruppe-ki-og-valg.pdf) | Ministry of Local Government and Regional Development, Expert Group on Artificial Intelligence and Elections, February 2025
+
+* Health and care
+  * [Kunstig intelligens](https://www.helsedirektoratet.no/tema/kunstig-intelligens) | Helsedirektoratet
+  * [Tverretatlig veiledningstjeneste for kunstig intelligens](https://www.helsedirektoratet.no/digitalisering-og-e-helse/kunstig-intelligens/tverretatlig-veiledningstjeneste) | Helsedirektoratet
+  * [Regelverket for utvikling av kunstig intelligens](https://www.helsedirektoratet.no/rundskriv/regelverket-for-utvikling-av-kunstig-intelligens) | Helsedirektoratet, circular
+  * [Rapport om kvalitetssikring: Bruk av kunstig intelligens i helse- og omsorgstjenesten](https://www.helsedirektoratet.no/rapporter/rapport-om-kvalitetssikring-bruk-av-kunstig-intelligens-i-helse-og-omsorgstjenesten) | Helsedirektoratet, January 2025
+  * [Felles KI-plan for trygg og effektiv bruk av KI i helse og omsorgssektoren 2024–2025](https://www.helsedirektoratet.no/om-oss/rad-og-utvalg/nasjonalt-e-helserad/_/attachment/inline/8547db16-56d9-4e53-900b-253a93053538%3Ab6a9508d18f7467e1ddf6d5e2374808a6a3eb477/Vedlegg%205A%20Sak%201523%20Felles%20KI-plan%20v07.pdf) | Helsedirektoratet, 2024
+  * [Status og forslag til videre arbeid med kunstig intelligens (KI) i helse- og omsorgstjenesten](https://www.helsedirektoratet.no/rapporter/status-og-forslag-til-videre-arbeid-med-kunstig-intelligens-ki-i-helse-og-omsorgstjenesten) | Helsedirektoratet
+  * [Utredning om bruk av kunstig intelligens i helsesektoren](https://www.helsedirektoratet.no/rapporter/utredning-om-bruk-av-kunstig-intelligens-i-helsesektoren/Utredning%20om%20bruk%20av%20kunstig%20intelligens%20i%20helsesektoren%20%28PDF%29.pdf) | Helsedirektoratet
+  * [Behov for data til kunstig intelligens i helsetjenesten](https://www.helsedirektoratet.no/rapporter/Behov%20for%20data%20til%20kunstig%20intelligens%20i%20helsetjenesten) | Helsedirektoratet, 2022
+  * [Tilrettelegging for bruk av kunstig intelligens i helsetjenesten](https://www.helsedirektoratet.no/rapporter/tilrettelegging-for-bruk-av-kunstig-intelligens-i-helsesektoren-ny-01.10.2021/) | Helsedirektoratet, October 2021
+
+* Education and research
+  * [Kunstig intelligens i skolen](https://www.udir.no/kvalitet-og-kompetanse/digitalisering-skole/kunstig-intelligens-ki-i-skolen/) | Utdanningsdirektoratet
+  * [Råd om kunstig intelligens i skolen](https://www.udir.no/kvalitet-og-kompetanse/digitalisering-skole/kunstig-intelligens-ki-i-skolen/kunstig-intelligens-ki-i-skolen/) | Utdanningsdirektoratet
+  * [Ta hensyn til personvernet ved bruk av KI](https://www.udir.no/kvalitet-og-kompetanse/digitalisering-skole/kunstig-intelligens-ki-i-skolen/personvern-ki/) | Utdanningsdirektoratet
+  * [Alderstilpasset bruk av KI](https://www.udir.no/kvalitet-og-kompetanse/digitalisering-skole/kunstig-intelligens-ki-i-skolen/alderstilpasning/) | Utdanningsdirektoratet
+  * [KI-forordningen kort fortalt: Betydningen av nytt EU-regelverk om kunstig intelligens for høyere utdanning og forskning](https://hkdir.no/rapporter-undersokelser-og-statistikk/ki-forordningen-kort-fortalt-betydningen-av-nytt-eu-regelverk-om-kunstig-intelligens-for-hoyere-utdanning-og-forskning) | Direktoratet for høyere utdanning og kompetanse, February 2026
+  * [Foreløpige vurderinger: Notat fra utvalget om KI i høyere utdanning](https://files.nettsteder.regjeringen.no/wpuploads01/sites/589/2025/12/Forelopige-vurderinger-notat-fra-utvalget-om-KI-i-hoyere-utdanning.pdf) | Utvalget om kunstig intelligens i høyere utdanning, 2025
+
+* Public-sector oversight and institutional readiness
+  * [Bruk av kunstig intelligens i staten](https://www.riksrevisjonen.no/rapporter-mappe/no-2023-2024/bruk-av-kunstig-intelligens-i-staten/) | Riksrevisjonen, Dokument 3:18 (2023–2024), September 2024
+
+* Cybersecurity, policing, and national risk
+  * [Generativ kunstig intelligens og cyberkriminalitet](https://www.politiet.no/globalassets/tall-og-fakta/datakriminalitet/etterretningsrapport-generativ-kunstig-intelligens-kripos.pdf) | Kripos, August 2023
+  * [Risiko 2024](https://nsm.no/getfile.php/1313477-1719434219/NSM/Filer/Dokumenter/Rapporter/Risiko%202024.pdf) | Nasjonal sikkerhetsmyndighet, 2024
+  * [Risiko 2025](https://nsm.no/getfile.php/1314212-1738741587/NSM/Filer/Dokumenter/Rapporter/Risiko%202025.pdf) | Nasjonal sikkerhetsmyndighet, 2025
+  * [Risiko 2026](https://nsm.no/getfile.php/1314962-1770630853/NSM/Filer/Dokumenter/Rapporter/Risiko%202026.pdf) | Nasjonal sikkerhetsmyndighet, 2026
+
+* Consumer protection, financial oversight, and public investment
+  * [Ofte stilte spørsmål om retusjert reklame](https://www.forbrukertilsynet.no/vi-jobber-med/merking-av-retusjert-reklame/ofte-stilte-sporsmal-om-retusjert-reklame) | Forbrukertilsynet
+  * [Prissetting ved bruk av Google Automated Discounts](https://www.forbrukertilsynet.no/vi-jobber-med/prismarkedsforing/prissetting-ved-bruk-av-google-automated-discounts) | Forbrukertilsynet, 2025
+  * [Risiko- og sårbarhetsanalyse 2025](https://www.finanstilsynet.no/publikasjoner-og-analyser/risiko--og-sarbarhetsanalyse/risiko--og-sarbarhetsanalyse-2025/ros-2025/risiko--og-sarbarhetsanalyse-ros-2025/) | Finanstilsynet, 2025
+  * [Responsible Artificial Intelligence](https://www.nbim.no/en/news-and-insights/our-views/2023/responsible-artificial-intelligence/) | Norges Bank Investment Management, 2023
+
+* Policy-advisory reports
+  * [Generativ kunstig intelligens i Norge](https://teknologiradet.no/publication/generativ-kunstig-intelligens-i-norge/) | Teknologirådet
+  * [Kunstig intelligens i offentlige tjenester](https://teknologiradet.no/publication/innbyggerverksted-kunstig-intelligens-i-offentlige-tjenester/) | Teknologirådet
+  * [Kunstig intelligens i kunnskapsarbeid](https://teknologiradet.no/publication/kunstig-intelligens-i-kunnskapsarbeid/) | Teknologirådet, 2026
+  * [Kunstig intelligens, knappe ressurser og klimaomstilling](https://teknologiradet.no/publication/kunstig-intelligens-knappe-ressurser-og-klimaomstilling/) | Teknologirådet
+  * [Kunstig intelligens – muligheter, utfordringer og en plan for Norge](https://teknologiradet.no/publication/kunstig-intelligens-norge/) | Teknologirådet
 
 #### Philippines
 
