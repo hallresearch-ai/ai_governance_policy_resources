@@ -659,56 +659,98 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Fiscal Year 2025-2026 AI Strategy](https://www.usda.gov/sites/default/files/documents/fy-2025-2026-usda-ai-strategy.pdf)
 
 **Department of Commerce**
-* [Artificial intelligence](https://www.commerce.gov/issues/artificial-intelligence)
-* [Bureau of Industry and Security](https://www.bis.gov/)
-  * [Department of Commerce Rescinds Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls](https://media.bis.gov/sites/default/files/documents/05.07%20Recission%20of%20AI%20Diffusion%20Press%20Release.pdf) | Bureau of Industry and Security, May 12, 2025
-  * [Framework for Artificial Intelligence Diffusion](https://public-inspection.federalregister.gov/2025-00636.pdf)
-* [Evaluation of DeepSeek AI Models](https://www.nist.gov/system/files/documents/2025/09/30/CAISI_Evaluation_of_DeepSeek_AI_Models.pdf) | Center for AI Standards and Innovation, September 30, 2025
-* [Intellectual property](https://www.commerce.gov/issues/intellectual-property)
-* [National Telecommunications and Information Administration](https://www.ntia.gov/) | (NTIA)
-  * [AI Accountability Policy Report](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report)
-  * [AI System Documentation](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report/developing-accountability-inputs-a-deeper-dive/information-flow/ai-system-documentation)
-  * [Internet Policy Task Force, Commercial Data Privacy and Innovation in the Internet Economy: A Dynamic Policy Framework](https://www.ntia.doc.gov/files/ntia/publications/iptf_privacy_greenpaper_12162010.pdf)
-  * [NTIA Artificial Intelligence Accountability Policy Report](https://www.ntia.gov/sites/default/files/publications/ntia-ai-report-final.pdf) | March 2024
-* [National Institute of Standards and Technology](https://www.nist.gov/)
-  * [A Possible Approach for Evaluating AI Standards Development](https://nvlpubs.nist.gov/nistpubs/gcr/2026/NIST.GCR.26-069.pdf)
-  * [AI Risk Management Framework Concept Paper](https://www.nist.gov/document/airmfconceptpaper)
-  * [AI Risk Management Framework: Initial Draft](https://www.nist.gov/document/ai-risk-management-framework-initial-draft)
-  * [AI Use Taxonomy: A Human-Centered Approach](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.200-1.pdf) | NIST AI 200-1
-  * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) | NIST AI 100-2e2023
-    * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations updated](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf) | NIST AI 100-2e2025
-  * [Artificial Intelligence Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | NIST AI 100-1 (NIST AI RMF 1.0)
+
+* Department-wide AI governance, use, and open data
+  * [Artificial Intelligence](https://www.commerce.gov/ai) | Department of Commerce
+  * [Artificial Intelligence Use Cases Inventory](https://www.commerce.gov/about/policies/artificial-intelligence-use-cases-inventory) | Department of Commerce
+  * [U.S. Department of Commerce Compliance Plan for OMB Memoranda M-24-10](https://www.commerce.gov/sites/default/files/2024-10/Commerce-Compliance-Plan-for-OMB-Memoranda-M-24-10-September-2024-v1-1.pdf) | Department of Commerce, September 2024
+  * [AI at Work: Maximizing Impact, Minimizing Risk](https://www.commerce.gov/hr/ai-work-maximizing-impact-minimizing-risk) | Department of Commerce
+    * [AI at Work: Maximizing Impact, Minimizing Risk - Guide](https://www.commerce.gov/sites/default/files/2026-04/AIatWork-Guide_0.pdf) | Department of Commerce
+  * [Generative Artificial Intelligence and Open Data](https://www.commerce.gov/sites/default/files/2025-01/GenerativeAI-Open-Data.pdf) | Office of the Under Secretary for Economic Affairs, Guidelines and Best Practices, Version 1, January 16, 2025
+
+* AI, advanced computing, and export controls
+  * [Bureau of Industry and Security](https://www.bis.gov/)
+  * [Commerce Strengthens Restrictions on Advanced Computing Semiconductors, Semiconductor Manufacturing Equipment, and Supercomputing Items to Countries of Concern](https://www.bis.gov/press-release/commerce-strengthens-restrictions-advanced-computing-semiconductors-semiconductor-manufacturing-equipment) | Bureau of Industry and Security, October 17, 2023
+  * [Commerce Releases Clarifications of Export Control Rules to Restrict the PRC's Access to Advanced Computing and Supercomputing Items and Semiconductor Manufacturing Equipment](https://www.bis.gov/press-release/commerce-releases-clarifications-export-control-rules-restrict-prcs-access-advanced-computing) | Bureau of Industry and Security, April 4, 2024
+  * [Commerce Strengthens Export Controls to Restrict China’s Capability to Produce Advanced Semiconductors for Military Applications](https://www.bis.gov/press-release/commerce-strengthens-export-controls-restrict-chinas-capability-produce-advanced-semiconductors-military) | Bureau of Industry and Security, December 2, 2024
+  * [Biden-Harris Administration Announces Regulatory Framework for the Responsible Diffusion of Advanced Artificial Intelligence Technology](https://www.bis.gov/press-release/biden-harris-administration-announces-regulatory-framework-responsible-diffusion-advanced-artificial) | Bureau of Industry and Security, January 13, 2025
+    * [Framework for Artificial Intelligence Diffusion](https://public-inspection.federalregister.gov/2025-00636.pdf) | Bureau of Industry and Security, January 2025
+  * [Department of Commerce Announces Rescission of Biden-Era Artificial Intelligence Diffusion Rule, Strengthens Chip-Related Export Controls](https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens) | Bureau of Industry and Security, May 13, 2025
+
+* NTIA AI accountability, openness, and documentation
+  * [Artificial Intelligence](https://www.ntia.gov/programs-and-initiatives/artificial-intelligence) | National Telecommunications and Information Administration
+  * [AI Accountability Policy Report](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report) | National Telecommunications and Information Administration, March 2024
+    * [Artificial Intelligence Accountability Policy Report](https://www.ntia.gov/sites/default/files/publications/ntia-ai-report-final.pdf) | National Telecommunications and Information Administration, March 2024
+  * [AI System Documentation](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report/developing-accountability-inputs-a-deeper-dive/information-flow/ai-system-documentation) | National Telecommunications and Information Administration
+  * [Independent Evaluations](https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report/developing-accountability-inputs-a-deeper-dive/ai-system-evaluations/independent-evaluations) | National Telecommunications and Information Administration
+  * [Dual-Use Foundation Models with Widely Available Model Weights Report](https://www.ntia.gov/programs-and-initiatives/artificial-intelligence/open-model-weights-report) | National Telecommunications and Information Administration, July 30, 2024
+  * [Internet Policy Task Force, Commercial Data Privacy and Innovation in the Internet Economy: A Dynamic Policy Framework](https://www.ntia.doc.gov/files/ntia/publications/iptf_privacy_greenpaper_12162010.pdf) | National Telecommunications and Information Administration, December 2010
+
+* NIST AI risk management, trustworthiness, and documentation
+  * [Artificial Intelligence](https://www.nist.gov/artificial-intelligence) | National Institute of Standards and Technology
+  * [NIST AI Resource Center](https://airc.nist.gov/) | National Institute of Standards and Technology
+  * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) | National Institute of Standards and Technology
+    * [Artificial Intelligence Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | NIST AI 100-1, AI RMF 1.0
+    * [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/)
+    * [NIST AI RMF Roadmap](https://airc.nist.gov/airmf-resources/roadmap/)
   * [Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf) | NIST AI 600-1
-  * [Assessing Risks and Impacts of AI (ARIA): Pilot Evaluation Report](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-2.pdf) | NIST AI 700-2
-  * [Challenges to the Monitoring of Deployed AI Systems](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf) | NIST AI 800-4
-  * [Cybersecurity Framework Profile for Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf) | NIST IR 8596 (initial preliminary draft)
-  * [De-Identifying Government Datasets: Techniques and Governance](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf) | NIST SP 800-188
-  * [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/nist.ir.8312.pdf) | NISTIR 8312
-  * [Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf) | NIST Special Publication 800-30 Revision 1
-  * [Managing Misuse Risk for Dual-Use Foundation Models](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-1.ipd2.pdf) | NIST AI 800-1 (2nd public draft)
-  * [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/)
-  * [NIST AI RMF Roadmap](https://airc.nist.gov/airmf-resources/roadmap/)
-  * [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)
-  * [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf)
-  * [Reducing Risks Posed by Synthetic Content: An Overview of Technical Approaches to Digital Content Transparency](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf) | NIST AI 100-4
-  * [Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.pdf) | NIST SP 800-218A
-  * [Simple Guide for Evaluating and Expressing the Uncertainty of NIST Measurement Results](https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1900.pdf) | NIST Technical Note 1900
-    * [International Bureau of Weights and Measures, Evaluation of measurement data—Guide to the expression of uncertainty in measurement](https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6) | (BIPM)
+  * [AI Use Taxonomy: A Human-Centered Approach](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.200-1.pdf) | NIST AI 200-1
   * [The Language of Trustworthy AI: An In-Depth Glossary of Terms](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-3.pdf) | NIST AI 100-3
     * [NIST AIRC Glossary portal](https://airc.nist.gov/glossary/)
     * [The Language of Trustworthy AI: An In-Depth Glossary of Terms, spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRBYglcOtgaMrdF11aFxfEY3EmB31zslYI4q2_7ZZ8z_1lKm7OHtF0t4xIsckuogNZ3hRZAaDQuv_K/pubhtml)
+  * [Four Principles of Explainable Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/nist.ir.8312.pdf) | NISTIR 8312
+  * [Psychological Foundations of Explainability and Interpretability in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8367.pdf) | NISTIR 8367
   * [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf) | NIST SP 1270
-  * [U.S. Leadership in AI: A Plan for Federal Engagement in Developing Technical Standards and Related Tools](https://www.nist.gov/document/report-plan-federal-engagement-developing-technical-standards-and-related-tools)
-  * [2024 NIST GenAI (Pilot Study): Text-to-Text Evaluation Overview and Results](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-1.pdf) | NIST AI 700-1
-* National Oceanic and Atmospheric Administration (NOAA)
-  * [NOAA Artificial Intelligence Strategy: Analytics for Next-Generation Earth Science](https://sciencecouncil.noaa.gov/wp-content/uploads/2023/04/2020-AI-Strategy.pdf) | February 2020
-* Office of the Under Secretary for Economic Affairs
-  * [Generative Artificial Intelligence and Open Data](https://www.commerce.gov/sites/default/files/2025-01/GenerativeAI-Open-Data.pdf) | Guidelines and Best Practices, Version 1, January 16, 2025
-* [Outline: Proposed Zero Draft for a Standard on AI Testing, Evaluation, Verification, and Validation](https://www.nist.gov/system/files/documents/2025/07/15/Outline_%20Proposed%20Zero%20Draft%20for%20a%20Standard%20on%20AI%20TEVV-for-web.pdf)
-* [SP 800-53 Control Overlays for Securing AI Systems](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf) | NIST
-* [U.S. Artificial Intelligence Safety Institute](https://www.nist.gov/aisi) | (USAISI)
-  * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf) | October 2024 Release
-  * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf) | December 2024
+  * [De-Identifying Government Datasets: Techniques and Governance](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-188.pdf) | NIST SP 800-188
+  * [Reducing Risks Posed by Synthetic Content: An Overview of Technical Approaches to Digital Content Transparency](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf) | NIST AI 100-4
+
+* NIST AI security, cybersecurity, and dual-use model risk
+  * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf) | NIST AI 100-2e2025
+  * [Managing Misuse Risk for Dual-Use Foundation Models](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-1.ipd2.pdf) | NIST AI 800-1, 2nd public draft
+  * [Secure Software Development Practices for Generative AI and Dual-Use Foundation Models: An SSDF Community Profile](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218A.pdf) | NIST SP 800-218A
+  * [Cybersecurity Framework Profile for Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf) | NIST IR 8596, initial preliminary draft
+  * [SP 800-53 Control Overlays for Securing AI Systems](https://csrc.nist.gov/projects/cosais) | NIST
+    * [SP 800-53 Control Overlays for Securing AI Systems: Concept Paper and Proposed Action Plan](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf) | NIST, 2025
+
+* NIST AI testing, evaluation, standards, and measurement
+  * [A Possible Approach for Evaluating AI Standards Development](https://nvlpubs.nist.gov/nistpubs/gcr/2026/NIST.GCR.26-069.pdf) | NIST GCR 26-069
+  * [U.S. Leadership in AI: A Plan for Federal Engagement in Developing Technical Standards and Related Tools](https://www.nist.gov/document/report-plan-federal-engagement-developing-technical-standards-and-related-tools) | National Institute of Standards and Technology
+  * [A Plan for Global Engagement on AI Standards](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-5e2025.pdf) | NIST AI 100-5e2025
+  * [NIST's AI Standards “Zero Drafts” Pilot Project to Accelerate Standardization](https://www.nist.gov/artificial-intelligence/nists-ai-standards-zero-drafts-pilot-project-accelerate-standardization) | National Institute of Standards and Technology
+    * [Outline: Proposed Zero Draft for a Standard on AI Testing, Evaluation, Verification, and Validation](https://www.nist.gov/document/outline-proposed-zero-draft-standard-ai-testing-evaluation-verification-and-validation) | National Institute of Standards and Technology
+    * [Extended Outline: Proposed Zero Draft for a Standard on Documentation of AI Datasets and AI Models](https://www.nist.gov/document/extended-outline-proposed-zero-draft-standard-documentation-ai-datasets-and-ai-models) | National Institute of Standards and Technology
+  * [Assessing Risks and Impacts of AI (ARIA): Pilot Evaluation Report](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-2.pdf) | NIST AI 700-2
+  * [2024 NIST GenAI Pilot Study: Text-to-Text Evaluation Overview and Results](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.700-1.pdf) | NIST AI 700-1
+  * [Challenges to the Monitoring of Deployed AI Systems](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf) | NIST AI 800-4
+  * [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)
+  * [Guide for Conducting Risk Assessments](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf) | NIST Special Publication 800-30 Revision 1
+  * [Simple Guide for Evaluating and Expressing the Uncertainty of NIST Measurement Results](https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1900.pdf) | NIST Technical Note 1900
+    * [Evaluation of Measurement Data — Guide to the Expression of Uncertainty in Measurement](https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf/cb0ef43f-baa5-11cf-3f85-4dcd86f77bd6) | Joint Committee for Guides in Metrology, JCGM 100:2008
+
+* Center for AI Standards and Innovation
+  * [Center for AI Standards and Innovation](https://www.nist.gov/caisi) | National Institute of Standards and Technology
+  * [Evaluation of DeepSeek AI Models](https://www.nist.gov/system/files/documents/2025/09/30/CAISI_Evaluation_of_DeepSeek_AI_Models.pdf) | Center for AI Standards and Innovation, September 30, 2025
+  * [CAISI Evaluation of DeepSeek V4 Pro](https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro) | Center for AI Standards and Innovation, May 1, 2026
+  * [CAISI Evaluation of Kimi K2 Thinking](https://www.nist.gov/news-events/news/2025/12/caisi-evaluation-kimi-k2-thinking) | Center for AI Standards and Innovation, December 12, 2025
+  * [US AISI and UK AISI Joint Pre-Deployment Test: Anthropic's Claude 3.5 Sonnet](https://www.nist.gov/system/files/documents/2024/11/19/Upgraded%20Sonnet-Publication-US.pdf) | U.S. AI Safety Institute and UK AI Safety Institute, October 2024 release
+  * [US AISI and UK AISI Joint Pre-Deployment Test: OpenAI o1](https://www.nist.gov/system/files/documents/2024/12/18/US_UK_AI%20Safety%20Institute_%20December_Publication-OpenAIo1.pdf) | U.S. AI Safety Institute and UK AI Safety Institute, December 2024
+
+* Intellectual property and AI
+  * [Intellectual Property](https://www.commerce.gov/issues/intellectual-property) | Department of Commerce
+  * [AI-related resources](https://www.uspto.gov/initiatives/artificial-intelligence/artificial-intelligence-resources) | U.S. Patent and Trademark Office
+  * [Revised Inventorship Guidance for AI-Assisted Inventions](https://www.uspto.gov/subscription-center/2025/revised-inventorship-guidance-ai-assisted-inventions) | U.S. Patent and Trademark Office, November 26, 2025
+  * [2024 Guidance Update on Patent Subject Matter Eligibility, Including on Artificial Intelligence](https://www.uspto.gov/sites/default/files/documents/ai-sme-update-2024.pdf) | U.S. Patent and Trademark Office, July 2024
+  * [July 2024 Subject Matter Eligibility Examples](https://www.uspto.gov/sites/default/files/documents/2024-AI-SMEUpdateExamples47-49.pdf) | U.S. Patent and Trademark Office, July 2024
+  * [Guidance on the Use of AI Tools in Practice Before the USPTO](https://www.uspto.gov/learning-and-resources/uspto-videos/guidance-use-ai-tools-practice-uspto) | U.S. Patent and Trademark Office
+  * [The USPTO Explores Generative AI's Role in Design Patents](https://www.uspto.gov/sites/default/files/documents/opia-mar2026-bulletin-ai-design.pdf) | U.S. Patent and Trademark Office, March 2026
+
+* Weather, oceans, and environmental data
+  * [NOAA Artificial Intelligence Strategy: Analytics for Next-Generation Earth Science](https://sciencecouncil.noaa.gov/wp-content/uploads/2023/04/2020-AI-Strategy.pdf) | National Oceanic and Atmospheric Administration, February 2020
+
+* Historical and superseded NIST AI RMF development materials
+  * [AI Risk Management Framework Concept Paper](https://www.nist.gov/document/airmfconceptpaper) | National Institute of Standards and Technology
+  * [AI Risk Management Framework: Initial Draft](https://www.nist.gov/document/ai-risk-management-framework-initial-draft) | National Institute of Standards and Technology
+  * [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf) | NIST AI 100-2e2023
 
 **Department of Defense**  
 * [AI Data Security](https://media.defense.gov/2025/May/22/2003720601/-1/-1/0/CSI_AI_DATA_SECURITY.PDF) | Joint Cybersecurity Information, Best Practices for Securing Data Used to Train & Operate AI Systems, May 2025, Ver. 1.0
