@@ -340,21 +340,155 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Brazil
 
-* [Autoridade Nacional de Proteção de Dados, Technology Radar – short version in English, no. 1: Generative Artificial Intelligence](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/radar-tecnologico-inteligencia-artificial-generativa-versao-em-lingua-inglesa.pdf) | (ANPD, Brazilian Data Protection Authority)
+##### National strategy and federal AI plans
+
+* [Plano Brasileiro de Inteligência Artificial](https://www.gov.br/mcti/pt-br/centrais-de-conteudo/publicacoes-mcti/plano-brasileiro-de-inteligencia-artificial) | Brazilian Artificial Intelligence Plan, Ministério da Ciência, Tecnologia e Inovação, 2025
+* [IA para o Bem de Todos: Plano Brasileiro de Inteligência Artificial](https://www.gov.br/mcti/pt-br/centrais-de-conteudo/publicacoes-mcti/plano-brasileiro-de-inteligencia-artificial/pbia_mcti_2025.pdf) | Ministry of Science, Technology and Innovation and CGEE, 2025
+* [Estratégia Brasileira de Inteligência Artificial](https://www.gov.br/governodigital/pt-br/estrategias-e-governanca-digital/estrategias-e-politicas-digitais/estrategia-brasileira-de-inteligencia-artificial) | Brazilian Artificial Intelligence Strategy, Governo Digital
+* [Portaria MCTI nº 4.617, de 6 de abril de 2021](https://antigo.mctic.gov.br/mctic/opencms/legislacao/portarias/Portaria_MCTI_n_4617_de_06042021.html) | Ministério da Ciência, Tecnologia e Inovação, legal act instituting the Brazilian Artificial Intelligence Strategy
+
+##### Federal public-sector AI guidance and responsible use
+
+* [Inteligência Artificial](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1) | Governo Digital
+* [IA Generativa no Serviço Público](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/ia-generativa-no-servico-publico.pdf) | Generative AI in public service, Secretaria de Governo Digital
+* [Cartilha IA Generativa](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/cartilha-ia-generativa) | Governo Digital
+* [Guia prático de prompt e pesquisa com IA para servidores públicos](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/guia-pratico-de-prompt-e-pesquisa-com-ia-para-servidores-publicos/) | Governo Digital
+* [Glossário de Termos Relacionados à IA](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/glossario-de-termos-relacionados-a-ia/) | Governo Digital
+* [Framework para a Autoavaliação de Impacto Ético em Inteligência Artificial no Setor Público Federal](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/framework-para-a-autoavaliacao-de-impacto-etico-em-inteligencia-artificial-no-setor-publico-federal) | Governo Digital
+* [Portaria Normativa nº 193, de 6 de janeiro de 2025](https://basedeconhecimento.cgu.gov.br/items/42d3415c-9b53-41be-bfdd-c20ec152dccc) | Controladoria-Geral da União, approving the responsible-use guide for generative AI tools
+* [Guia de Uso Responsável de Ferramentas de Inteligência Artificial Generativa](https://basedeconhecimento.cgu.gov.br/bitstreams/b5d18ee1-5d85-492c-ab72-43b1f84ccfe1/download) | Controladoria-Geral da União, March 2025
+
+##### Data protection, privacy, regulatory participation, and AI accountability
+
+* [Documentos Técnicos e Orientativos](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos) | Autoridade Nacional de Proteção de Dados
+* [Radar Tecnológico: Inteligência Artificial Generativa](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/radar_tecnologico_ia_generativa_anpd.pdf) | Autoridade Nacional de Proteção de Dados
+* [Technology Radar: Generative Artificial Intelligence](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/radar-tecnologico-inteligencia-artificial-generativa-versao-em-lingua-inglesa.pdf) | Autoridade Nacional de Proteção de Dados, English version
+* [Por que Inteligência Artificial?](https://www.gov.br/anpd/pt-br/assuntos/projetos-acoes-iniciativas/sandbox/por-que-inteligencia-artificial) | Autoridade Nacional de Proteção de Dados, regulatory sandbox
+* [Outras Ações e Iniciativas de Participação Social](https://www.gov.br/anpd/pt-br/acesso-a-informacao/participacao-social/outras-acoes) | Autoridade Nacional de Proteção de Dados, including AI regulatory consultations
+* [Nota Técnica nº 16/2023/CGTP/ANPD](https://www.gov.br/anpd/pt-br/assuntos/noticias/Nota_Tecnica_16ANPDIA.pdf/@@display-file/file) | Autoridade Nacional de Proteção de Dados, suggestions regarding PL 2338/2023
+* [Nota Técnica nº 27/2024/FIS/CGF/ANPD](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/nt-27.pdf/@@display-file/file) | Autoridade Nacional de Proteção de Dados, treatment of personal data to develop generative AI models
+* [Nota Técnica nº 39/2024/FIS/ANPD](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/sei_anpd-0140555-nota-tecnica.pdf/@@display-file/file) | Autoridade Nacional de Proteção de Dados, Meta Platforms generative AI compliance plan
+* [Nota Técnica nº 54/2025/FIS/CGF/ANPD](https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/nota-tecnica-no-54-2025-fis-cgf-anpd.pdf/@@display-file/file) | Autoridade Nacional de Proteção de Dados, priority themes for 2026–2027
+* [Nota Técnica nº 1/2026/FIS/CGF/ANPD](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/nota-tecnica-no-1-2026-fis-cgf-anpd.pdf/@@display-file/file) | Autoridade Nacional de Proteção de Dados, Grok and possible LGPD violations
+* [Recomendação Conjunta ANPD, MPF e SENACON: Caso Grok](https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/recomendacao_conjunta_anpd_mpf_senacon_caso_grok.pdf/@@display-file/file) | Autoridade Nacional de Proteção de Dados, Ministério Público Federal, and Secretaria Nacional do Consumidor
+
+##### AI legislation and parliamentary institutional governance
+
+* [PL 2338/2023](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262) | Câmara dos Deputados, AI bill tracker
+* [PL 2338/2023](https://legis.senado.leg.br/sdleg-getter/documento?dm=9347622) | Senado Federal, bill text PDF
+* [Uso da Inteligência Artificial](https://infograficos.camara.leg.br/manual-de-comunicacao/uso-da-inteligencia-artificial/) | Câmara dos Deputados, Manual de Comunicação
+* [Ato da Mesa nº 225, de 15 de dezembro de 2025](https://www2.camara.leg.br/legin/int/atomes/2025/atodamesa-225-15-dezembro-2025-798483-norma-cd-mesa.html) | Câmara dos Deputados, general guidelines for AI governance policy
+* [Portaria nº 227, de 23 de dezembro de 2025](https://www2.camara.leg.br/legin/int/portar/2025/portaria-227-23-dezembro-2025-798596-norma-cd-dg.html) | Câmara dos Deputados, AI governance policy
+
+##### Judiciary AI governance
+
+* [Resolução nº 332, de 21 de agosto de 2020](https://atos.cnj.jus.br/atos/detalhar/3429) | Conselho Nacional de Justiça, ethics, transparency, and governance in judicial AI
+* [Resolução nº 615, de 11 de março de 2025](https://atos.cnj.jus.br/atos/detalhar/6001) | Conselho Nacional de Justiça, AI in the judiciary
+* [Resolução nº 615, de 11 de março de 2025](https://atos.cnj.jus.br/files/original1555302025031467d4517244566.pdf) | Conselho Nacional de Justiça, PDF
+* [Portaria nº 271, de 4 de dezembro de 2020](https://atos.cnj.jus.br/atos/detalhar/3613) | Conselho Nacional de Justiça, AI projects and Plataforma Sinapses
+* [Pesquisa uso de inteligência artificial no Poder Judiciário: 2023](https://bibliotecadigital.cnj.jus.br/jspui/handle/123456789/858) | Conselho Nacional de Justiça
+* [Pesquisa uso de inteligência artificial no Poder Judiciário: 2023: sumário executivo](https://bibliotecadigital.cnj.jus.br/jspui/handle/123456789/859) | Conselho Nacional de Justiça
+
+##### Audit, oversight, and regulatory-risk materials
+
+* [Publicações institucionais: Inteligência artificial](https://portal.tcu.gov.br/publicacoes-institucionais/todas?palavra-chave=Intelig%C3%AAncia+artificial) | Tribunal de Contas da União
+* [Guia de uso de inteligência artificial generativa no Tribunal de Contas da União](https://portal.tcu.gov.br/publicacoes-institucionais/cartilha-manual-ou-tutorial/guia-de-uso-de-inteligencia-artificial-generativa-no-tribunal-de-contas-da-uniao-tcu) | Tribunal de Contas da União, July 2024
+* [Guia de uso de inteligência artificial generativa no Tribunal de Contas da União](https://portal.tcu.gov.br/data/files/42/F7/91/4B/B59019105E366F09E18818A8/Guia%20de%20uso%20de%20IA%20generativa%20no%20TCU.pdf) | Tribunal de Contas da União, PDF
+* [Riscos da regulação da Inteligência Artificial no Brasil](https://portal.tcu.gov.br/publicacoes-institucionais/sumarios-executivos/riscos-da-regulacao-da-inteligencia-artificial-no-brasil) | Tribunal de Contas da União, April 2024
 
 #### Canada
 
-* [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/)
-* [An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts](https://www.parl.ca/legisinfo/en/bill/44-1/c-27)
-* [AI in Canada](https://oecd.ai/en/dashboards/countries/Canada) | OECD AI policies in Canada
-* [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
-* [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act)
-* [The Artificial Intelligence and Data Act Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) | (AIDA)
-* [Directive on Automated Decision Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592) | (Canada)
-* [E-23 – Model Risk Management](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-e-23-model-risk-management) | (Draft Guideline)
-* [Guideline E-23 – Model Risk Management 2027](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027) | Office of the Superintendent of Financial Institutions
+##### National strategy, AI safety, and industrial policy
+
+* [Artificial Intelligence](https://www.canada.ca/en/services/science/innovation/artificial-intelligence.html) | Government of Canada
+* [Artificial intelligence ecosystem](https://ised-isde.canada.ca/site/ised/en/artificial-intelligence-ecosystem) | Innovation, Science and Economic Development Canada
+* [Canada’s National Artificial Intelligence Strategy: AI for All](https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all) | Innovation, Science and Economic Development Canada
+* [Overview of Canada’s National Artificial Intelligence Strategy](https://ised-isde.canada.ca/site/ised/en/artificial-intelligence-ecosystem/overview-canadas-national-artificial-intelligence-strategy) | Innovation, Science and Economic Development Canada
+* [Pan-Canadian Artificial Intelligence Strategy](https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy) | Innovation, Science and Economic Development Canada
+* [Canadian Artificial Intelligence Safety Institute](https://ised-isde.canada.ca/site/ised/en/canadian-artificial-intelligence-safety-institute) | Innovation, Science and Economic Development Canada
+* [Safe and Secure AI Advisory Group](https://ised-isde.canada.ca/site/ised/en/safe-and-secure-ai-advisory-group) | Innovation, Science and Economic Development Canada
+* [Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems](https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems) | Innovation, Science and Economic Development Canada
+* [Canadian Sovereign AI Compute Strategy](https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy) | Innovation, Science and Economic Development Canada
+* [What We Heard Report: Consultations on AI Compute](https://ised-isde.canada.ca/site/ised/en/what-we-heard-report-consultations-ai-compute) | Innovation, Science and Economic Development Canada
+* [Engagements on Canada’s next AI Strategy: Summary of inputs](https://ised-isde.canada.ca/site/ised/en/public-consultations/engagements-canadas-next-ai-strategy-summary-inputs) | Innovation, Science and Economic Development Canada
+
+##### Federal public-sector AI governance and automated decision-making
+
 * [Responsible use of artificial intelligence in government](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai.html) | Government of Canada
-* [Transparency for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/transparency-machine-learning-guiding-principles.html) | Health Canada
+* [AI Strategy for the Federal Public Service 2025–2027](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/gc-ai-strategy-overview.html) | Government of Canada
+* [Directive on Automated Decision-Making](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592) | Treasury Board of Canada Secretariat
+* [Algorithmic Impact Assessment tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html) | Government of Canada
+* [Guide on the Scope of the Directive on Automated Decision-Making](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-scope-directive-automated-decision-making.html) | Government of Canada
+* [Guide to Peer Review of Automated Decision Systems](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-peer-review-automated-decision-systems.html) | Government of Canada
+* [Guide on the use of generative artificial intelligence](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html) | Government of Canada
+* [Generative AI in your daily work](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/generative-ai-your-daily-work.html) | Government of Canada
+* [Guide on the Use of Agentic Artificial Intelligence](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-agentic-artificial-antelligence.html) | Government of Canada
+* [Guide on Departmental AI Responsibilities](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/guide-departmental-ai-responsibilities.html) | Government of Canada
+* [Progress on AI in government](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/progress.html) | Government of Canada
+* [Microsoft Copilot for Work Policy Implementation Notice](https://www.canada.ca/en/government/system/digital-government/policies-standards/microsoft-copilot-for-work-policy-implementation-notice.html) | Government of Canada
+* [Government of Canada AI Register](https://search.open.canada.ca/opendata/?dataset_type=dataset&owner_org=tbs-sct&page=2&sort=metadata_modified+desc&wbdisable=false) | Open Government Canada
+* [Artificial Intelligence Strategy](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/artificial-intelligence-strategy.html) | Immigration, Refugees and Citizenship Canada
+* [Artificial intelligence in the hiring process](https://www.canada.ca/en/public-service-commission/services/appointment-framework/guides-tools-appointment-framework/ai-hiring-process.html) | Public Service Commission of Canada
+
+##### Proposed and archived legislative materials
+
+* [An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts](https://www.parl.ca/legisinfo/en/bill/44-1/c-27) | Parliament of Canada, Bill C-27
+* [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act) | Innovation, Science and Economic Development Canada, archived
+* [The Artificial Intelligence and Data Act Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document) | Innovation, Science and Economic Development Canada, archived
+
+##### Privacy, human rights, and data protection
+
+* [Technology](https://www.priv.gc.ca/en/privacy-topics/technology/) | Office of the Privacy Commissioner of Canada
+* [Principles for responsible, trustworthy and privacy-protective generative AI technologies](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/) | Office of the Privacy Commissioner of Canada
+* [A Regulatory Framework for AI: Recommendations for PIPEDA Reform](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/reg-fw_202011/) | Office of the Privacy Commissioner of Canada
+* [Policy Proposals for PIPEDA Reform to Address Artificial Intelligence](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-ai/pol-ai_202011/) | Office of the Privacy Commissioner of Canada
+* [Facial recognition technology use in policing](https://www.chrc-ccdp.gc.ca/about-human-rights/publications/facial-recognition-technology-use-policing) | Canadian Human Rights Commission
+* [Commissions working together on human rights and the use of artificial intelligence](https://www.chrc-ccdp.gc.ca/resources/newsroom/commissions-working-together-human-rights-and-use-artificial-intelligence) | Canadian Human Rights Commission, Law Commission of Ontario, and Ontario Human Rights Commission
+
+##### Cybersecurity and AI security
+
+* [Artificial Intelligence](https://www.cyber.gc.ca/en/guidance/artificial-intelligence-itsap00040) | Canadian Centre for Cyber Security, ITSAP.00.040
+* [Generative artificial intelligence](https://www.cyber.gc.ca/en/guidance/generative-artificial-intelligence-ai-itsap00041) | Canadian Centre for Cyber Security, ITSAP.00.041
+* [Guidelines for secure AI system development](https://www.cyber.gc.ca/en/news-events/guidelines-secure-ai-system-development) | Canadian Centre for Cyber Security and international partners
+* [Engaging with Artificial Intelligence](https://www.cyber.gc.ca/en/news-events/engaging-with-artificial-intelligence) | Canadian Centre for Cyber Security
+* [Top 10 artificial intelligence security actions: A primer](https://www.cyber.gc.ca/en/guidance/top-10-artificial-intelligence-security-actions-primer-itsap10049) | Canadian Centre for Cyber Security, ITSAP.10.049
+* [Frontier artificial intelligence](https://www.cyber.gc.ca/en/guidance/frontier-artificial-intelligence-itsap10050) | Canadian Centre for Cyber Security, ITSAP.10.050
+* [Joint guidance on supply chain risks and mitigations for AI/ML systems](https://www.cyber.gc.ca/en/news-events/joint-guidance-supply-chain-risks-mitigations-artificial-intelligence-machine-learning) | Canadian Centre for Cyber Security and international partners
+* [Joint guidance on the careful adoption of agentic artificial intelligence services](https://www.cyber.gc.ca/en/news-events/joint-guidance-careful-adoption-agentic-artificial-intelligence-services) | Canadian Centre for Cyber Security and international partners
+* [Cyber security guidance for democratic institutions: artificial intelligence](https://www.cyber.gc.ca/en/guidance/cyber-security-guidance-democratic-institutions-artificial-intelligence-itsap00135) | Canadian Centre for Cyber Security, ITSAP.00.135
+
+##### Health and medical devices
+
+* [Good Machine Learning Practice for Medical Device Development: Guiding Principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/good-machine-learning-practice-medical-device-development.html) | Health Canada, U.S. Food and Drug Administration, and United Kingdom Medicines and Healthcare products Regulatory Agency
+* [Transparency for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/transparency-machine-learning-guiding-principles.html) | Health Canada, U.S. Food and Drug Administration, and United Kingdom Medicines and Healthcare products Regulatory Agency
+* [Predetermined change control plans for machine learning-enabled medical devices: Guiding principles](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/good-machine-learning-practice-medical-device-development/predetermined-change-control-plans-machine-learning-enabled-medical-devices.html) | Health Canada, U.S. Food and Drug Administration, and United Kingdom Medicines and Healthcare products Regulatory Agency
+* [Pre-market guidance for machine learning-enabled medical devices](https://www.canada.ca/en/health-canada/services/drugs-health-products/medical-devices/application-information/guidance-documents/pre-market-guidance-machine-learning-enabled-medical-devices.html) | Health Canada
+
+##### Competition, financial regulation, and standards
+
+* [Artificial intelligence and competition](https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/artificial-intelligence-and-competition) | Competition Bureau Canada
+* [Consultation on Artificial Intelligence and Competition: What We Heard](https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/consultation-artificial-intelligence-and-competition-what-we-heard) | Competition Bureau Canada
+* [Report on Summit 2024: Competition in the AI Era](https://competition-bureau.canada.ca/en/how-we-foster-competition/education-and-outreach/report-summit-2024-competition-ai-era) | Competition Bureau Canada
+* [Guideline E-23: Model Risk Management 2027](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027) | Office of the Superintendent of Financial Institutions
+* [AI and Data Governance Standardization Collaborative](https://scc-ccn.ca/areas-work/digital-technology/ai-and-data-governance-standardization-collaborative) | Standards Council of Canada
+* [Artificial Intelligence Management Systems](https://scc-ccn.ca/accreditation-scheme/management-systems/artificial-intelligence-management-systems) | Standards Council of Canada
+
+##### Courts and legal process
+
+* [Artificial Intelligence](https://www.fct-cf.gc.ca/en/pages/law-and-practice/artificial-intelligence) | Federal Court of Canada
+* [Updated AI Notice](https://www.fct-cf.gc.ca/Content/assets/pdf/base/FC-Updated-AI-Notice-EN.pdf) | Federal Court of Canada
+* [Notices](https://www.fct-cf.gc.ca/en/pages/law-and-practice/notices) | Federal Court of Canada
+
+##### Provincial AI governance
+
+* [Ontario’s Trustworthy Artificial Intelligence Framework](https://www.ontario.ca/page/ontarios-trustworthy-artificial-intelligence-ai-framework) | Government of Ontario
+* [Responsible Use of Artificial Intelligence Directive](https://www.ontario.ca/page/responsible-use-artificial-intelligence-directive) | Government of Ontario
+* [Artificial Intelligence use cases in the Ontario Public Service](https://data.ontario.ca/dataset/artificial-intelligence-ai-use-cases-in-the-ontario-public-service) | Ontario Data Catalogue
+* [Utilisation responsable intelligence artificielle](https://www.quebec.ca/gouvernement/numerique/intelligence-artificielle-administration-publique/utilisation-responsable-intelligence-artificielle) | Gouvernement du Québec
+* [Stratégie d’intégration de l’intelligence artificielle dans l’administration publique 2021–2026](https://www.quebec.ca/gouvernement/politiques-orientations/strategie-integration-ia-administration-publique-2021-2026) | Gouvernement du Québec
+* [Policy on the use of generative AI](https://digital.gov.bc.ca/ai/gen-ai-policy/) | Province of British Columbia
+* [Draft artificial intelligence responsible use principles](https://digital.gov.bc.ca/ai/draft-responsible-use-principles/) | Province of British Columbia
+* [Alberta’s artificial intelligence lab GovLab.ai](https://www.alberta.ca/albertas-artificial-intelligence-lab-govlab-ai) | Government of Alberta
 
 #### China
 
