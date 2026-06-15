@@ -185,211 +185,157 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Australia
 
-* National strategy, AI safety, ethics, and standards
+##### National strategy, AI safety, ethics, and standards
 
-  * [Artificial intelligence](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) | Department of Industry, Science and Resources
-  * [National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) | Department of Industry, Science and Resources, December 2025
-  * [Australia's AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) | Department of Industry, Science and Resources
-  * [Australia to establish new institute to strengthen AI safety](https://www.industry.gov.au/news/australia-establish-new-institute-strengthen-ai-safety) | Department of Industry, Science and Resources
-  * [Australia continues research on AI safety science](https://www.industry.gov.au/news/australia-continues-research-ai-safety-science) | Department of Industry, Science and Resources
-  * [Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-ai-ethics-principles) | Department of Industry, Science and Resources
-  * [AI Ethics Framework](https://www.csiro.au/en/research/technology-space/ai/ai-ethics-framework) | CSIRO
-  * [Implementing Australia's AI Ethics Principles: A selection of Responsible AI practices and resources](https://www.csiro.au/-/media/D61/NAIC/Gradient-Report/23-00122_DATA61_REPORT_NAIC-ResponsibleAITools_WEB_230620.pdf) | CSIRO and National AI Centre, 2023
-  * [Rapid Response Information Report: Generative AI](https://www.chiefscientist.gov.au/GenerativeAI) | Office of the Chief Scientist
+* [Artificial intelligence](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence) | Department of Industry, Science and Resources
+* [National AI Plan](https://www.industry.gov.au/publications/national-ai-plan) | Department of Industry, Science and Resources, December 2025
+* [Australia's AI Safety Institute](https://www.industry.gov.au/science-technology-and-innovation/technology/artificial-intelligence/ai-safety-institute) | Department of Industry, Science and Resources
+* [Australia’s AI Ethics Principles](https://www.industry.gov.au/publications/australias-ai-ethics-principles) | Department of Industry, Science and Resources
+* [AI Ethics Framework](https://www.csiro.au/en/research/technology-space/ai/ai-ethics-framework) | CSIRO
+* [Implementing Australia's AI Ethics Principles: A selection of Responsible AI practices and resources](https://www.csiro.au/-/media/D61/NAIC/Gradient-Report/23-00122_DATA61_REPORT_NAIC-ResponsibleAITools_WEB_230620.pdf) | CSIRO and National AI Centre, 2023
+* [Rapid Response Information Report: Generative AI](https://www.chiefscientist.gov.au/GenerativeAI) | Office of the Chief Scientist
+* [Rapid Response Information Report: Generative AI](https://www.chiefscientist.gov.au/sites/default/files/2023-05/Rapid%20Response%20Information%20Report%20-%20Generative%20AI.pdf) | National Science and Technology Council, March 2023
+* [Australia’s Artificial Intelligence Ecosystem: Catalysing an AI Industry](https://www.csiro.au/-/media/D61/AI-Ecosystem-Catalysing-an-AI-Industry-Report/Aus-AI-Ecosystem-Report-2023.pdf) | CSIRO and National AI Centre, 2023
+* [Australia’s Artificial Intelligence Ecosystem: Growth and Opportunities](https://www.ai.gov.au/sites/default/files/2026-05/australias-artificial-intelligence-ecosystem-growth-and-opportunities-june-2025_0.pdf) | National AI Centre and CSIRO, June 2025
+* [Artificial Intelligence](https://www.standards.org.au/engagement-events/strategic-initiatives/artificial-intelligence) | Standards Australia
+* [Australian AI Security Framework Index](https://github.com/Benjamin-KY/Australian-AI-Security)
 
-    * [Rapid Response Information Report: Generative AI](https://www.chiefscientist.gov.au/sites/default/files/2023-05/Rapid%20Response%20Information%20Report%20-%20Generative%20AI.pdf) | National Science and Technology Council, March 2023
-  * [Australia’s Artificial Intelligence Ecosystem: Catalysing an AI Industry](https://www.csiro.au/-/media/D61/AI-Ecosystem-Catalysing-an-AI-Industry-Report/Aus-AI-Ecosystem-Report-2023.pdf) | CSIRO and National AI Centre, 2023
-  * [Australia’s Artificial Intelligence Ecosystem: Growth and Opportunities](https://www.ai.gov.au/sites/default/files/2026-05/australias-artificial-intelligence-ecosystem-growth-and-opportunities-june-2025_0.pdf) | National AI Centre and CSIRO, June 2025
-  * [Artificial Intelligence](https://www.standards.org.au/engagement-events/strategic-initiatives/artificial-intelligence) | Standards Australia
-  * [Australian AI Security Framework Index](https://github.com/Benjamin-KY/Australian-AI-Security) | ![](https://img.shields.io/github/stars/Benjamin-KY/Australian-AI-Security?style=social)
+##### National AI Centre and business adoption guidance
 
-* National AI Centre and business adoption guidance
+* [National AI Centre](https://www.ai.gov.au/) | Australian Government
+* [About the National AI Centre](https://www.ai.gov.au/about/about-national-ai-centre)
+* [Essential AI practices](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices) | National AI Centre
+* [Understand your AI impact](https://www.ai.gov.au/staying-safe-and-responsible/understand-your-ai-impact) | National AI Centre
+* [Planning tools and templates](https://www.ai.gov.au/practical-guides-and-learning/planning-tools-and-templates) | National AI Centre
+* [Guidance for AI adoption: implementation guidance](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) | National AI Centre
+* [Guidance for AI Adoption: Foundations v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-foundations.pdf) | National AI Centre, October 2025
+* [Guidance for AI Adoption: Implementation practices v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-implementation-practices.pdf) | National AI Centre, October 2025
+* [Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails) | Department of Industry, Science and Resources, consultation opened September 2024
+* [Voluntary AI Safety Standard](https://www.industry.gov.au/sites/default/files/2024-09/voluntary-ai-safety-standard.pdf) | Department of Industry, Science and Resources, September 2024
 
-  * [National AI Centre](https://www.ai.gov.au/) | Australian Government
-  * [About the National AI Centre](https://www.ai.gov.au/about/about-national-ai-centre)
-  * [News and insights](https://www.ai.gov.au/news-and-insights) | National AI Centre
-  * [Essential AI practices](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices) | National AI Centre
-  * [Understand your AI impact](https://www.ai.gov.au/staying-safe-and-responsible/understand-your-ai-impact) | National AI Centre
-  * [Planning tools and templates](https://www.ai.gov.au/practical-guides-and-learning/planning-tools-and-templates) | National AI Centre
-  * [Guidance for AI adoption: implementation guidance](https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance) | National AI Centre
+##### Commonwealth public-sector AI governance, procurement, and assurance
 
-    * [Guidance for AI Adoption: Foundations v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-foundations.pdf) | National AI Centre, October 2025
-    * [Guidance for AI Adoption: Implementation practices v1.0](https://www.industry.gov.au/sites/default/files/2025-10/guidance-for-ai-adoption-implementation-practices.pdf) | National AI Centre, October 2025
-  * [Introducing mandatory guardrails for AI in high-risk settings: proposals paper](https://consult.industry.gov.au/ai-mandatory-guardrails) | Department of Industry, Science and Resources, consultation opened September 2024
-  * [Voluntary AI Safety Standard](https://www.industry.gov.au/sites/default/files/2024-09/voluntary-ai-safety-standard.pdf) | Department of Industry, Science and Resources, September 2024
+* [Artificial intelligence](https://www.digital.gov.au/policy/ai) | Digital Transformation Agency
+* [Policy for the responsible use of AI in government](https://www.digital.gov.au/ai/ai-in-government-policy) | Digital Transformation Agency, Version 2.0, effective December 15, 2025
+* [AI Plan for the Australian Public Service](https://www.digital.gov.au/sites/default/files/documents/2025-11/APS%20AI%20Plan%202025.pdf) | Digital Transformation Agency, November 2025
+* [Technical standard for government’s use of artificial intelligence](https://www.digital.gov.au/policy/ai/AI-technical-standard) | Digital Transformation Agency
+* [Agentic AI addendum](https://www.digital.gov.au/policy/ai/agentic-ai-addendum) | Digital Transformation Agency, addendum to the AI technical standard
+* [Australian Government AI transparency statements](https://www.digital.gov.au/policy/ai/list-of-transparency-statements) | Digital Transformation Agency
+* [Standard for AI transparency statements](https://www.digital.gov.au/ai/ai-in-government-policy/standard-ai-transparency-statements) | Digital Transformation Agency
+* [Staff guidance on public generative AI](https://www.digital.gov.au/policy/ai/staff-guidance-public-generative-ai) | Digital Transformation Agency
+* [Agency guidance on public generative AI](https://www.digital.gov.au/policy/ai/agency-guidance-public-generative-ai) | Digital Transformation Agency
+* [Guidance for AI proof of concept to scale](https://www.digital.gov.au/policy/ai/AI-POC-to-scale) | Digital Transformation Agency
+* [Artificial Intelligence Model Clauses](https://www.buyict.gov.au/sys_attachment.do?sys_id=e535e2ca935caa10438b39cdfaba103d) | Digital Transformation Agency, Version 2.0, March 2025
+* [ClauseBank](https://www.buyict.gov.au/public/en/clausebank?id=public_content&topic_id=860cbcac1b3a2a50f421db96b04bcbbc) | BuyICT
+* [Evaluation of the whole-of-government trial of Microsoft 365 Copilot: Summary of evaluation findings](https://www.digital.gov.au/sites/default/files/documents/2024-10/Copilot%20Microsoft%20365%20summary%20of%20evaluation%20findings.pdf) | Digital Transformation Agency, October 2024
+* [Microsoft 365 Copilot evaluation report in full](https://www.digital.gov.au/initiatives/copilot-trial/microsoft-365-copilot-evaluation-report-full) | Digital Transformation Agency, October 2024
+* [National framework for the assurance of artificial intelligence in government](https://www.finance.gov.au/sites/default/files/2024-06/National-framework-for-the-assurance-of-AI-in-government.pdf) | Australian, state, and territory governments, June 2024
+* [Automated Decision-Making Reform](https://consultations.ag.gov.au/integrity/adm/) | Attorney-General's Department
+* [Use of automated decision-making by government: Consultation paper](https://consultations.ag.gov.au/integrity/adm/user_uploads/consultation-paper-use-of-automated-decision-making-by-government.pdf) | Attorney-General's Department, November 2024
+* [Automated Decision-Making Better Practice Guide](https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf) | Commonwealth Ombudsman, March 2025
+* [Governance of Artificial Intelligence at the Australian Taxation Office](https://www.anao.gov.au/work/performance-audit/governance-of-artificial-intelligence-the-australian-taxation-office) | Australian National Audit Office, 2025
+* [Governance of Artificial Intelligence at the Australian Taxation Office](https://www.anao.gov.au/sites/default/files/2025-02/Auditor-General_Report_2024-25_26.pdf) | Auditor-General Report No. 26, 2024–25
+* [Australia’s Third National Action Plan](https://www.ag.gov.au/integrity/australias-open-government-partnership/australias-third-national-action-plan) | Open Government Partnership
+* [Australia’s Third National Action Plan 2024–2025](https://www.ag.gov.au/integrity/publications/australias-third-national-action-plan-2024-2025) | Attorney-General's Department
 
-* Commonwealth public-sector AI governance, procurement, and assurance
+##### Parliamentary, productivity, copyright, and law-reform materials
 
-  * Digital Transformation Agency
+* [Select Committee on Adopting Artificial Intelligence](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Adopting_Artificial_Intelligence_AI) | Parliament of Australia, Senate
+* [Final report](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Adopting_Artificial_Intelligence_AI/AdoptingAI/Report) | Select Committee on Adopting Artificial Intelligence, November 2024
+* [Harnessing data and digital technology](https://assets.pc.gov.au/2025-12/data-digital_0.pdf) | Productivity Commission, Inquiry Report No. 111, December 2025
+* [Making the most of the AI opportunity: productivity, regulation and data access](https://www.pc.gov.au/inquiries-and-research/making-the-most-of-the-ai-opportunity/) | Productivity Commission, 2025
+* [Research paper 1: AI uptake, productivity, and the role of government](https://assets.pc.gov.au/2025-10/ai-paper1-productivity.pdf?VersionId=tUh.SYu0TwaT35R1fKopvrH3si7_6h68) | Productivity Commission, October 2025
+* [Research paper 2: The challenges of regulating AI](https://assets.pc.gov.au/2025-10/ai-paper2-regulating.pdf?VersionId=n7felJ3x0wG1DF04J.8.pCJ7VD_Sf7Li) | Productivity Commission, October 2025
+* [Research paper 3: AI raises the stakes for data policy](https://assets.pc.gov.au/2025-10/ai-paper3-data.pdf?VersionId=xRMr4R5DET3G9AFpurAJk.9ud8KaPVXd) | Productivity Commission, October 2025
+* [Copyright and Artificial Intelligence Reference Group](https://www.ag.gov.au/rights-and-protections/copyright/copyright-and-artificial-intelligence-reference-group-cairg) | Attorney-General's Department
+* [Copyright and AI: Transparency discussion paper](https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper) | Attorney-General's Department, February 2025
+* [Generative AI and the IP system](https://www.ipaustralia.gov.au/tools-and-research/professional-resources/data-research-and-reports/publications-and-reports/generative-ai-and-the-ip-system) | IP Australia
 
-    * [Artificial intelligence](https://www.digital.gov.au/policy/ai)
-    * [Policy for the responsible use of AI in government](https://www.digital.gov.au/ai/ai-in-government-policy) | Version 2.0, effective December 15, 2025
-    * [AI Plan for the Australian Public Service](https://www.digital.gov.au/sites/default/files/documents/2025-11/APS%20AI%20Plan%202025.pdf) | November 2025
-    * [Technical standard for government’s use of artificial intelligence](https://www.digital.gov.au/policy/ai/AI-technical-standard)
-    * [Agentic AI addendum](https://www.digital.gov.au/policy/ai/agentic-ai-addendum) | Addendum to the AI technical standard
-    * [Australian Government AI transparency statements](https://www.digital.gov.au/policy/ai/list-of-transparency-statements)
-    * [Standard for AI transparency statements](https://www.digital.gov.au/ai/ai-in-government-policy/standard-ai-transparency-statements)
-    * [Staff guidance on public generative AI](https://www.digital.gov.au/policy/ai/staff-guidance-public-generative-ai)
-    * [Agency guidance on public generative AI](https://www.digital.gov.au/policy/ai/agency-guidance-public-generative-ai)
-    * [Guidance for AI proof of concept to scale](https://www.digital.gov.au/policy/ai/AI-POC-to-scale)
-    * [Artificial Intelligence Model Clauses](https://www.buyict.gov.au/sys_attachment.do?sys_id=e535e2ca935caa10438b39cdfaba103d) | Version 2.0, March 2025
-    * [ClauseBank](https://www.buyict.gov.au/public/en/clausebank?id=public_content&topic_id=860cbcac1b3a2a50f421db96b04bcbbc) | BuyICT
-    * [Evaluation of the whole-of-government trial of Microsoft 365 Copilot: Summary of evaluation findings](https://www.digital.gov.au/sites/default/files/documents/2024-10/Copilot%20Microsoft%20365%20summary%20of%20evaluation%20findings.pdf) | October 2024
-    * [Microsoft 365 Copilot evaluation report in full](https://www.digital.gov.au/initiatives/copilot-trial/microsoft-365-copilot-evaluation-report-full) | October 2024
-  * [National framework for the assurance of artificial intelligence in government](https://www.finance.gov.au/sites/default/files/2024-06/National-framework-for-the-assurance-of-AI-in-government.pdf) | Australian, state, and territory governments, June 2024
-  * [Automated Decision-Making Reform](https://consultations.ag.gov.au/integrity/adm/) | Attorney-General's Department consultation
+##### Privacy, human rights, online safety, and cybersecurity
 
-    * [Use of automated decision-making by government: Consultation paper](https://consultations.ag.gov.au/integrity/adm/user_uploads/consultation-paper-use-of-automated-decision-making-by-government.pdf) | Attorney-General's Department, November 2024
-  * [Automated Decision-Making Better Practice Guide](https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf) | Commonwealth Ombudsman, March 2025
-  * [Governance of Artificial Intelligence at the Australian Taxation Office](https://www.anao.gov.au/work/performance-audit/governance-of-artificial-intelligence-the-australian-taxation-office) | Australian National Audit Office, 2025
+* [Guidance on privacy and developing and training generative AI models](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-developing-and-training-generative-ai-models) | Office of the Australian Information Commissioner
+* [Guidance on privacy and the use of commercially available AI products](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products) | Office of the Australian Information Commissioner
+* [Final Report: Human Rights and Technology](https://humanrights.gov.au/resource-hub/by-resource-type/publications/technology-and-human-rights/final-report-human-rights-and-technology) | Australian Human Rights Commission, March 2021
+* [Guidance Resource: AI and Discrimination in Insurance](https://humanrights.gov.au/resource-hub/by-resource-type/publications/technology-and-human-rights/guides/guidance-resource-ai-and-discrimination-insurance) | Australian Human Rights Commission, December 2022
+* [Artificial intelligence](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence) | Australian Signals Directorate / Australian Cyber Security Centre
+* [Engaging with artificial intelligence](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/engaging-with-artificial-intelligence) | Australian Signals Directorate / Australian Cyber Security Centre
+* [AI data security](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/ai-data-security) | Australian Signals Directorate / Australian Cyber Security Centre
+* [Careful adoption of agentic AI services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services) | Australian Signals Directorate / Australian Cyber Security Centre
+* [Frontier AI models and their impact on cyber security](https://www.cyber.gov.au/about-us/view-all-content/news/frontier-models-and-their-impact-on-cyber-security-update) | Australian Signals Directorate / Australian Cyber Security Centre
+* [Generative AI: Position statement](https://www.esafety.gov.au/industry/tech-trends-and-challenges/generative-ai) | eSafety Commissioner
+* [Generative AI and child safety: A convergence of innovation and exploitation](https://www.esafety.gov.au/industry/tech-trends-and-challenges/convergence-series/generative-ai-and-child-safety-a-convergence-of-innovation-and-exploitation) | eSafety Commissioner
+* [Responses to transparency notices: Artificial intelligence services](https://www.esafety.gov.au/industry/basic-online-safety-expectations/ai-services) | eSafety Commissioner
+* [Findings from transparency notices on AI companion apps: October 2025](https://www.esafety.gov.au/industry/basic-online-safety-expectations/ai-services/findings-october-2025) | eSafety Commissioner
 
-    * [Governance of Artificial Intelligence at the Australian Taxation Office](https://www.anao.gov.au/sites/default/files/2025-02/Auditor-General_Report_2024-25_26.pdf) | Auditor-General Report No. 26, 2024–25
-  * [Australia’s Third National Action Plan](https://www.ag.gov.au/integrity/australias-open-government-partnership/australias-third-national-action-plan) | Open Government Partnership
+##### State and territory public-sector AI governance
 
-    * [Australia’s Third National Action Plan 2024–2025](https://www.ag.gov.au/integrity/publications/australias-third-national-action-plan-2024-2025) | Attorney-General's Department
+* [Artificial Intelligence](https://www.digital.nsw.gov.au/policy/artificial-intelligence) | Digital NSW
+* [NSW AI Assessment Framework](https://www.digital.nsw.gov.au/policy/artificial-intelligence/ai-governance-assurance-and-frameworks/nsw-ai-assessment-framework) | Digital NSW
+* [Understanding Responsibilities in AI Practices](https://www.digital.nsw.gov.au/policy/artificial-intelligence/nsw-artificial-intelligence-assessment-framework/responsibilities) | Digital NSW
+* [Generative AI: basic guidance](https://www.digital.nsw.gov.au/policy/artificial-intelligence/generative-ai-basic-guidance) | Digital NSW
+* [Administrative Guideline for the safe and responsible use of Generative Artificial Intelligence in the Victorian Public Sector](https://www.vic.gov.au/administrative-guideline-safe-responsible-use-gen-ai-vps) | Victorian Government
+* [Guidance for the safe and responsible use of generative artificial intelligence in the Victorian public sector](https://www.vic.gov.au/guidance-safe-responsible-use-gen-ai-vps) | Victorian Government
+* [Use of personal information with publicly available Generative AI tools in the Victorian public sector](https://ovic.vic.gov.au/privacy/resources-for-organisations/use-of-personal-information-with-publicly-available-generative-ai-tools-in-the-victorian-public-sector/) | Office of the Victorian Information Commissioner
+* [QGEA Artificial intelligence directions](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/artificial-intelligence) | Queensland Government
+* [Artificial intelligence governance policy](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/artificial-intelligence-governance-policy) | Queensland Government, August 2025
+* [Use of generative AI in Queensland Government](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/use-of-generative-ai-in-queensland-government) | Queensland Government
+* [Foundational artificial intelligence risk assessment guideline](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/foundational-artificial-intelligence-risk-assessment-guideline) | Queensland Government
+* [Managing the ethical risks of artificial intelligence](https://www.qao.qld.gov.au/reports-resources/reports-parliament/managing-ethical-risks-artificial-intelligence) | Queensland Audit Office, September 2025
+* [Artificial Intelligence in the Western Australian Public Sector](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/artificial-intelligence-the-western-australian-public-sector) | Office of Digital Government
+* [WA Government Artificial Intelligence Policy and Assurance Framework](https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework) | Western Australian Government
+* [Artificial Intelligence governance toolkit for WA public sector entities](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/artificial-intelligence-governance-toolkit-wa-public-sector-entities) | Office of Digital Government
+* [Western Australian Artificial Intelligence Advisory Board](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/western-australian-artificial-intelligence-advisory-board) | Western Australian Government
+* [Microsoft 365 Copilot Guidance for WA Government Entities](https://www.wa.gov.au/government/publications/microsoft-365-copilot-guidance-wa-government-entities) | Western Australian Government
 
-* Parliamentary, productivity, copyright, and law-reform materials
+##### Education
 
-  * [Select Committee on Adopting Artificial Intelligence](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Adopting_Artificial_Intelligence_AI) | Parliament of Australia, Senate
+* [Australian Framework for Generative Artificial Intelligence in Schools](https://www.education.gov.au/schooling/resources/australian-framework-generative-artificial-intelligence-ai-schools) | Department of Education
+* [2024 Review of the Australian Framework for Generative Artificial Intelligence in Schools](https://www.education.gov.au/schooling/announcements/2024-review-australian-framework-generative-artificial-intelligence-schools) | Department of Education
+* [Guidelines regarding the use of generative AI](https://education.nsw.gov.au/teaching-and-learning/education-for-a-changing-world/guidelines-regarding-use-of-generative-ai) | NSW Department of Education
+* [NSWEduChat](https://education.nsw.gov.au/teaching-and-learning/education-for-a-changing-world/nsweduchat) | NSW Department of Education
+* [Student use of NSWEduChat](https://education.nsw.gov.au/schooling/parents-and-carers/artificial-intelligence/student-use-of-nsweduchat) | NSW Department of Education
+* [Australian Framework for Artificial Intelligence in Higher Education](https://www.acses.edu.au/publication/australian-framework-for-artificial-intelligence-in-higher-education/) | Australian Centre for Student Equity and Success, December 2025
 
-    * [Final report](https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Adopting_Artificial_Intelligence_AI/AdoptingAI/Report) | Select Committee on Adopting Artificial Intelligence, November 2024
-  * [Harnessing data and digital technology](https://assets.pc.gov.au/2025-12/data-digital_0.pdf) | Productivity Commission, Inquiry Report No. 111, December 2025
-  * [Making the most of the AI opportunity: productivity, regulation and data access](https://www.pc.gov.au/inquiries-and-research/making-the-most-of-the-ai-opportunity/) | Productivity Commission, 2025
+##### Health care and medical devices
 
-    * [Research paper 1: AI uptake, productivity, and the role of government](https://assets.pc.gov.au/2025-10/ai-paper1-productivity.pdf?VersionId=tUh.SYu0TwaT35R1fKopvrH3si7_6h68) | Productivity Commission, October 2025
-    * [Research paper 2: The challenges of regulating AI](https://assets.pc.gov.au/2025-10/ai-paper2-regulating.pdf?VersionId=n7felJ3x0wG1DF04J.8.pCJ7VD_Sf7Li) | Productivity Commission, October 2025
-    * [Research paper 3: AI raises the stakes for data policy](https://assets.pc.gov.au/2025-10/ai-paper3-data.pdf?VersionId=xRMr4R5DET3G9AFpurAJk.9ud8KaPVXd) | Productivity Commission, October 2025
-  * [Copyright and Artificial Intelligence Reference Group](https://www.ag.gov.au/rights-and-protections/copyright/copyright-and-artificial-intelligence-reference-group-cairg) | Attorney-General's Department
-  * [Copyright and AI: Transparency discussion paper](https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper) | Attorney-General's Department, February 2025
-  * [Generative AI and the IP system](https://www.ipaustralia.gov.au/tools-and-research/professional-resources/data-research-and-reports/publications-and-reports/generative-ai-and-the-ip-system) | IP Australia
+* [Artificial intelligence in health care](https://www.health.gov.au/topics/health-technologies-and-digital-health/what-we-do/artificial-intelligence-ai-in-health-care) | Department of Health, Disability and Ageing
+* [Safe and Responsible Artificial Intelligence in Health Care: Legislation and Regulation Review, Final Report](https://www.health.gov.au/resources/publications/safe-and-responsible-artificial-intelligence-in-health-care-legislation-and-regulation-review-final-report?language=en) | Department of Health, Disability and Ageing, July 2025
+* [Safe and Responsible Artificial Intelligence in Health Care: Legislation and Regulation Review, Final Report](https://www.health.gov.au/sites/default/files/2025-07/safe-and-responsible-artificial-intelligence-in-health-care-legislation-and-regulation-review-final-report.pdf) | Department of Health, Disability and Ageing, PDF
+* [Artificial Intelligence](https://www.safetyandquality.gov.au/clinical-topics/digital-health/artificial-intelligence) | Australian Commission on Safety and Quality in Health Care
+* [AI Clinical Use Guide](https://www.safetyandquality.gov.au/resources/ai-clinical-use-guide) | Australian Commission on Safety and Quality in Health Care
+* [AI Clinical Use Guide: Guidance for clinicians](https://www.safetyandquality.gov.au/sites/default/files/resources/attachments/ai-clinical-use-guide.pdf) | Australian Commission on Safety and Quality in Health Care, Version 1.0, August 2025
+* [AI Implementation in Hospitals: Legislation, Policy, Guidelines and Principles, and Evidence about Quality and Safety](https://www.safetyandquality.gov.au/resources/ai-implementation-hospitals-legislation-policy-guidelines-and-principles-and-evidence-about-quality-and-safety) | Australian Commission on Safety and Quality in Health Care
+* [AI Implementation in Hospitals: Legislation, Policy, Guidelines and Principles, and Evidence about Quality and Safety](https://www.safetyandquality.gov.au/sites/default/files/resources/attachments/ai-implementation-in-hospitals-legislation-policy-guidelines-and-principles-and-evidence-about-quality-and-safety.pdf) | Australian Commission on Safety and Quality in Health Care, September 2025
+* [Artificial intelligence and medical device software regulation](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai/manufacturing/artificial-intelligence-ai-and-medical-device-software-regulation) | Therapeutic Goods Administration
+* [Evidence requirements for software using AI](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai/manufacturing/artificial-intelligence-ai-and-medical-device-software-regulation/evidence-requirements-software-using-ai) | Therapeutic Goods Administration
+* [AI-enabled medical devices in the ARTG](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai/manufacturing/artificial-intelligence-ai-and-medical-device-software-regulation/ai-enabled-medical-devices-artg) | Therapeutic Goods Administration
 
-* Privacy, human rights, online safety, and cybersecurity
+##### Financial services, consumer protection, competition, and digital platforms
 
-  * Office of the Australian Information Commissioner
+* [REP 798 Beware the gap: Governance arrangements in the face of AI innovation](https://www.asic.gov.au/regulatory-resources/find-a-document/reports/rep-798-beware-the-gap-governance-arrangements-in-the-face-of-ai-innovation/) | Australian Securities and Investments Commission, October 2024
+* [REP 798 Beware the gap: Governance arrangements in the face of AI innovation](https://download.asic.gov.au/media/mtllqjo0/rep-798-published-29-october-2024.pdf) | Australian Securities and Investments Commission, PDF
+* [APRA Letter to Industry on Artificial Intelligence](https://www.apra.gov.au/apra-letter-to-industry-on-artificial-intelligence-ai) | Australian Prudential Regulation Authority
+* [Recent developments in artificial intelligence: industry snapshot](https://www.accc.gov.au/about-us/publications/recent-developments-in-ai-industry-snapshot) | Australian Competition and Consumer Commission, December 2025
+* [Recent developments in artificial intelligence](https://www.accc.gov.au/system/files/recent-developments-in-artifical-intelligence.pdf) | Australian Competition and Consumer Commission, PDF
+* [Digital platform services inquiry: Final report](https://www.accc.gov.au/system/files/digital-platform-services-inquiry-final-report-march2025.pdf) | Australian Competition and Consumer Commission, March 2025
 
-    * [Guidance on privacy and developing and training generative AI models](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-developing-and-training-generative-ai-models)
-    * [Guidance on privacy and the use of commercially available AI products](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products)
-  * Australian Human Rights Commission
+##### Courts, legal profession, defence, national security, and workplace impacts
 
-    * [Final Report: Human Rights and Technology](https://humanrights.gov.au/resource-hub/by-resource-type/publications/technology-and-human-rights/final-report-human-rights-and-technology) | March 2021
-    * [Guidance Resource: AI and Discrimination in Insurance](https://humanrights.gov.au/resource-hub/by-resource-type/publications/technology-and-human-rights/guides/guidance-resource-ai-and-discrimination-insurance) | December 2022
-  * Australian Signals Directorate / Australian Cyber Security Centre
-
-    * [Artificial intelligence](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence)
-    * [Engaging with artificial intelligence](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/engaging-with-artificial-intelligence)
-    * [AI data security](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/ai-data-security)
-    * [Careful adoption of agentic AI services](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/careful-adoption-of-agentic-ai-services)
-    * [Frontier AI models and their impact on cyber security](https://www.cyber.gov.au/about-us/view-all-content/news/frontier-models-and-their-impact-on-cyber-security-update)
-  * eSafety Commissioner
-
-    * [Generative AI: Position statement](https://www.esafety.gov.au/industry/tech-trends-and-challenges/generative-ai)
-    * [Generative AI and child safety: A convergence of innovation and exploitation](https://www.esafety.gov.au/industry/tech-trends-and-challenges/convergence-series/generative-ai-and-child-safety-a-convergence-of-innovation-and-exploitation)
-    * [Responses to transparency notices: Artificial intelligence services](https://www.esafety.gov.au/industry/basic-online-safety-expectations/ai-services)
-    * [Findings from transparency notices on AI companion apps: October 2025](https://www.esafety.gov.au/industry/basic-online-safety-expectations/ai-services/findings-october-2025)
-
-* State and territory public-sector AI governance
-
-  * New South Wales
-
-    * [Artificial Intelligence](https://www.digital.nsw.gov.au/policy/artificial-intelligence) | Digital NSW
-    * [NSW AI Assessment Framework](https://www.digital.nsw.gov.au/policy/artificial-intelligence/ai-governance-assurance-and-frameworks/nsw-ai-assessment-framework) | Digital NSW
-    * [Understanding Responsibilities in AI Practices](https://www.digital.nsw.gov.au/policy/artificial-intelligence/nsw-artificial-intelligence-assessment-framework/responsibilities) | Digital NSW
-    * [Generative AI: basic guidance](https://www.digital.nsw.gov.au/policy/artificial-intelligence/generative-ai-basic-guidance) | Digital NSW
-  * Victoria
-
-    * [Administrative Guideline for the safe and responsible use of Generative Artificial Intelligence in the Victorian Public Sector](https://www.vic.gov.au/administrative-guideline-safe-responsible-use-gen-ai-vps) | Victorian Government
-    * [Guidance for the safe and responsible use of generative artificial intelligence in the Victorian public sector](https://www.vic.gov.au/guidance-safe-responsible-use-gen-ai-vps) | Victorian Government
-    * [Use of personal information with publicly available Generative AI tools in the Victorian public sector](https://ovic.vic.gov.au/privacy/resources-for-organisations/use-of-personal-information-with-publicly-available-generative-ai-tools-in-the-victorian-public-sector/) | Office of the Victorian Information Commissioner
-  * Queensland
-
-    * [QGEA Artificial intelligence directions](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/artificial-intelligence) | Queensland Government
-    * [Artificial intelligence governance policy](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/artificial-intelligence-governance-policy) | Queensland Government, August 2025
-    * [Use of generative AI in Queensland Government](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/use-of-generative-ai-in-queensland-government) | Queensland Government
-    * [Foundational artificial intelligence risk assessment guideline](https://www.forgov.qld.gov.au/information-technology/queensland-government-enterprise-architecture-qgea/qgea-directions-and-guidance/qgea-policies-standards-and-guidelines/foundational-artificial-intelligence-risk-assessment-guideline) | Queensland Government
-    * [Managing the ethical risks of artificial intelligence](https://www.qao.qld.gov.au/reports-resources/reports-parliament/managing-ethical-risks-artificial-intelligence) | Queensland Audit Office, September 2025
-  * Western Australia
-
-    * [Artificial Intelligence in the Western Australian Public Sector](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/artificial-intelligence-the-western-australian-public-sector) | Office of Digital Government
-    * [WA Government Artificial Intelligence Policy and Assurance Framework](https://www.wa.gov.au/government/publications/wa-government-artificial-intelligence-policy-and-assurance-framework) | Western Australian Government
-    * [Artificial Intelligence governance toolkit for WA public sector entities](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/artificial-intelligence-governance-toolkit-wa-public-sector-entities) | Office of Digital Government
-    * [Western Australian Artificial Intelligence Advisory Board](https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/western-australian-artificial-intelligence-advisory-board)
-    * [Microsoft 365 Copilot Guidance for WA Government Entities](https://www.wa.gov.au/government/publications/microsoft-365-copilot-guidance-wa-government-entities)
-
-* Education
-
-  * [Australian Framework for Generative Artificial Intelligence in Schools](https://www.education.gov.au/schooling/resources/australian-framework-generative-artificial-intelligence-ai-schools) | Department of Education
-  * [2024 Review of the Australian Framework for Generative Artificial Intelligence in Schools](https://www.education.gov.au/schooling/announcements/2024-review-australian-framework-generative-artificial-intelligence-schools) | Department of Education
-  * [Guidelines regarding the use of generative AI](https://education.nsw.gov.au/teaching-and-learning/education-for-a-changing-world/guidelines-regarding-use-of-generative-ai) | NSW Department of Education
-  * [NSWEduChat](https://education.nsw.gov.au/teaching-and-learning/education-for-a-changing-world/nsweduchat) | NSW Department of Education
-  * [Student use of NSWEduChat](https://education.nsw.gov.au/schooling/parents-and-carers/artificial-intelligence/student-use-of-nsweduchat) | NSW Department of Education
-  * [Australian Framework for Artificial Intelligence in Higher Education](https://www.acses.edu.au/publication/australian-framework-for-artificial-intelligence-in-higher-education/) | Australian Centre for Student Equity and Success, December 2025
-
-* Health care and medical devices
-
-  * Department of Health, Disability and Ageing
-
-    * [Artificial intelligence in health care](https://www.health.gov.au/topics/health-technologies-and-digital-health/what-we-do/artificial-intelligence-ai-in-health-care)
-    * [Safe and Responsible Artificial Intelligence in Health Care: Legislation and Regulation Review, Final Report](https://www.health.gov.au/resources/publications/safe-and-responsible-artificial-intelligence-in-health-care-legislation-and-regulation-review-final-report?language=en) | July 2025
-
-      * [Safe and Responsible Artificial Intelligence in Health Care: Legislation and Regulation Review, Final Report](https://www.health.gov.au/sites/default/files/2025-07/safe-and-responsible-artificial-intelligence-in-health-care-legislation-and-regulation-review-final-report.pdf) | PDF
-  * Australian Commission on Safety and Quality in Health Care
-
-    * [Artificial Intelligence](https://www.safetyandquality.gov.au/clinical-topics/digital-health/artificial-intelligence)
-    * [AI Clinical Use Guide](https://www.safetyandquality.gov.au/resources/ai-clinical-use-guide)
-
-      * [AI Clinical Use Guide: Guidance for clinicians](https://www.safetyandquality.gov.au/sites/default/files/resources/attachments/ai-clinical-use-guide.pdf) | Version 1.0, August 2025
-    * [AI Implementation in Hospitals: Legislation, Policy, Guidelines and Principles, and Evidence about Quality and Safety](https://www.safetyandquality.gov.au/resources/ai-implementation-hospitals-legislation-policy-guidelines-and-principles-and-evidence-about-quality-and-safety)
-
-      * [AI Implementation in Hospitals: Legislation, Policy, Guidelines and Principles, and Evidence about Quality and Safety](https://www.safetyandquality.gov.au/sites/default/files/resources/attachments/ai-implementation-in-hospitals-legislation-policy-guidelines-and-principles-and-evidence-about-quality-and-safety.pdf) | September 2025
-  * Therapeutic Goods Administration
-
-    * [Artificial intelligence and medical device software regulation](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai/manufacturing/artificial-intelligence-ai-and-medical-device-software-regulation)
-    * [Evidence requirements for software using AI](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai/manufacturing/artificial-intelligence-ai-and-medical-device-software-regulation/evidence-requirements-software-using-ai)
-    * [AI-enabled medical devices in the ARTG](https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai/manufacturing/artificial-intelligence-ai-and-medical-device-software-regulation/ai-enabled-medical-devices-artg)
-
-* Financial services, consumer protection, competition, and digital platforms
-
-  * Australian Securities and Investments Commission
-
-    * [REP 798 Beware the gap: Governance arrangements in the face of AI innovation](https://www.asic.gov.au/regulatory-resources/find-a-document/reports/rep-798-beware-the-gap-governance-arrangements-in-the-face-of-ai-innovation/) | October 2024
-
-      * [REP 798 Beware the gap: Governance arrangements in the face of AI innovation](https://download.asic.gov.au/media/mtllqjo0/rep-798-published-29-october-2024.pdf) | PDF
-    * [AI: A blueprint for better banking?](https://www.asic.gov.au/about-asic/news-centre/speeches/ai-a-blueprint-for-better-banking/) | July 2025
-  * Australian Prudential Regulation Authority
-
-    * [APRA Letter to Industry on Artificial Intelligence](https://www.apra.gov.au/apra-letter-to-industry-on-artificial-intelligence-ai)
-    * [Artificial intelligence in financial services: balancing innovation and responsibility](https://www.apra.gov.au/news-and-publications/member-therese-mccarthy-hockey%E2%80%99s-remarks-to-afia-risk-summit-2024) | Remarks to AFIA Risk Summit 2024
-  * Australian Competition and Consumer Commission
-
-    * [Recent developments in artificial intelligence: industry snapshot](https://www.accc.gov.au/about-us/publications/recent-developments-in-ai-industry-snapshot) | December 2025
-
-      * [Recent developments in artificial intelligence](https://www.accc.gov.au/system/files/recent-developments-in-artifical-intelligence.pdf) | PDF
-    * [Digital platform services inquiry: Final report](https://www.accc.gov.au/system/files/digital-platform-services-inquiry-final-report-march2025.pdf) | March 2025
-
-* Courts, legal profession, defence, national security, and workplace impacts
-
-  * Courts and legal profession
-
-    * [Use of Generative Artificial Intelligence Practice Note](https://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-ai) | Federal Court of Australia, GPN-AI
-    * [Generative AI resources: GPN-AI](https://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-ai/generative-ai-resources-gpn-ai) | Federal Court of Australia
-    * [Artificial Intelligence and the Legal Profession](https://lawcouncil.au/policy-agenda/advancing-the-profession/artificial-intelligence-and-the-legal-profession) | Law Council of Australia
-    * [Artificial Intelligence](https://lawcouncil.au/tags/artificial-intelligence) | Law Council of Australia
-    * [Court Protocols on AI](https://www.lawsociety.com.au/AI-hub/court-protocols-ai) | Law Society of New South Wales
-    * [AI for legal professionals](https://www.lawsociety.com.au/publications-and-resources/AI-legal-professionals) | Law Society of New South Wales
-  * Defence and national security
-
-    * [Artificial intelligence](https://www.defence.gov.au/about/governance/artificial-intelligence) | Department of Defence
-    * [A Method for Ethical AI in Defence](https://www.dst.defence.gov.au/publication/ethical-ai) | Defence Science and Technology Group
-
-      * [A Method for Ethical AI in Defence](https://www.dst.defence.gov.au/sites/default/files/publications/documents/A%20Method%20for%20Ethical%20AI%20in%20Defence.pdf) | PDF
-    * [Case Study: A Method for Ethical AI in Defence Applied to an Envisioned Tactical Command and Control System](https://www.dst.defence.gov.au/publication/case-study-method-ethical-ai-defence-applied-envisioned-tactical-command-and-control) | Defence Science and Technology Group
-    * [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF) | Department of Home Affairs FOI release, 2023
-  * Work health and safety
-
-    * [Research at Safe Work Australia](https://www.safeworkaustralia.gov.au/data-and-research/research) | Safe Work Australia
-    * [Emerging Challenges](https://www.safeworkaustralia.gov.au/awhs-strategy_23-33/context/emerging-challenges) | Australian Work Health and Safety Strategy 2023–2033
-    * [Ethical use of artificial intelligence in the workplace: final report](https://www.safework.nsw.gov.au/resource-library/whs-research/Ethical-use-of-artificial-intelligence-in-the-workplace-report.pdf) | SafeWork NSW, 2021
-    * [AI WHS Scorecard](https://www.safework.nsw.gov.au/resource-library/whs-research/AI-WHS-scorecard.pdf) | SafeWork NSW
+* [Use of Generative Artificial Intelligence Practice Note](https://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-ai) | Federal Court of Australia, GPN-AI
+* [Generative AI resources: GPN-AI](https://www.fedcourt.gov.au/law-and-practice/practice-documents/practice-notes/gpn-ai/generative-ai-resources-gpn-ai) | Federal Court of Australia
+* [Artificial Intelligence and the Legal Profession](https://lawcouncil.au/policy-agenda/advancing-the-profession/artificial-intelligence-and-the-legal-profession) | Law Council of Australia
+* [Artificial Intelligence](https://lawcouncil.au/tags/artificial-intelligence) | Law Council of Australia
+* [Court Protocols on AI](https://www.lawsociety.com.au/AI-hub/court-protocols-ai) | Law Society of New South Wales
+* [AI for legal professionals](https://www.lawsociety.com.au/publications-and-resources/AI-legal-professionals) | Law Society of New South Wales
+* [Artificial intelligence](https://www.defence.gov.au/about/governance/artificial-intelligence) | Department of Defence
+* [A Method for Ethical AI in Defence](https://www.dst.defence.gov.au/publication/ethical-ai) | Defence Science and Technology Group
+* [A Method for Ethical AI in Defence](https://www.dst.defence.gov.au/sites/default/files/publications/documents/A%20Method%20for%20Ethical%20AI%20in%20Defence.pdf) | Defence Science and Technology Group, PDF
+* [Case Study: A Method for Ethical AI in Defence Applied to an Envisioned Tactical Command and Control System](https://www.dst.defence.gov.au/publication/case-study-method-ethical-ai-defence-applied-envisioned-tactical-command-and-control) | Defence Science and Technology Group
+* [Testing the Reliability, Validity, and Equity of Terrorism Risk Assessment Instruments](https://www.homeaffairs.gov.au/foi/files/2023/fa-230400097-document-released-part-1.PDF) | Department of Home Affairs FOI release, 2023
+* [Research at Safe Work Australia](https://www.safeworkaustralia.gov.au/data-and-research/research) | Safe Work Australia
+* [Emerging Challenges](https://www.safeworkaustralia.gov.au/awhs-strategy_23-33/context/emerging-challenges) | Australian Work Health and Safety Strategy 2023–2033
+* [Ethical use of artificial intelligence in the workplace: final report](https://www.safework.nsw.gov.au/resource-library/whs-research/Ethical-use-of-artificial-intelligence-in-the-workplace-report.pdf) | SafeWork NSW, 2021
+* [AI WHS Scorecard](https://www.safework.nsw.gov.au/resource-library/whs-research/AI-WHS-scorecard.pdf) | SafeWork NSW
 
 
 #### Brazil
