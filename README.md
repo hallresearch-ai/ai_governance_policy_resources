@@ -16,18 +16,18 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
 
 ## Contents
 
-- [Institutional AI Governance](#institutional-ai-governance)
+- 🔵 [Institutional AI Governance](#institutional-ai-governance)
   - [University Policies and Teaching Guidance](#university-policies-and-teaching-guidance)
-- [Government and Multilateral AI Policy Guidance](#government-and-multilateral-ai-policy-guidance)
+- 🟣 [Government and Multilateral AI Policy Guidance](#government-and-multilateral-ai-policy-guidance)
   - [National and Regional Government Guidance](#national-and-regional-government-guidance)
   - [International and Multilateral Frameworks](#international-and-multilateral-frameworks)
-- [Legal and Regulatory Materials](#legal-and-regulatory-materials)
+- 🟤 [Legal and Regulatory Materials](#legal-and-regulatory-materials)
   - [Documents in Legal Genres](#documents-in-legal-genres)
   - [AI Law, Policy, and Guidance Trackers](#ai-law-policy-and-guidance-trackers)
-- [AI Incidents and Accountability](#ai-incidents-and-accountability)
+- 🟠 [AI Incidents and Accountability](#ai-incidents-and-accountability)
   - [AI Incident Information Sharing Resources](#ai-incident-information-sharing-resources)
   - [Bibliography of Papers on AI Incidents and Failures](#bibliography-of-papers-on-ai-incidents-and-failures)
-- [AI, Labor, and Social Impact](#ai-labor-and-social-impact)
+- 🟢 [AI, Labor, and Social Impact](#ai-labor-and-social-impact)
   - [AI and Labor Resources](#ai-and-labor-resources)
   - [Responsible and Critical Perspectives on Agentic AI](#responsible-and-critical-perspectives-on-agentic-ai)
   - [Critiques of AI](#critiques-of-ai)
@@ -35,19 +35,19 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
     - [Language Diversity and Resource Gaps](#language-diversity-and-resource-gaps)
     - [AI Slop and Information Quality](#ai-slop-and-information-quality)
     - [Measurement Critiques](#measurement-critiques)
-- [Organizations, Bibliographies, and Resource Lists](#organizations-bibliographies-and-resource-lists)
+- 🔷 [Organizations, Bibliographies, and Resource Lists](#organizations-bibliographies-and-resource-lists)
   - [Groups and Organizations](#groups-and-organizations)
   - [Curated Bibliographies](#curated-bibliographies)
   - [List of Lists](#list-of-lists)
-- [Archived Governance Materials](#archived-governance-materials)
+- ⚪ [Archived Governance Materials](#archived-governance-materials)
   - [Archived: Official Policy, Frameworks, and Guidance](#archived-official-policy-frameworks-and-guidance)
 
-> **Visual navigation:** Colored divider bars mark the seven major sections of this repository. They are intentionally limited to top-level divisions so that long subsections remain easy to read.
+> **Visual navigation:** The colored markers identify the repository’s seven major sections. Horizontal rules mark transitions between top-level divisions; subsection headings remain unadorned to keep long resource lists readable.
 
 
-<img src="./assets/section-dividers/institutional.svg" width="100%" alt="">
+---
 
-## Institutional AI Governance
+## 🔵 Institutional AI Governance
 ### University Policies and Teaching Guidance
 
 This section collects institutional policies, teaching guidance, academic integrity materials, syllabus guidance, assessment policies, and university-level statements on the use of AI in educational settings.
@@ -181,9 +181,9 @@ For courses, curricula, tutorials, and educational materials designed to teach A
 * [Yale University, AI Guidance for Teachers](https://poorvucenter.yale.edu/AIguidance)
 * [Yale University, Guidelines for the Use of Generative AI Tools](https://provost.yale.edu/news/guidelines-use-generative-ai-tools)
 
-<img src="./assets/section-dividers/government.svg" width="100%" alt="">
+---
 
-## Government and Multilateral AI Policy Guidance
+## 🟣 Government and Multilateral AI Policy Guidance
 This section serves as a repository for policy documents, regulations, guidelines, and recommendations that govern the ethical and responsible use of artificial intelligence and machine learning technologies. From international legal frameworks to specific national laws, the resources cover a broad spectrum of topics such as fairness, privacy, ethics, and governance.
 
 ### National and Regional Government Guidance
@@ -1515,9 +1515,9 @@ This section includes official tribal, First Nations, Indigenous, public-sector,
 * [Principles for the ethical use of artificial intelligence in the United Nations system](https://unsceb.org/sites/default/files/2023-03/CEB_2022_2_Add.1%20%28AI%20ethics%20principles%29.pdf) | Chief Executives Board for Coordination, 2022-10-27
 * [Terms of Reference and Modalities for the Establishment and Functioning of the Independent International Scientific Panel on Artificial Intelligence and the Global Dialogue on Artificial Intelligence Governance](https://documents.un.org/doc/undoc/ltd/n25/222/68/pdf/n2522268.pdf)
 
-<img src="./assets/section-dividers/legal.svg" width="100%" alt="">
+---
 
-## Legal and Regulatory Materials
+## 🟤 Legal and Regulatory Materials
 ### Documents in Legal Genres
 
 Legislation, litigation, and other legal materials relevant to AI policy and governance.
@@ -1587,9 +1587,9 @@ This section contains trackers, databases, and repositories of laws, policies, a
 * [The Ethical AI Database](https://www.eaidb.org/)
 * [Tracking international legislation relevant to AI at work](https://www.ifow.org/publications/legislation-tracker) | Institute for the Future of Work
 
-<img src="./assets/section-dividers/incidents.svg" width="100%" alt="">
+---
 
-## AI Incidents and Accountability
+## 🟠 AI Incidents and Accountability
 ### AI Incident Information Sharing Resources
 
 This section houses initiatives, networks, repositories, and publications that facilitate collective and interdisciplinary efforts to enhance AI safety. It includes platforms where experts and practitioners come together to share insights, identify potential vulnerabilities, and collaborate on developing robust safeguards for AI systems, including AI incident trackers.
@@ -1634,9 +1634,9 @@ This section houses initiatives, networks, repositories, and publications that f
 * [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://doi.org/10.1609/aaai.v38i21.30347)
 * [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
 
-<img src="./assets/section-dividers/labor-social.svg" width="100%" alt="">
+---
 
-## AI, Labor, and Social Impact
+## 🟢 AI, Labor, and Social Impact
 ### AI and Labor Resources
 
 This section contains links to papers, studies, and general resources pertaining to the relationship between AI and labor dynamics.
@@ -1907,9 +1907,9 @@ This section contains an assortment of papers, articles, essays, and general res
 
 * [The Leaderboard Illusion](https://arxiv.org/pdf/2504.20879)
 
-<img src="./assets/section-dividers/organizations.svg" width="100%" alt="">
+---
 
-## Organizations, Bibliographies, and Resource Lists
+## 🔷 Organizations, Bibliographies, and Resource Lists
 ### Groups and Organizations
 
 * [Aapti Institute](https://aapti.in/)
@@ -2007,9 +2007,9 @@ This section links to other lists of responsible ML or related resources.
 * [XAI Resources](https://github.com/pbiecek/xai_resources) | ![](https://img.shields.io/github/stars/pbiecek/xai_resources?style=social)
 * [xaience](https://github.com/andreysharapov/xaience) | ![](https://img.shields.io/github/stars/andreysharapov/xaience?style=social)
 
-<img src="./assets/section-dividers/archived.svg" width="100%" alt="">
+---
 
-## Archived Governance Materials
+## ⚪ Archived Governance Materials
 ### Archived: Official Policy, Frameworks, and Guidance
 
 For official government files pertaining to responsible AI practices that have been taken offline, we provide Wayback Machine mirror links below. If a document is still available on its original official domain, it can currently be found in its respective subsection above, although it may later be incorporated into this list. Documents may be removed for various reasons (whether political or through routine updates), but archiving them ensures they remain accessible for historical reference. If you're a researcher who finds a dead link to an older version of a government document or one that has altogether been deleted without comment, please feel free to submit a pull request drawing our attention to it and we'll consider it for inclusion. Where possible, we provide links to what appear to be the most recent URLs that governments may want the public to access.
