@@ -557,6 +557,32 @@ This section serves as a repository for policy documents, regulations, guideline
 * [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
 * [Recommendations of the Data Ethics Commission for the Federal Government's Strategy on Artificial Intelligence,](https://www.bmi.bund.de/SharedDocs/downloads/EN/themen/it-digital-policy/recommendations-data-ethics-commission.pdf?__blob=publicationFile&v=3) |  Daten Ethik Kommission, October 9, 2018
 
+#### Greece
+
+##### National AI strategy, foresight, and digital transformation
+
+* [A Blueprint for Greece's AI Transformation](https://foresight.gov.gr/en/studies/A-Blueprint-for-Greece-s-AI-Transformation/) | High-Level Advisory Committee on Artificial Intelligence / Special Secretariat of Foresight, November 25, 2024
+  * [English PDF](https://foresight.gov.gr/wp-content/uploads/2024/11/Blueprint_GREECES_AI_TRANSFORMATION.pdf)
+* [Generative AI Greece 2030: Possible Futures of Generative Artificial Intelligence in Greece](https://foresight.gov.gr/en/studies/Generative-AI-Greece-2030-Possible-Futures-of-Generative-Artificial-Intelligence-in-Greece/) | Special Secretariat of Foresight, National Centre for Social Research (EKKE), and National Centre of Scientific Research “Demokritos” (NCSR), January 15, 2024
+* [Digital Transformation Bible 2020–2025: Artificial Intelligence](https://digitalstrategy.gov.gr/en/sector/digin_ai) | Hellenic Republic, Digital Transformation Bible
+
+##### National AI legislation and AI Act implementation
+
+* [Law 5321/2026: Measures for the implementation of Regulation (EU) 2024/1689 (Artificial Intelligence Act), amendment of Law 4961/2022, and other provisions](https://search.et.gr/el/fek/?fekId=802524) | Government Gazette A' 114/20.07.2026; national implementing framework for the EU AI Act
+* [Law 4961/2022: Emerging Information and Communication Technologies, Strengthening Digital Governance and Other Provisions](https://www.mindigital.gr/wp-content/uploads/2022/12/nomos_4961_2022.pdf) | Ministry of Digital Governance, 2022; includes earlier national provisions on artificial intelligence, subsequently amended
+* [Opinion 9/2026 on the draft law implementing Regulation (EU) 2024/1689 (Artificial Intelligence Act)](https://www.dpa.gr/el/enimerwtiko/prakseisArxis/gnomodotisi-gia-shn-metra-efarmogis-toy-kanonismoy-ee-20241689-toy) | Hellenic Data Protection Authority, July 7, 2026
+
+##### AI literacy, responsible use, and public-sector data governance
+
+* [Artificial Intelligence for Everyone: Responsible Use](https://ai.gov.gr/en/ai-for-all-guide/responsible-use/) | Special Secretariat of Artificial Intelligence and Data Governance
+  * [Annex and Resources](https://ai.gov.gr/en/ai-for-all-guide/annex/)
+* [Data Governance Guide for Business Intelligence (BI) Systems in Public Administration](https://ai.gov.gr/chrisimo-yliko/odigos-diakyvernisis-dedomenon-gia-systimata-epicheirimatikis-eyfyias-bi-sti-dimosia-dioikisi/) | Special Secretariat of Artificial Intelligence and Data Governance
+* [Useful Material](https://ai.gov.gr/resources/) | Special Secretariat of Artificial Intelligence and Data Governance; official hub for national legislation, strategies, guidance, AI literacy resources, risk-management material, and AI/data-governance resources
+
+##### Data protection and AI oversight
+
+* [Artificial Intelligence and Personal Data](https://www.dpa.gr/el/enimerwtiko/thematikes_enotites/tn) | Hellenic Data Protection Authority
+
 #### Hong Kong
 
 * [Artificial Intelligence: Model Personal Data Protection Framework](https://www.pcpd.org.hk/english/resources_centre/publications/files/ai_protection_framework.pdf) | Office of the Privacy Commissioner for Personal Data, June 2024
