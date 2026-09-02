@@ -550,12 +550,51 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Germany
 
-* Bundesamt für Sicherheit in der Informationstechnik
-  * [Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)
-  * [German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html)
-* [Germany AI Strategy Report](https://ai-watch.ec.europa.eu/countries/germany/germany-ai-strategy-report_en)
-* [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf)
-* [Recommendations of the Data Ethics Commission for the Federal Government's Strategy on Artificial Intelligence,](https://www.bmi.bund.de/SharedDocs/downloads/EN/themen/it-digital-policy/recommendations-data-ethics-commission.pdf?__blob=publicationFile&v=3) |  Daten Ethik Kommission, October 9, 2018
+##### National AI strategy and federal policy
+
+* [Strategie Künstliche Intelligenz der Bundesregierung](https://www.ki-strategie-deutschland.de/?cid=728&file=files/downloads/Nationale_KI-Strategie.pdf) | Federal Government, November 2018
+  * [Artificial Intelligence Strategy (English)](https://www.ki-strategie-deutschland.de/?cid=729&file=files/downloads/Nationale_KI-Strategie_engl.pdf)
+* [Strategie Künstliche Intelligenz der Bundesregierung: Fortschreibung 2020](https://www.ki-strategie-deutschland.de/?cid=947&file=files/downloads/201201_Fortschreibung_KI-Strategie.pdf) | Federal Government, December 2020
+  * [Artificial Intelligence Strategy of the German Federal Government: 2020 Update (English)](https://www.ki-strategie-deutschland.de/?cid=955&file=files/downloads/Fortschreibung_KI-Strategie_engl.pdf)
+* [BMBF-Aktionsplan Künstliche Intelligenz: Neue Herausforderungen chancenorientiert angehen](https://www.ki-strategie-deutschland.de/?cid=1334&file=files/downloads/Aktionsplan_Kuenstliche_Intelligenz_2023.pdf) | Federal Ministry of Education and Research (BMBF), 2023
+  * [BMBF Action Plan Artificial Intelligence (English)](https://www.ki-strategie-deutschland.de/?cid=1336&file=files/downloads/Aktionsplan_Kuenstliche_Intelligenz_2023_EN.pdf)
+* [KI-Strategie Deutschland](https://www.ki-strategie-deutschland.de/) | Official federal portal for strategy documents, implementation material, monitoring, and related publications
+
+##### AI Act implementation and regulatory guidance
+
+* [Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz (KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz – KI-MIG)](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html) | Federal law implementing Regulation (EU) 2024/1689 in Germany, July 22, 2026; effective July 29, 2026
+* [KI-Service Desk](https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/start_ki.html) | Bundesnetzagentur; official guidance and support for implementation of the EU AI Act in Germany
+  * [AI Service Desk (English)](https://www.bundesnetzagentur.de/EN/Areas/Digitalisation/AI/start_ki.html)
+* [KI-Kompetenz](https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/7_Kompetenz/start.html) | Bundesnetzagentur; guidance on AI literacy and Article 4 of the EU AI Act
+  * [AI literacy (English)](https://www.bundesnetzagentur.de/EN/Areas/Digitalisation/AI/07_Literacy/start.html)
+
+##### AI in the federal administration
+
+* [KI in der Verwaltung](https://bmds.bund.de/themen/kuenstliche-intelligenz/ki-in-der-verwaltung) | Federal Ministry for Digital Transformation and Government Modernisation (BMDS); official hub for federal-administration AI guidance, transparency, competence building, and implementation
+* [Leitlinien für den Einsatz Künstlicher Intelligenz in der Bundesverwaltung](https://bmds.bund.de/fileadmin/BMDS/Dokumente/CDR_Leitlinien-ki-bundesverwaltung.pdf) | BMDS; guidelines for responsible and secure use of AI in the federal administration
+* [KI-Guide: Ihr Umsetzungsfahrplan für KI-Systeme in der Verwaltung](https://bmds.bund.de/fileadmin/BMDS/Dokumente/251118_KI_Guide_out.pdf) | BMDS; lifecycle-oriented implementation guide for public-sector AI projects
+* [Kompetenzaufbau gemäß Art. 4 AI Act (KI-VO)](https://bmds.bund.de/fileadmin/BMDS/Dokumente/CDR_CDR_251025_%C3%9Cbersicht_KI-Kompetenzaufbau_nach_AI_Act_Ma_BL_clean.pdf) | BMDS and Federal Academy of Public Administration; guidance on AI literacy and competence building in the federal administration
+* [KI-Handreichung für die Bundesverwaltung](https://www.bfdi.bund.de/SharedDocs/Downloads/DE/DokumenteBfDI/Dokumente-allg/2025/Handreichung-KI.pdf?__blob=publicationFile&v=1) | Federal Commissioner for Data Protection and Freedom of Information (BfDI), December 22, 2025
+* [Selbstverpflichtende Leitlinien für den KI-Einsatz in der behördlichen Praxis der Arbeits- und Sozialverwaltung](https://www.bmas.de/DE/Service/Publikationen/Broschueren/a862-leitlinien-ki-einsatz-behoerdliche-praxis-arbeits-sozialverwaltung.html) | Federal Ministry of Labour and Social Affairs (BMAS), February 2023
+* [KI-Charta des Auswärtigen Amts](https://www.auswaertiges-amt.de/de/aussenpolitik/sicherheitspolitik/cyber-aussenpolitik/ki-charta-node) | Federal Foreign Office; eight principles for responsible AI across the AI lifecycle
+  * [Die KI-Charta des Auswärtigen Amts im Detail](https://www.auswaertiges-amt.de/de/aussenpolitik/sicherheitspolitik/cyber-aussenpolitik/ki-charta-node/ki-charta-faq) | Questions and answers on the charter and its governance context
+
+##### Cybersecurity, assurance, and secure AI
+
+* Bundesamt für Sicherheit in der Informationstechnik (BSI)
+  * [Generative KI-Modelle: Chancen und Risiken für Industrie und Behörden](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Generative_KI-Modelle.pdf?__blob=publicationFile&v=7)
+    * [Generative AI Models: Opportunities and Risks for Industry and Authorities (English)](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html)
+  * [German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html) | BSI and ANSSI
+  * [Kriterienkatalog des BSI zur Integration extern bereitgestellter generativer KI-Modelle in der Bundesverwaltung](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Kriterienkatalog_KI-Modelle_Bundesverwaltung.pdf?__blob=publicationFile&v=3) | Security criteria for integrating externally provided generative AI models in the federal administration
+  * [AI Cloud Service Compliance Criteria Catalogue (AIC4)](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf?__blob=publicationFile&v=4) | English edition; criteria for assessing security and robustness of cloud-based AI services
+  * [Secure, Robust and Transparent Application of Artificial Intelligence](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Secure_robust_and_transparent_application_of_AI.pdf?__blob=publicationFile&v=2) | English-language BSI position and recommendations
+
+##### Parliamentary, ethical, and external assessments
+
+* [Enquete-Kommission „Künstliche Intelligenz“](https://www.bundestag.de/webarchiv/Ausschuesse/ausschuesse19/weitere_gremien/enquete_ki) | German Bundestag; archive includes the 2020 final report (Drucksache 19/23700), German short summary, and official English short summary
+* [Gutachten der Datenethikkommission](https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Arbeitshilfen/Datenethikkommission_20191023_Gutachten.pdf?__blob=publicationFile&v=6) | Data Ethics Commission of the Federal Government, October 2019
+  * [Opinion of the Data Ethics Commission: Executive Summary (English)](https://www.bfdi.bund.de/SharedDocs/Downloads/EN/Datenschutz/Data-Ethics-Commission_Opinion.pdf?__blob=publicationFile&v=2)
+* [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/?cid=1338&file=files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf) | OECD review commissioned by German federal ministries; external assessment of German AI policy and implementation
 
 #### Greece
 
