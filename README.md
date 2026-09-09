@@ -549,12 +549,20 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Croatia
 
+##### National digital and AI policy
+
+* [Digital Croatia Strategy for the period until 2032](https://mpudt.gov.hr/UserDocsImages/RDD/SDURDD-dokumenti/Strategija_Digitalne_Hrvatske_final_v1_EN.pdf) | Government of Croatia, national digital strategy incorporating artificial intelligence, December 2022
+
+##### AI governance and data protection
+
+* [Zaštita osobnih podataka i umjetna inteligencija: Smjernice za subjekte koji razvijaju modele i sustave umjetne inteligencije](https://azop.hr/wp-content/uploads/2026/05/AZOP-Smjernice-za-razvoj-AI-sustava.pdf) | Croatian Personal Data Protection Agency (AZOP), Data Protection and Artificial Intelligence: Guidelines for Organizations Developing AI Models and Systems, May 7, 2026
+* [Preporuka o primjeni članka 22. Opće uredbe o zaštiti podataka u kontekstu automatiziranog donošenja odluka, profiliranja i uporabe sustava umjetne inteligencije](https://azop.hr/preporuka-o-automatiziranom-donosenju-odluka_clanak_22_gdpr/) | Croatian Personal Data Protection Agency (AZOP), Recommendation on GDPR Article 22 in the Context of Automated Decision-Making, Profiling, and the Use of AI Systems, May 11, 2026
 * [Etički kodeks za pripremu i provedbu projekata financiranih projektom Digitalne, inovativne i zelene tehnologije, DIGIT PROJEKT](https://mzom.gov.hr/UserDocsImages/dokumenti/Znanost/Projekt-digit/Eticki-kodeks-verzija-2-Projekt-DIGIT-10-3-2025-FINAL.pdf) | Ministry of Science, Education and Youth (MZOM), Ethical Code for the DIGIT Project, March 2025
-* [Digital Croatia Strategy for the period until 2032](https://mpudt.gov.hr/UserDocsImages/RDD/SDURDD-dokumenti/Strategija_Digitalne_Hrvatske_final_v1_EN.pdf)
-* [Nacionalni program zaštite potrošača za razdoblje do 2028. godine](https://vlada.gov.hr/UserDocsImages//2016/Sjednice/2025/Kolovoz/112_sjednica_VRH//112%20-%205a%20Program.pdf) | Ministry of Economy and Sustainable Development (MINGOR), National Consumer Protection Programme to 2028, July 2025
-* [Pametna sigurnost: Praktična primjena umjetne inteligencije i nosivih senzora u građevinarstvu](https://uznr.mrms.hr/wp-content/uploads/2025/04/09-Pametna-sigurnost.pdf) | Ministry of Labour, Pension System, Family and Social Policy (MRMS), "Smart Safety" campaign presentation on AI and wearable sensors in construction, April 2025
-* [Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence Volume 1 Croatia](https://www.oecd.org/en/publications/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1_6d530a88-en/croatia_38d8145c-en.html) | OECD
-  * [PDF here](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1-country-notes_b0385317/croatia_5665ea22/38d8145c-en.pdf)
+
+##### External assessment
+
+* [Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence Volume 1: Croatia](https://www.oecd.org/en/publications/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1_6d530a88-en/croatia_38d8145c-en.html) | OECD
+  * [PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1-country-notes_b0385317/croatia_5665ea22/38d8145c-en.pdf)
 
 #### Denmark
 
