@@ -501,7 +501,17 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Colombia
 
-* [Presidency of the Republic of Colombia, Marco Ético para la Inteligencia Artificial en Colombia](https://minciencias.gov.co/sites/default/files/marco-etico-ia-colombia-2021.pdf) | Ethical Framework for Artificial Intelligence in Colombia, November 2021
+##### National AI strategy and policy
+
+* [CONPES 4144, Política Nacional de Inteligencia Artificial](https://inteligenciaartificial.minciencias.gov.co/wp-content/uploads/2025/09/CONPES-4144.pdf) | Departamento Nacional de Planeación and Government of Colombia, February 14, 2025
+* [Hoja de Ruta para el Desarrollo y Aplicación de la Inteligencia Artificial en Colombia](https://inteligenciaartificial.minciencias.gov.co/wp-content/uploads/2024/02/Hoja-de-Ruta-Adopcion-Etica-y-Sostenible-de-Inteligencia-Artificial-Colombia-1-3.pdf) | Ministerio de Ciencia, Tecnología e Innovación (MinCiencias), February 2024
+* [CONPES 3975, Política Nacional para la Transformación Digital e Inteligencia Artificial](https://normograma.mintic.gov.co/mintic/compilacion/docs/CONPES_DNP_3975_2019.htm) | Departamento Nacional de Planeación, November 8, 2019
+
+##### Ethics, public-sector governance, and data protection
+
+* [Guía Ética para la Implementación, Desarrollo y Uso de Sistemas de Inteligencia Artificial en Entidades Públicas de Colombia](https://www.crcom.gov.co/es/biblioteca-virtual/guia-etica-para-implementacion-desarrollo-y-uso-sistemas-inteligencia-artificial) | Government of Colombia, December 2025
+* [Marco Ético para la Inteligencia Artificial en Colombia](https://dapre.presidencia.gov.co/TD/Marco-Etico-IA-Colombia-2021.pdf) | Departamento Administrativo de la Presidencia de la República, final version, October 2021
+* [Circular Externa No. 002 de 2024: Lineamientos sobre el Tratamiento de Datos Personales en Sistemas de Inteligencia Artificial](https://sedeelectronica.sic.gov.co/transparencia/normativa/circular-externa-2-de-2024-de-la-superintendencia-de-industria-y-comercio-lineamientos-sobre-el-tratamiento-de-datos) | Superintendencia de Industria y Comercio, August 21, 2024
 
 #### Costa Rica
 
@@ -519,12 +529,6 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [Estrategia de Transformación Digital 2023–2027](https://micitt.go.cr/gobernanza-digital-2/estrategia_de_transformacion-digital_2023-2027) | MICITT
 * [Plan Nacional de Ciencia, Tecnología e Innovación 2022–2027](https://cambioclimatico.go.cr/wp-content/uploads/2023/06/Plan-Nacional-Ciencia-Tecnologia-Innovacion-2022-2027.pdf) | MICITT
-
-##### Proposed AI legislation
-
-* [Expediente 23.771, Ley de Regulación de la Inteligencia Artificial en Costa Rica](https://www.asamblea.go.cr/sd/referencia_cedil/TA_14_2025/Vinculos/7_Exp23771.pdf) | Asamblea Legislativa de la República de Costa Rica, proposed AI regulation
-* [Expediente 23.919, Ley para la Promoción Responsable de la Inteligencia Artificial en Costa Rica](https://www.asamblea.go.cr/sd/referencia_cedil/TA_14_2025/Vinculos/8_Exp23919.pdf) | Asamblea Legislativa de la República de Costa Rica, proposed responsible AI legislation
-* [Expediente 24.875, Ley para Regular el Uso de Inteligencia Artificial en los Procesos Electorales](https://www.asamblea.go.cr/sd/referencia_cedil/TA_14_2025/Vinculos/10_Exp24875.pdf) | Asamblea Legislativa de la República de Costa Rica, proposed regulation of AI use in electoral processes
 
 #### Croatia
 
