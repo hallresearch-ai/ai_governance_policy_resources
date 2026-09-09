@@ -497,7 +497,24 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### China
 
-* [人工智能全球治理行动计划](https://www.gov.cn/yaowen/liebiao/202507/content_7033929.htm) | Action Plan on Global Governance of Artificial Intelligence, July 26, 2025
+##### National AI strategy, ethics, and safety governance
+
+* [新一代人工智能发展规划 (New Generation Artificial Intelligence Development Plan)](https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm) | State Council, July 2017
+* [新一代人工智能治理原则——发展负责任的人工智能 (Governance Principles for the New Generation Artificial Intelligence: Developing Responsible Artificial Intelligence)](https://www.most.gov.cn/kjbgz/201906/t20190617_147107.html) | Ministry of Science and Technology, June 17, 2019
+* [新一代人工智能伦理规范 (Ethical Norms for New Generation Artificial Intelligence)](https://www.most.gov.cn/kjbgz/202109/t20210926_177063.html) | National New Generation Artificial Intelligence Governance Expert Committee, September 25, 2021
+* [人工智能安全治理框架 2.0 (Artificial Intelligence Safety Governance Framework 2.0)](https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm) | September 15, 2025
+
+##### Generative AI and synthetic content regulation
+
+* [互联网信息服务深度合成管理规定 (Provisions on the Administration of Deep Synthesis Internet Information Services)](https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm) | Cyberspace Administration of China, Ministry of Industry and Information Technology, and Ministry of Public Security, November 25, 2022
+* [生成式人工智能服务管理暂行办法 (Interim Measures for the Management of Generative Artificial Intelligence Services)](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm) | Cyberspace Administration of China and six other national authorities, July 10, 2023
+* [人工智能生成合成内容标识办法 (Measures for Labeling Artificial Intelligence-Generated and Synthetic Content)](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm) | Cyberspace Administration of China, Ministry of Industry and Information Technology, Ministry of Public Security, and National Radio and Television Administration, March 7, 2025
+
+##### Global AI governance
+
+* [全球人工智能治理倡议 (Global Artificial Intelligence Governance Initiative)](https://www.mfa.gov.cn/ziliao_674904/1179_674909/202310/t20231020_11164831.shtml) | October 2023
+* [人工智能全球治理行动计划 (Action Plan on Global Governance of Artificial Intelligence)](https://www.gov.cn/yaowen/liebiao/202507/content_7033929.htm) | July 26, 2025
+* [国际人工智能伦理治理行动计划 (International Artificial Intelligence Ethical Governance Action Plan)](https://www.gov.cn/yaowen/liebiao/202607/content_7075890.htm) | July 17, 2026
 
 #### Colombia
 
