@@ -505,7 +505,26 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Costa Rica
 
-* [Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones](https://cambioclimatico.go.cr/wp-content/uploads/2023/06/Plan-Nacional-Ciencia-Tecnologia-Innovacion-2022-2027.pdf) | MICITT, Plan Nacional de Ciencia, Tecnología e Innovación 2022–2027
+##### National AI strategy and implementation
+
+* [Estrategia Nacional de Inteligencia Artificial de Costa Rica 2024–2027](https://www.micitt.go.cr/sites/default/files/2024-10/Estrategia%20Nacional%20de%20Inteligencia%20Artificial%20de%20Costa%20Rica%20ESP.pdf) | Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (MICITT), October 2024
+* [Plan de Acción de la Estrategia Nacional de Inteligencia Artificial de Costa Rica](https://www.micitt.go.cr/gobierno_digital/inteligencia_artificial) | MICITT, August 2025
+* [Resumen Ficha Técnica ENIA 2024–2027](https://micitt.go.cr/sites/default/files/2024-10/RESUMEN%20FICHA%20T%C3%89CNICA%20ENIA%202024-2027_0.pdf) | MICITT, October 2024
+
+##### Institutional AI governance
+
+* [Circular No. 31-2026: Reglas y lineamientos éticos para el uso de Inteligencia Artificial Generativa por parte de las personas servidoras judiciales](https://nexuspj.poder-judicial.go.cr/document/avi-1-0003-15389) | Poder Judicial de Costa Rica, February 20, 2026
+
+##### Related national digital and innovation policy
+
+* [Estrategia de Transformación Digital 2023–2027](https://micitt.go.cr/gobernanza-digital-2/estrategia_de_transformacion-digital_2023-2027) | MICITT
+* [Plan Nacional de Ciencia, Tecnología e Innovación 2022–2027](https://cambioclimatico.go.cr/wp-content/uploads/2023/06/Plan-Nacional-Ciencia-Tecnologia-Innovacion-2022-2027.pdf) | MICITT
+
+##### Proposed AI legislation
+
+* [Expediente 23.771, Ley de Regulación de la Inteligencia Artificial en Costa Rica](https://www.asamblea.go.cr/sd/referencia_cedil/TA_14_2025/Vinculos/7_Exp23771.pdf) | Asamblea Legislativa de la República de Costa Rica, proposed AI regulation
+* [Expediente 23.919, Ley para la Promoción Responsable de la Inteligencia Artificial en Costa Rica](https://www.asamblea.go.cr/sd/referencia_cedil/TA_14_2025/Vinculos/8_Exp23919.pdf) | Asamblea Legislativa de la República de Costa Rica, proposed responsible AI legislation
+* [Expediente 24.875, Ley para Regular el Uso de Inteligencia Artificial en los Procesos Electorales](https://www.asamblea.go.cr/sd/referencia_cedil/TA_14_2025/Vinculos/10_Exp24875.pdf) | Asamblea Legislativa de la República de Costa Rica, proposed regulation of AI use in electoral processes
 
 #### Croatia
 
