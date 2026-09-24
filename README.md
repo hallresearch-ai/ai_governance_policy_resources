@@ -1719,6 +1719,7 @@ This section houses initiatives, networks, repositories, and publications that f
 * [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
 * [Mitre's AI Risk Database](https://github.com/mitre-atlas/ai-risk-database) | ![](https://img.shields.io/github/stars/mitre-atlas/ai-risk-database?style=social)
 * [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
+* [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | ![](https://img.shields.io/github/stars/Continuum-AI-Corp/Orca-AI-Incident-Archive?style=social)
 * [Resemble.AI Deepfake Incident Database](https://www.resemble.ai/deepfake-database/)
 * [Verica Open Incident Database](https://www.thevoid.community/) | (VOID)
 
