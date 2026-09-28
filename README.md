@@ -1730,6 +1730,7 @@ This section collects databases, reporting systems, and structured trackers that
 ##### Legal and Professional AI Failures
 
 - [AI Hallucination Cases Database](https://www.damiencharlotin.com/hallucinations/) | Damien Charlotin
+- [AI Hallucination Cases Tracker](https://naturalandartificiallaw.com/ai-hallucination-cases-tracker/) | Matthew Lee, Natural and Artificial Intelligence in Law
 
 ##### Automated Vehicles and Driving Systems
 
