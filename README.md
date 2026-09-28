@@ -1703,24 +1703,42 @@ This section contains trackers, databases, and repositories of laws, policies, a
 ---
 
 ## 🟠 AI Incidents and Accountability
-### AI Incident Information Sharing Resources
 
-This section houses initiatives, networks, repositories, and publications that facilitate collective and interdisciplinary efforts to enhance AI safety. It includes platforms where experts and practitioners come together to share insights, identify potential vulnerabilities, and collaborate on developing robust safeguards for AI systems, including AI incident trackers.
+### AI Incident Databases and Information-Sharing Resources
 
-* [AI Incident Database](https://incidentdatabase.ai/) | Responsible AI Collaborative
-* [AI Vulnerability Database](https://avidml.org/) | (AVID)
-* [AIAAIC](https://www.aiaaic.org/)
-* [AI Badness: An open catalog of generative AI badness](https://badness.ai/)
-* [AI Risk Database](https://airisk.io/)
-* [Atlas of AI Risks](https://social-dynamics.net/atlas/)
-* [Brennan Center for Justice, Artificial Intelligence Legislation Tracker](https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker)
-* [EthicalTech@GW, Deepfakes & Democracy Initiative](https://blogs.gwu.edu/law-eti/deepfakes-disinformation-democracy/)
-* [George Washington University Law School's AI Litigation Database](https://blogs.gwu.edu/law-eti/ai-litigation-database/)
-* [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://osf.io/fvqg3/)
-* [Mitre's AI Risk Database](https://github.com/mitre-atlas/ai-risk-database) | ![](https://img.shields.io/github/stars/mitre-atlas/ai-risk-database?style=social)
-* [OECD AI Incidents Monitor](https://oecd.ai/en/incidents)
-* [Resemble.AI Deepfake Incident Database](https://www.resemble.ai/deepfake-database/)
-* [Verica Open Incident Database](https://www.thevoid.community/) | (VOID)
+This section collects databases, reporting systems, and structured trackers that document real-world AI incidents, harms, vulnerabilities, and failures. Resources include broad incident repositories as well as specialized collections focused on particular technologies, domains, or types of harm. These resources can support incident research, comparative analysis, accountability work, and the development of evidence about how AI systems fail in practice.
+
+#### General AI Incident Databases and Reporting Resources
+
+- [AI Incident Database](https://incidentdatabase.ai/) | Responsible AI Collaborative
+- [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository) | AI, Algorithmic, and Automation Incidents and Controversies
+- [AI Vulnerability Database](https://avidml.org/) | AVID
+- [MIT AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) | MIT AI Risk Initiative
+- [MITRE ATLAS AI Incident Sharing](https://ai-incidents.mitre.org/) | MITRE
+- [OECD AI Incidents Monitor](https://oecd.ai/en/incidents) | OECD.AI
+- [AI Flaw Reporting Resources](https://www.ai-reports.org/resources) | Directory of AI incident and vulnerability reporting resources
+
+#### Specialized AI Incident Collections and Trackers
+
+##### Conversational AI and AI Companions
+
+- [AI Companion Mortality Database](https://aimortality.org/) | Database of deaths and other severe incidents in which conversational AI interaction has been alleged to be a contributing factor
+- [NOPE AI Incident Tracker](https://nope.net/incidents) | Tracker of reported harms involving conversational AI, AI impersonation, automated decision systems, and related technologies
+
+##### Deepfakes and Synthetic Media
+
+- [Political Deepfakes Incidents Database](https://osf.io/fvqg3/) | Christina P. Walker, Daniel S. Schiff, and Kaylyn Jackson Schiff
+- [Resemble AI Deepfake & Agentic AI Incident Database](https://www.resemble.ai/learn/deepfake-incident-database) | Resemble AI
+
+##### Legal and Professional AI Failures
+
+- [AI Hallucination Cases Database](https://www.damiencharlotin.com/hallucinations/) | Damien Charlotin
+
+##### Automated Vehicles and Driving Systems
+
+- [NHTSA Standing General Order on Crash Reporting](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting) | National Highway Traffic Safety Administration
+- [UC Berkeley SafeTREC Autonomous Vehicle Safety Dashboard](https://tims.berkeley.edu/tools/avsafety.php) | Safe Transportation Research and Education Center, University of California, Berkeley
+- [California DMV Autonomous Vehicle Incident Reporting](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicles-incident-reporting/) | California Department of Motor Vehicles
 
 ### Bibliography of Papers on AI Incidents and Failures
 
