@@ -1704,30 +1704,29 @@ This section contains trackers, databases, and repositories of laws, policies, a
 
 ## 🟠 AI Incidents and Accountability
 
-### AI Incident Databases and Information-Sharing Resources
+### AI Incident Databases, Reporting Systems, and Information-Sharing Resources
 
-This section collects databases, reporting systems, and structured trackers that document real-world AI incidents, harms, vulnerabilities, and failures. Resources include broad incident repositories as well as specialized collections focused on particular technologies, domains, or types of harm. These resources can support incident research, comparative analysis, accountability work, and the development of evidence about how AI systems fail in practice.
+This section collects databases, reporting systems, and structured trackers that document real-world AI incidents, harms, vulnerabilities, failures, and near misses. It includes broad incident repositories, mechanisms for reporting and sharing incidents, specialized collections focused on particular technologies or types of harm, and analytical interfaces built from existing incident datasets.
 
-#### General AI Incident Databases and Reporting Resources
+#### General AI Incident Databases and Reporting Infrastructure
 
 - [AI Incident Database](https://incidentdatabase.ai/) | Responsible AI Collaborative
 - [AIAAIC Repository](https://www.aiaaic.org/aiaaic-repository) | AI, Algorithmic, and Automation Incidents and Controversies
 - [AI Vulnerability Database](https://avidml.org/) | AVID
-- [MIT AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) | MIT AI Risk Initiative
+- [FLARE-AI: Flaw Reporting for AI](https://www.ai-reports.org/) | Open-source infrastructure for reporting and coordinating disclosure of AI flaws and incidents
 - [MITRE ATLAS AI Incident Sharing](https://ai-incidents.mitre.org/) | MITRE
-- [OECD AI Incidents Monitor](https://oecd.ai/en/incidents) | OECD.AI
-- [AI Flaw Reporting Resources](https://www.ai-reports.org/resources) | Directory of AI incident and vulnerability reporting resources
+- [OECD AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents) | OECD.AI
 
-#### Specialized AI Incident Collections and Trackers
+#### Specialized AI Incident Databases and Trackers
 
 ##### Conversational AI and AI Companions
 
-- [AI Companion Mortality Database](https://aimortality.org/) | Database of deaths and other severe incidents in which conversational AI interaction has been alleged to be a contributing factor
-- [NOPE AI Incident Tracker](https://nope.net/incidents) | Tracker of reported harms involving conversational AI, AI impersonation, automated decision systems, and related technologies
+- [AI Companion Mortality Database](https://aimortality.org/) | Documented cases in which conversational AI interaction has been alleged to contribute to deaths or other severe incidents
+- [NOPE AI Incident Tracker](https://nope.net/incidents) | Curated reports of harms and adverse experiences involving conversational AI, AI impersonation, automated decision systems, and related technologies
 
 ##### Deepfakes and Synthetic Media
 
-- [Political Deepfakes Incidents Database](https://osf.io/fvqg3/) | Christina P. Walker, Daniel S. Schiff, and Kaylyn Jackson Schiff
+- [Political Deepfakes Incidents Database](https://www.grail-lab.org/project/political-deepfakes-incident-database) | GRAIL Lab
 - [Resemble AI Deepfake & Agentic AI Incident Database](https://www.resemble.ai/learn/deepfake-incident-database) | Resemble AI
 
 ##### Legal and Professional AI Failures
@@ -1740,30 +1739,47 @@ This section collects databases, reporting systems, and structured trackers that
 - [UC Berkeley SafeTREC Autonomous Vehicle Safety Dashboard](https://tims.berkeley.edu/tools/avsafety.php) | Safe Transportation Research and Education Center, University of California, Berkeley
 - [California DMV Autonomous Vehicle Incident Reporting](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicles-incident-reporting/) | California Department of Motor Vehicles
 
-### Bibliography of Papers on AI Incidents and Failures
+##### AI Agents and Coding Systems
 
-* [A comprehensive taxonomy of hallucinations in Large Language Models](https://arxiv.org/pdf/2508.01781)
-* [AI Ethics Issues in Real World: Evidence from AI Incident Database](https://doi.org/10.48550/arXiv.2206.07635)
-* [Artificial Intelligence Incidents & Ethics: A Narrative Review](https://doi.org/10.54489/ijtim.v2i2.80)
-* [Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures](https://doi.org/10.48550/arXiv.1610.07997)
-* [Center for Countering Digital Hate, YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf) | (CCDH)
-* [Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67586997eaec5c6ae3bb5e24/1733847451191/ASP+DFP+Report.pdf) | American Sunlight Project, December 11, 2024
-* [Deployment Corrections: An Incident Response Framework for Frontier AI Models](https://doi.org/10.48550/arXiv.2310.00328)
-* [Exploring Trust With the AI Incident Database](https://doi.org/10.1177/21695067231198084)
-* [Indexing AI Risks with Incidents, Issues, and Variants](https://doi.org/10.48550/arXiv.2211.10384)
-* [Good Systems, Bad Data?: Interpretations of AI Hype and Failures](https://doi.org/10.1002/pra2.275)
-* [Hidden Risks: Artificial Intelligence and Hermeneutic Harm](https://link.springer.com/article/10.1007/s11023-025-09733-0)
-* [How Does AI Fail Us? A Typological Theorization of AI Failures](https://aisel.aisnet.org/icis2023/aiinbus/aiinbus/25/)
-* [New Noodlophile Stealer Distributes Via Fake AI Video Generation Platforms](https://engage.morphisec.com/hubfs/Noodlophile_Ransomware_ThreatAnalysis.pdf) | Morphisec Threat Analysis
-* [Omission and Commission Errors Underlying AI Failures](https://doi.org/10.1007/s00146-022-01585-x)
-* [Ontologies for Reasoning about Failures in AI Systems](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf)
-* [Planning for Natural Language Failures with the AI Playbook](https://doi.org/10.1145/3411764.3445735)
-* [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://arxiv.org/abs/2011.08512)
-* [SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security](https://doi.org/10.1145/3664476.3664510)
-* [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://doi.org/10.48550/arXiv.2407.15685)
-* [Understanding and Avoiding AI Failures: A Practical Guide](https://doi.org/10.3390/philosophies6030053)
-* [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://doi.org/10.1609/aaai.v38i21.30347)
-* [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604700)
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Open-source archive of source-linked AI agent security incidents and near misses
+- [Permission Protocol AI Agent Incident Tracker](https://permissionprotocol.com/agent-incident-tracker) | Sourced tracker of reported AI agent incidents and controlled security demonstrations
+- [StupidLLM AI Agent Incident Database](https://www.stupidllm.com/incidents/) | Curated database of documented failures involving coding agents and other agentic AI systems
+
+#### AIID-Derived Interfaces and Aggregation Projects
+
+The resources below provide additional classification, visualization, aggregation, or search interfaces over incident data collected elsewhere. They are listed separately because they should not be treated as wholly independent incident corpora.
+
+- [MIT AI Incident Tracker](https://airisk.mit.edu/ai-incident-tracker) | MIT AI Risk Initiative; applies an additional classification and analysis layer to incidents from the AI Incident Database
+- [AIPolicyTracker AI Incidents](https://aipolicytracker.org/ai-risk/incidents) | Search, filtering, visualization, and export interface for AI Incident Database metadata
+- [Butterfly Labs AI Incidents](https://huggingface.co/datasets/butterflylabs/ai-incidents) | Automated aggregation of AI Incident Database records and additional RSS-derived material; classifications and underlying sources should be independently checked
+
+### Bibliography and Research on AI Incidents and Failures
+
+- [AI Incident Database in the Literature and Public Record](https://bib.raicollab.org/) | Responsible AI Collaborative
+- [A Comprehensive Taxonomy of Hallucinations in Large Language Models](https://arxiv.org/abs/2508.01781)
+- [AI Ethics Issues in Real World: Evidence from AI Incident Database](https://arxiv.org/abs/2206.07635)
+- [Artificial Intelligence Incidents & Ethics: A Narrative Review](https://journals.gaftim.com/index.php/ijtim/article/view/80)
+- [Artificial Intelligence Safety and Cybersecurity: A Timeline of AI Failures](https://arxiv.org/abs/1610.07997)
+- [Center for Countering Digital Hate, YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/research/youtube-anorexia-algorithm/) | Center for Countering Digital Hate
+- [Deepfake Pornography Goes to Washington: Measuring the Prevalence of AI-Generated Non-Consensual Intimate Imagery Targeting Congress](https://www.americansunlight.org/research) | American Sunlight Project, December 11, 2024
+- [Deployment Corrections: An Incident Response Framework for Frontier AI Models](https://arxiv.org/abs/2310.00328)
+- [Exploring Trust With the AI Incident Database](https://journals.sagepub.com/doi/10.1177/21695067231198084)
+- [Flaw Reporting for AI](https://arxiv.org/abs/2606.31567)
+- [Good Systems, Bad Data?: Interpretations of AI Hype and Failures](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/pra2.275)
+- [Hidden Risks: Artificial Intelligence and Hermeneutic Harm](https://link.springer.com/article/10.1007/s11023-025-09733-0)
+- [How Does AI Fail Us? A Typological Theorization of AI Failures](https://aisel.aisnet.org/icis2023/aiinbus/aiinbus/25/)
+- [Indexing AI Risks with Incidents, Issues, and Variants](https://arxiv.org/abs/2211.10384)
+- [Merging AI Incidents Research with Political Misinformation Research: Introducing the Political Deepfakes Incidents Database](https://ojs.aaai.org/index.php/AAAI/article/view/30349)
+- [Omission and Commission Errors Underlying AI Failures](https://pmc.ncbi.nlm.nih.gov/articles/PMC9669536/)
+- [Ontologies for Reasoning about Failures in AI Systems](https://mclumd.github.io/ALMECOM%20Papers/2007/Schmill%20et%20al.%20-%202007%20-%20Ontologies%20for%20reasoning%20about%20failures%20in%20AI%20syst.pdf)
+- [Planning for Natural Language Failures with the AI Playbook](https://www.microsoft.com/en-us/research/publication/planning-for-natural-language-failures-with-the-ai-playbook/)
+- [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://ojs.aaai.org/index.php/AAAI/article/view/17817)
+- [SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security](https://doi.org/10.1145/3664476.3664510)
+- [The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures](https://arxiv.org/abs/2609.11030)
+- [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://arxiv.org/abs/2407.15685)
+- [Understanding and Avoiding AI Failures: A Practical Guide](https://arxiv.org/abs/2104.12582)
+- [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://ojs.aaai.org/index.php/AAAI/article/view/30347)
+- [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://doi.org/10.1145/3600211.3604700)
 
 ---
 
