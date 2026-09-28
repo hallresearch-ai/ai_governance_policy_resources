@@ -1774,6 +1774,7 @@ The resources below provide additional classification, visualization, aggregatio
 - [Planning for Natural Language Failures with the AI Playbook](https://www.microsoft.com/en-us/research/publication/planning-for-natural-language-failures-with-the-ai-playbook/)
 - [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://ojs.aaai.org/index.php/AAAI/article/view/17817)
 - [SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security](https://doi.org/10.1145/3664476.3664510)
+- [The AI Incident Database in the Literature and Public Record](https://bib.raicollab.org/) | Responsible AI Collaborative
 - [The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures](https://arxiv.org/abs/2609.11030)
 - [The Atlas of AI Incidents in Mobile Computing: Visualizing the Risks and Benefits of AI Gone Mobile](https://arxiv.org/abs/2407.15685)
 - [Understanding and Avoiding AI Failures: A Practical Guide](https://arxiv.org/abs/2104.12582)
