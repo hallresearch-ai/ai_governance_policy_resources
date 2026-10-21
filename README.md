@@ -16,18 +16,19 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
 
 ## Contents
 
-- 🔵 [Institutional AI Governance](https://github.com/hallresearch-ai/ai_governance_policy_resources#-institutional-ai-governance)
+- [Institutional AI Governance](https://github.com/hallresearch-ai/ai_governance_policy_resources#institutional-ai-governance)
   - [University Policies and Teaching Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#university-policies-and-teaching-guidance)
-- 🟣 [Government and Multilateral AI Policy Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#-government-and-multilateral-ai-policy-guidance)
+- [Government and Multilateral AI Policy Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#government-and-multilateral-ai-policy-guidance)
   - [National and Regional Government Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#national-and-regional-government-guidance)
   - [International and Multilateral Frameworks](https://github.com/hallresearch-ai/ai_governance_policy_resources#international-and-multilateral-frameworks)
-- 🟤 [Legal and Regulatory Materials](https://github.com/hallresearch-ai/ai_governance_policy_resources#-legal-and-regulatory-materials)
+- [Legal and Regulatory Materials](https://github.com/hallresearch-ai/ai_governance_policy_resources#legal-and-regulatory-materials)
   - [Documents in Legal Genres](https://github.com/hallresearch-ai/ai_governance_policy_resources#documents-in-legal-genres)
   - [AI Law, Policy, and Guidance Trackers](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-law-policy-and-guidance-trackers)
-- 🟠 [AI Incidents and Accountability](https://github.com/hallresearch-ai/ai_governance_policy_resources#-ai-incidents-and-accountability)
+- [AI Incidents and Accountability](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-incidents-and-accountability)
   - [AI Incident Databases, Reporting Systems, and Information-Sharing Resources](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-incident-databases-reporting-systems-and-information-sharing-resources)
   - [Bibliography and Research on AI Incidents and Failures](https://github.com/hallresearch-ai/ai_governance_policy_resources#bibliography-and-research-on-ai-incidents-and-failures)
-- 🟢 [AI, Labor, and Social Impact](https://github.com/hallresearch-ai/ai_governance_policy_resources#-ai-labor-and-social-impact)
+  - [AI Contestability and Redress](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-contestability-and-redress)
+- [AI, Labor, and Social Impact](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-labor-and-social-impact)
   - [AI and Labor Resources](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-and-labor-resources)
   - [Responsible and Critical Perspectives on Agentic AI](https://github.com/hallresearch-ai/ai_governance_policy_resources#responsible-and-critical-perspectives-on-agentic-ai)
   - [Critiques of AI](https://github.com/hallresearch-ai/ai_governance_policy_resources#critiques-of-ai)
@@ -35,17 +36,17 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
     - [Language Diversity and Resource Gaps](https://github.com/hallresearch-ai/ai_governance_policy_resources#language-diversity-and-resource-gaps)
     - [AI Slop and Information Quality](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-slop-and-information-quality)
     - [Measurement Critiques](https://github.com/hallresearch-ai/ai_governance_policy_resources#measurement-critiques)
-- 🔷 [Organizations, Bibliographies, and Resource Lists](https://github.com/hallresearch-ai/ai_governance_policy_resources#-organizations-bibliographies-and-resource-lists)
+- [Organizations, Bibliographies, and Resource Lists](https://github.com/hallresearch-ai/ai_governance_policy_resources#organizations-bibliographies-and-resource-lists)
   - [Groups and Organizations](https://github.com/hallresearch-ai/ai_governance_policy_resources#groups-and-organizations)
   - [Curated Bibliographies](https://github.com/hallresearch-ai/ai_governance_policy_resources#curated-bibliographies)
   - [List of Lists](https://github.com/hallresearch-ai/ai_governance_policy_resources#list-of-lists)
-- ⚪ [Archived Governance Materials](https://github.com/hallresearch-ai/ai_governance_policy_resources#-archived-governance-materials)
+- [Archived Governance Materials](https://github.com/hallresearch-ai/ai_governance_policy_resources#archived-governance-materials)
   - [Archived: Official Policy, Frameworks, and Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#archived-official-policy-frameworks-and-guidance)
 
 
 ---
 
-## 🔵 Institutional AI Governance
+## Institutional AI Governance
 ### University Policies and Teaching Guidance
 
 This section collects institutional policies, teaching guidance, academic integrity materials, syllabus guidance, assessment policies, and university-level statements on the use of AI in educational settings.
@@ -181,7 +182,7 @@ For courses, curricula, tutorials, and educational materials designed to teach A
 
 ---
 
-## 🟣 Government and Multilateral AI Policy Guidance
+## Government and Multilateral AI Policy Guidance
 This section serves as a repository for policy documents, regulations, guidelines, and recommendations that govern the ethical and responsible use of artificial intelligence and machine learning technologies. From international legal frameworks to specific national laws, the resources cover a broad spectrum of topics such as fairness, privacy, ethics, and governance.
 
 ### National and Regional Government Guidance
@@ -1628,7 +1629,7 @@ This section includes official tribal, First Nations, Indigenous, public-sector,
 
 ---
 
-## 🟤 Legal and Regulatory Materials
+## Legal and Regulatory Materials
 ### Documents in Legal Genres
 
 Legislation, litigation, and other legal materials relevant to AI policy and governance.
@@ -1700,7 +1701,7 @@ This section contains trackers, databases, and repositories of laws, policies, a
 
 ---
 
-## 🟠 AI Incidents and Accountability
+## AI Incidents and Accountability
 
 ### AI Incident Databases, Reporting Systems, and Information-Sharing Resources
 
@@ -1781,9 +1782,28 @@ The resources below provide additional classification, visualization, aggregatio
 - [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://ojs.aaai.org/index.php/AAAI/article/view/30347)
 - [Why We Need to Know More: Exploring the State of AI Incident Documentation Practices](https://doi.org/10.1145/3600211.3604700)
 
+### AI Contestability and Redress
+
+This section collects resources on challenging AI-influenced decisions and seeking remedies for harm, including the information and institutional support people need to make those challenges effective.
+
+* [Algorithmic Equity Toolkit](https://www.aclu-wa.org/aekit/)
+* [Challenging the Machine: Contestability in Government AI Systems](https://arxiv.org/abs/2406.10430)
+* [Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions](https://arxiv.org/abs/2103.01774)
+* [Contestable AI by Design: Towards a Framework](https://link.springer.com/article/10.1007/s11023-022-09611-z)
+* [Contestation in artificial intelligence as a practice: from a system-centered perspective of contestability toward normative contextualization, situative critique and organizational culture](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1638257/full)
+* [Enhancing human agency through redress in Artificial Intelligence Systems](https://link.springer.com/article/10.1007/s00146-022-01454-7)
+* [Guidance 8. Contestability](https://www.digital.gov.au/policy/ai/pilot-ai-assurance-framework/guidance/step-8)
+* [Human Intervention in Automated Decision-Making: Toward the Construction of Contestable Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264189)
+* [Humans-in-the-Contestability-Loop: Designing for Social Counselors to Understand and Challenge Algorithmic Decisions](https://doi.org/10.1145/3805689.3812271)
+* [Identifying Algorithmic Decision Subjects' Needs for Meaningful Contestability](https://doi.org/10.1145/3757415)
+* [Reviewable Automated Decision-Making: A Framework for Accountable Algorithmic Systems](https://arxiv.org/abs/2102.04201)
+* [The right to contest automated decisions under the General Data Protection Regulation: Beyond the so-called “right to explanation”](https://doi.org/10.1111/rego.12391)
+
+See also the [Commonwealth Ombudsman’s Automated Decision-Making Better Practice Guide](https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf) and the [CFPB’s guidance on adverse action notices when using AI/ML models](https://www.consumerfinance.gov/about-us/blog/innovation-spotlight-providing-adverse-action-notices-when-using-ai-ml-models/), listed under Australia and the United States federal government, respectively.
+
 ---
 
-## 🟢 AI, Labor, and Social Impact
+## AI, Labor, and Social Impact
 ### AI and Labor Resources
 
 This section contains links to papers, studies, and general resources pertaining to the relationship between AI and labor dynamics.
@@ -1898,7 +1918,6 @@ This section contains an assortment of papers, articles, essays, and general res
 * [AI Snake Oil](https://www.aisnakeoil.com/)
 * [AI Tools Still Permitting Political Disinfo Creation, NGO Warns](https://www.barrons.com/news/ai-tools-still-permitting-political-disinfo-creation-ngo-warns-ac791521)
 * [Anthropomorphism in AI: hype and fallacy](https://link.springer.com/article/10.1007/s43681-024-00419-4)
-* [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
 * [Are Language Models Actually Useful for Time Series Forecasting?](https://arxiv.org/abs/2406.16964v1)
 * [Artificial Hallucinations in ChatGPT: Implications in Scientific Writing](https://assets.cureus.com/uploads/editorial/pdf/138667/20230219-28928-6kcyip.pdf)
 * [Artificial Hype](https://egve.hu/downloads/health_management/health_management_2019_2_szam.pdf) | HealthManagement.org, The Journal, Volume 19, Issue 2, 2019
@@ -1908,7 +1927,6 @@ This section contains an assortment of papers, articles, essays, and general res
 * [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/pdf/2402.11753.pdf)
 * [Authoritarian by Design: AI, Big Tech, and the Architecture of Control](https://thegoodtechproject.addpotion.com/authoritarian-by-design-ai-big-tech-and-the-architecture-of-control)
 * [Aylin Caliskan's publications](https://faculty.washington.edu/aylin/publications.html)
-* [Beyond Metrics: A Critical Analysis of the Variability in Large Language Model Evaluation Frameworks](https://arxiv.org/abs/2407.21072)
 * [Beyond Preferences in AI Alignment](https://arxiv.org/pdf/2408.16984)
 * [Can We Trust AI Agents? An Experimental Study Towards Trustworthy LLM-Based Multi-Agent Systems for AI Ethics](https://arxiv.org/abs/2411.08881)
 * [Chatbots in consumer finance](https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/)
@@ -1941,7 +1959,6 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Large Language Models Do Not Simulate Human Psychology](https://arxiv.org/pdf/2508.06950)
 * [Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models](https://arxiv.org/abs/2401.01301)
 * [Lazy use of AI leads to Amazon products called “I cannot fulfill that request”](https://arstechnica.com/ai/2024/01/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request/)
-* [Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/pdf/2402.03927.pdf)
 * [LLMs Can’t Plan, But Can Help Planning in LLM-Modulo Frameworks](https://arxiv.org/pdf/2402.01817.pdf)
 * [Long-context LLMs Struggle with Long In-context Learning](https://huggingface.co/papers/2404.02060)
 * [Low-Resource Languages Jailbreak GPT-4](https://arxiv.org/abs/2310.02446v1)
@@ -1967,13 +1984,11 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Promising the future, encoding the past: AI hype and public media imagery](https://link.springer.com/article/10.1007/s43681-024-00474-x)
 * [Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad](https://arxiv.org/pdf/2503.21934v1) | arXiv, March 2025
 * [Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)
-* [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
 * [Researchers surprised by gender stereotypes in ChatGPT](https://www.dtu.dk/english/news/all-news/researchers-surprised-by-gender-stereotypes-in-chatgpt?id=7e5936d1-dfce-485b-8a90-78f7c757177d)
 * [Sam Altman’s imperial reach](https://www.washingtonpost.com/opinions/2024/10/07/sam-altman-ai-power-danger/)
 * [Scalable Extraction of Training Data from Production Language Models](https://arxiv.org/pdf/2311.17035.pdf)
 * [Speed of AI development stretches risk assessments to breaking point](https://www.ft.com/content/499c8935-f46e-4ec8-a8e2-19e07e3b0438)
 * [Talking existential risk into being: a Habermasian critical discourse perspective to AI hype](https://link.springer.com/article/10.1007/s43681-024-00464-z)
-* [Task Contamination: Language Models May Not Be Few-Shot Anymore](https://arxiv.org/pdf/2312.16337.pdf)
 * [The Cult of AI](https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/)
 * [The Data Scientific Method vs. The Scientific Method](https://odsc.com/blog/the-data-scientific-method-vs-the-scientific-method/)
 * [The Fallacy of AI Functionality](https://dl.acm.org/doi/pdf/10.1145/3531146.3533158)
@@ -1991,7 +2006,6 @@ This section contains an assortment of papers, articles, essays, and general res
 * [Which Humans?](https://osf.io/preprints/psyarxiv/5b26t)
 * [Why the AI Hype is Another Tech Bubble](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960826)
 * [Why We Must Resist AI’s Soft Mind Control]( https://www.theatlantic.com/ideas/archive/2024/03/artificial-intelligence-google-gemini-mind-control/677683/)
-* [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
 * [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/pdf/2506.08872v1)
 * [YouTube's Anorexia Algorithm: How YouTube Recommends Eating Disorders Videos to Young Girls](https://counterhate.com/wp-content/uploads/2024/12/CCDH.YoutubeED.Nov24.Report_FINAL.pdf) | Center for Countering Digital Hate (CCDH),
 
@@ -2042,21 +2056,60 @@ This section contains an assortment of papers, articles, essays, and general res
 
 #### Language Diversity and Resource Gaps
 
+* [Better Global Tools, Better Global Communities: Recommendations for Trust & Safety Teams When Building and Procuring Multilingual Tools](https://cdt.org/insights/better-global-tools-better-global-communities-recommendations-for-trust-safety-teams-when-building-and-procuring-multilingual-tools/)
 * [Health Care Misinformation: An artificial intelligence challenge for low-resource languages](https://ceur-ws.org/Vol-2884/paper_131.pdf)
+* [Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://aclanthology.org/2020.findings-emnlp.195/)
+* [Systematic Inequalities in Language Technology Performance across the World’s Languages](https://aclanthology.org/2022.acl-long.376/)
 * [The Serendipity of Claude AI: Case of the 13 Low-Resource National Languages of Mali](https://arxiv.org/pdf/2503.03380)
+* [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://aclanthology.org/2020.acl-main.560/)
+* [The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It](https://aclanthology.org/2025.emnlp-main.800/)
 
 #### AI Slop and Information Quality
 
+* [AI-Generated “Workslop” Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
+* [AI model GPT-3 (dis)informs us better than humans](https://pmc.ncbi.nlm.nih.gov/articles/PMC10306283/)
+* [AI Search Has a Citation Problem](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)
+* [AI Slop](https://scholarship.law.bu.edu/faculty_scholarship/4308/)
+* [AI Slop and the Information Ecosystem](https://igp.sipa.columbia.edu/sites/igp/files/2026-06/AI%20Slop%20and%20the%20Information%20Ecosystem_IGP%20Report.pdf)
 * [AI Slop Might Finally Cure Our Internet Addiction](https://www.theatlantic.com/technology/archive/2025/07/ai-slop-internet-addiction/683619/)
+* [“An Endless Stream of AI Slop”: How Developers Discuss the Burden of AI-Assisted Software Development](https://arxiv.org/abs/2603.27249)
+* [Evaluating Verifiability in Generative Search Engines](https://aclanthology.org/2023.findings-emnlp.467/)
+* [Fabricated citations: an audit across 2·5 million biomedical papers](https://doi.org/10.1016/S0140-6736(26)00603-3)
+* [Failed comprehensiveness, successful minimalism: Wikipedia’s 3-year struggle to govern AI-generated content (2022–2025)](https://link.springer.com/article/10.1007/s00146-026-03046-1)
+* [How spammers and scammers leverage AI-generated images on Facebook for audience growth](https://misinforeview.hks.harvard.edu/article/how-spammers-and-scammers-leverage-ai-generated-images-on-facebook-for-audience-growth/)
 * [Living the Slop Life](https://www.nytimes.com/2025/05/19/style/ai-slop-slop-bowls-shein-slop-hauls.html) | The New York Times, Emma Goldberg, 5/19/2025
+* [News Integrity in AI Assistants](https://www.ebu.ch/research/open/report/news-integrity-in-ai-assistants)
+* [Retrieval Collapses When AI Pollutes the Web](https://arxiv.org/abs/2602.16136)
+* [Why AI Slop Matters, but Not Like That](https://arxiv.org/abs/2606.12285)
+* [Why Slop Matters](https://arxiv.org/abs/2601.06060)
 
 #### Measurement Critiques
 
+This section collects critiques of how AI capabilities and risks are measured, including the validity of benchmarks and the evidence used to support claims about AI systems. It also examines how evaluation practices shape deployment and governance decisions.
+
+* [AI and the Everything in the Whole Wide World Benchmark](https://arxiv.org/abs/2111.15366)
+* [AI Evaluation Should Require Standardized Item-Level Data Releases](https://arxiv.org/abs/2604.03244)
+* [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
+* [Beyond Metrics: A Critical Analysis of the Variability in Large Language Model Evaluation Frameworks](https://arxiv.org/abs/2407.21072)
+* [Black-Box Access is Insufficient for Rigorous AI Audits](https://arxiv.org/abs/2401.14446)
+* [Can We Trust AI Benchmarks? An Interdisciplinary Review of Current Issues in AI Evaluation](https://ojs.aaai.org/index.php/AIES/article/view/36595)
+* [Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs](https://arxiv.org/pdf/2402.03927.pdf)
+* [Measurement and Fairness](https://arxiv.org/abs/1912.05511)
+* [Measurement to Meaning: A Validity-Centered Framework for AI Evaluation](https://arxiv.org/abs/2505.10573)
+* [Measuring what Matters: Construct Validity in Large Language Model Benchmarks](https://proceedings.neurips.cc/paper_files/paper/2025/hash/1967e0fc3aa6cbbace562f5cb8e3954e-Abstract-Datasets_and_Benchmarks_Track.html)
+* [Position: Evaluating Generative AI Systems Is a Social Science Measurement Challenge](https://proceedings.mlr.press/v267/wallach25a.html)
+* [Re-evaluating GPT-4’s bar exam performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
+* [Sociotechnical Safety Evaluation of Generative AI Systems](https://arxiv.org/abs/2310.11986)
+* [Task Contamination: Language Models May Not Be Few-Shot Anymore](https://arxiv.org/pdf/2312.16337.pdf)
+* [The Benchmark Lottery](https://arxiv.org/abs/2107.07002)
 * [The Leaderboard Illusion](https://arxiv.org/pdf/2504.20879)
+* [Utility is in the Eye of the User: A Critique of NLP Leaderboards](https://aclanthology.org/2020.emnlp-main.393/)
+* [What Will it Take to Fix Benchmarking in Natural Language Understanding?](https://aclanthology.org/2021.naacl-main.385/)
+* [Winner's Curse? On Pace, Progress, and Empirical Rigor](https://openreview.net/pdf?id=rJWF0Fywf)
 
 ---
 
-## 🔷 Organizations, Bibliographies, and Resource Lists
+## Organizations, Bibliographies, and Resource Lists
 ### Groups and Organizations
 
 * [Aapti Institute](https://aapti.in/)
@@ -2156,7 +2209,7 @@ This section links to other lists of responsible ML or related resources.
 
 ---
 
-## ⚪ Archived Governance Materials
+## Archived Governance Materials
 ### Archived: Official Policy, Frameworks, and Guidance
 
 For official government files pertaining to responsible AI practices that have been taken offline, we provide Wayback Machine mirror links below. If a document is still available on its original official domain, it can currently be found in its respective subsection above, although it may later be incorporated into this list. Documents may be removed for various reasons (whether political or through routine updates), but archiving them ensures they remain accessible for historical reference. If you're a researcher who finds a dead link to an older version of a government document or one that has altogether been deleted without comment, please feel free to submit a pull request drawing our attention to it and we'll consider it for inclusion. Where possible, we provide links to what appear to be the most recent URLs that governments may want the public to access.
