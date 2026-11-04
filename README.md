@@ -189,8 +189,41 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Argentina
 
-* [Disposición 2/2023: Recomendaciones para una Inteligencia Artificial Fiable](https://www.argentina.gob.ar/normativa/nacional/384656/texto) | Jefatura de Gabinete de Ministros, Subsecretaría de Tecnologías de la Información, June 2023
+##### National principles and public-sector controls
+
+* [Disposición 2/2023: Recomendaciones para una Inteligencia Artificial Fiable](https://www.boletinoficial.gob.ar/pdf/aviso/primera/287679/20240118) | Jefatura de Gabinete de Ministros, Subsecretaría de Tecnologías de la Información, June 2, 2023, Official Gazette PDF
 * [Recomendaciones para una Inteligencia Artificial Fiable](https://www.argentina.gob.ar/sites/default/files/2023/08/sip_-_ia_recomendaciones.pdf) | Secretaría de Innovación Pública, PDF
+* [Guía de Controles Inteligencia Artificial - SIGEN](https://www.argentina.gob.ar/sites/default/files/2022/02/if-2026-53068261-apn-gpnyptsigen.pdf) | Sindicatura General de la Nación (SIGEN), June 2026, approved by Resolución 197/2026
+
+##### Transparency and personal data protection
+
+* [Programa Nacional de Transparencia y Protección de Datos Personales en el uso de la Inteligencia Artificial](https://www.argentina.gob.ar/programa-nacional-de-transparencia-y-proteccion-de-datos-personales-en-el-uso-de-la-inteligencia) | Agencia de Acceso a la Información Pública (AAIP), program established by Resolución 161/2023
+* [Guía para entidades públicas y privadas en materia de Transparencia y Protección de Datos Personales para una Inteligencia Artificial responsable](https://www.argentina.gob.ar/sites/default/files/guia_ai-final-2025.pdf) | Agencia de Acceso a la Información Pública (AAIP), final guide incorporating public consultation feedback
+
+##### Education and AI literacy
+
+* [Contenidos y Recursos - PAIDEIA](https://www.argentina.gob.ar/capital-humano/educacion/paideia/contenidos-y-recursos-paideia) | Secretaría de Educación, Ministerio de Capital Humano, official implementation guidance and resources for the Programa Argentino de Innovación de la Educación con Inteligencia Artificial
+* [Guía para la integración de las Inteligencias Artificiales en educación](https://www.argentina.gob.ar/sites/default/files/documento_guia_de_integracion_vf_digital.pdf) | Secretaría de Educación, Ministerio de Capital Humano, PAIDEIA, 2025
+* [Inteligencia artificial en la escuela secundaria](https://www.argentina.gob.ar/sites/default/files/documento_ia-aula_secundaria_-_28-digital_1.pdf) | Secretaría de Educación, Ministerio de Capital Humano, PAIDEIA, pedagogical guidance for secondary education
+
+##### Financial services and public security
+
+* [Guía de supervisión sobre el uso responsable y seguro de inteligencia artificial (IA)](https://www.bcra.gob.ar/guias-de-supervision-bcra/) | Banco Central de la República Argentina (BCRA), initial version, June 2026, included on the official supervision-guides page
+* [Resolución 710/2024: Unidad de Inteligencia Artificial Aplicada a la Seguridad](https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-710-2024-402139/texto) | Ministerio de Seguridad, July 29, 2024, establishes the UIAAS and its functions
+
+##### Justice and judicial governance
+
+* [Resolución 111/2024: Programa Nacional Integral de Inteligencia Artificial en la Justicia](https://www.argentina.gob.ar/normativa/nacional/norma-397996/actualizacion) | Ministerio de Justicia, April 2024, consolidated text incorporating amendments
+* [Resolución 469/2026: Mesa Estratégica de Inteligencia Artificial en la Justicia](https://www.argentina.gob.ar/normativa/nacional/norma-430396/texto) | Ministerio de Justicia, September 23, 2026
+* [Protocolo de Buenas Prácticas en el uso de la Inteligencia Artificial Generativa](https://www.mpfchubut.gob.ar/images/pdf/Resoluciones/2024/RES238FD.pdf) | Ministerio Público Fiscal de la Provincia del Chubut, Resolución 238/24 PG, December 4, 2024
+* [Acuerdo Reglamentario 1939: Jurisemia y protección de datos personales](https://www.justiciacordoba.gob.ar/cargawebweb/_News/file.aspx?id=23196) | Tribunal Superior de Justicia de Córdoba, May 14, 2026, approves anonymization and AI compliance guidance for the Jurisemia system
+* [Acordada 31/2025: Protocolo para el uso de la Inteligencia Artificial en el Poder Judicial](https://www.justiciajujuy.gov.ar/acordadas/acordada-n-31-2025-protocolo-para-el-uso-de-la-inteligencia-artificial-en-el-poder-judicial/) | Suprema Corte de Justicia de Jujuy, April 2025, protocol and authorization form
+* [Protocolo de Buenas Prácticas para el uso de Inteligencia Artificial Generativa (IAGen)](https://comunicacionjudicial.jusrionegro.gov.ar/wp-content/uploads/protocolo_IAGen.pdf) | Superior Tribunal de Justicia de Río Negro, Acordada 15/2024, October 1, 2024
+
+##### City government strategy and operational guidance
+
+* [Plan Estratégico de Inteligencia Artificial en el Gobierno de la Ciudad de Buenos Aires](https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-RES-MJGGC-SECITD-58-26-ANX.pdf) | Gobierno de la Ciudad Autónoma de Buenos Aires, 2026, annex to Resolución 58/SECITD/26
+* [Resolución 98/SECITD/26: Lineamientos operativos para la gobernanza y el uso responsable de sistemas y agentes de inteligencia artificial](https://boletinoficial.buenosaires.gob.ar/normativaba/norma/861451) | Secretaría de Innovación y Transformación Digital, Gobierno de la Ciudad Autónoma de Buenos Aires, June 23, 2026
 
 #### Australia
 
