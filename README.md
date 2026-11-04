@@ -26,6 +26,8 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
 
     - [Argentina](https://github.com/hallresearch-ai/ai_governance_policy_resources#argentina)
     - [Australia](https://github.com/hallresearch-ai/ai_governance_policy_resources#australia)
+    - [Austria](https://github.com/hallresearch-ai/ai_governance_policy_resources#austria)
+    - [Belgium](https://github.com/hallresearch-ai/ai_governance_policy_resources#belgium)
     - [Brazil](https://github.com/hallresearch-ai/ai_governance_policy_resources#brazil)
     - [Canada](https://github.com/hallresearch-ai/ai_governance_policy_resources#canada)
     - [Chile](https://github.com/hallresearch-ai/ai_governance_policy_resources#chile)
@@ -33,12 +35,14 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
     - [Colombia](https://github.com/hallresearch-ai/ai_governance_policy_resources#colombia)
     - [Costa Rica](https://github.com/hallresearch-ai/ai_governance_policy_resources#costa-rica)
     - [Croatia](https://github.com/hallresearch-ai/ai_governance_policy_resources#croatia)
+    - [Czechia](https://github.com/hallresearch-ai/ai_governance_policy_resources#czechia)
     - [Denmark](https://github.com/hallresearch-ai/ai_governance_policy_resources#denmark)
     - [Egypt](https://github.com/hallresearch-ai/ai_governance_policy_resources#egypt)
     - [Estonia](https://github.com/hallresearch-ai/ai_governance_policy_resources#estonia)
     - [Finland](https://github.com/hallresearch-ai/ai_governance_policy_resources#finland)
     - [France](https://github.com/hallresearch-ai/ai_governance_policy_resources#france)
     - [Germany](https://github.com/hallresearch-ai/ai_governance_policy_resources#germany)
+    - [Ghana](https://github.com/hallresearch-ai/ai_governance_policy_resources#ghana)
     - [Greece](https://github.com/hallresearch-ai/ai_governance_policy_resources#greece)
     - [Hong Kong](https://github.com/hallresearch-ai/ai_governance_policy_resources#hong-kong)
     - [Iceland](https://github.com/hallresearch-ai/ai_governance_policy_resources#iceland)
@@ -50,14 +54,20 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
     - [Japan](https://github.com/hallresearch-ai/ai_governance_policy_resources#japan)
     - [Kenya](https://github.com/hallresearch-ai/ai_governance_policy_resources#kenya)
     - [Malaysia](https://github.com/hallresearch-ai/ai_governance_policy_resources#malaysia)
+    - [Mauritius](https://github.com/hallresearch-ai/ai_governance_policy_resources#mauritius)
     - [Mexico](https://github.com/hallresearch-ai/ai_governance_policy_resources#mexico)
     - [Moldova](https://github.com/hallresearch-ai/ai_governance_policy_resources#moldova)
     - [Netherlands](https://github.com/hallresearch-ai/ai_governance_policy_resources#netherlands)
     - [New Zealand](https://github.com/hallresearch-ai/ai_governance_policy_resources#new-zealand)
     - [Nigeria](https://github.com/hallresearch-ai/ai_governance_policy_resources#nigeria)
     - [Norway](https://github.com/hallresearch-ai/ai_governance_policy_resources#norway)
+    - [Oman](https://github.com/hallresearch-ai/ai_governance_policy_resources#oman)
+    - [Pakistan](https://github.com/hallresearch-ai/ai_governance_policy_resources#pakistan)
+    - [Peru](https://github.com/hallresearch-ai/ai_governance_policy_resources#peru)
     - [Philippines](https://github.com/hallresearch-ai/ai_governance_policy_resources#philippines)
+    - [Poland](https://github.com/hallresearch-ai/ai_governance_policy_resources#poland)
     - [Portugal](https://github.com/hallresearch-ai/ai_governance_policy_resources#portugal)
+    - [Qatar](https://github.com/hallresearch-ai/ai_governance_policy_resources#qatar)
     - [Rwanda](https://github.com/hallresearch-ai/ai_governance_policy_resources#rwanda)
     - [Saudi Arabia](https://github.com/hallresearch-ai/ai_governance_policy_resources#saudi-arabia)
     - [Sierra Leone](https://github.com/hallresearch-ai/ai_governance_policy_resources#sierra-leone)
@@ -69,6 +79,7 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
     - [Spain](https://github.com/hallresearch-ai/ai_governance_policy_resources#spain)
     - [Sweden](https://github.com/hallresearch-ai/ai_governance_policy_resources#sweden)
     - [Switzerland](https://github.com/hallresearch-ai/ai_governance_policy_resources#switzerland)
+    - [Taiwan](https://github.com/hallresearch-ai/ai_governance_policy_resources#taiwan)
     - [Tanzania](https://github.com/hallresearch-ai/ai_governance_policy_resources#tanzania)
     - [Thailand](https://github.com/hallresearch-ai/ai_governance_policy_resources#thailand)
     - [Ukraine](https://github.com/hallresearch-ai/ai_governance_policy_resources#ukraine)
@@ -77,6 +88,7 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
     - [United States (Federal Government)](https://github.com/hallresearch-ai/ai_governance_policy_resources#united-states-federal-government)
     - [United States (State Governments)](https://github.com/hallresearch-ai/ai_governance_policy_resources#united-states-state-governments)
     - [Uruguay](https://github.com/hallresearch-ai/ai_governance_policy_resources#uruguay)
+    - [Vietnam](https://github.com/hallresearch-ai/ai_governance_policy_resources#vietnam)
 
     </details>
 
@@ -85,6 +97,7 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
     <details>
     <summary>Browse international and multilateral frameworks</summary>
 
+    - [African Union](https://github.com/hallresearch-ai/ai_governance_policy_resources#african-union)
     - [ASEAN](https://github.com/hallresearch-ai/ai_governance_policy_resources#asean)
     - [European Union Policies and Regulations](https://github.com/hallresearch-ai/ai_governance_policy_resources#european-union-policies-and-regulations)
     - [Council of Europe](https://github.com/hallresearch-ai/ai_governance_policy_resources#council-of-europe)
@@ -459,6 +472,14 @@ This section serves as a repository for policy documents, regulations, guideline
 * [AI WHS Scorecard](https://www.safework.nsw.gov.au/resource-library/whs-research/AI-WHS-scorecard.pdf) | SafeWork NSW
 
 
+#### Austria
+
+* [Praxisleitfaden für Digitale Verwaltung: KI, Ethik und Recht 2.0](https://www.bundeskanzleramt.gv.at/agenda/oeffentlicher-dienst/digitale-verwaltung.html) | Austrian Federal Chancellery, Version 2.0, practical guide and accompanying ethical AI checklist
+
+#### Belgium
+
+* [Charte pour l'utilisation responsable de l'intelligence artificielle dans les services publics](https://bosa.belgium.be/fr/publications/charte-pour-lutilisation-responsable-de-lintelligence-artificielle-dans-les-services) | Federal Public Service Policy and Support (BOSA), Belgium
+
 #### Brazil
 
 ##### National strategy and federal AI plans
@@ -613,6 +634,7 @@ This section serves as a repository for policy documents, regulations, guideline
 
 #### Chile
 
+* [Lineamientos para el uso de herramientas de inteligencia artificial en el sector público](https://minciencia.gob.cl/uploads/filer_public/ae/9a/ae9a7ce7-807b-4781-9ac3-9b253bfbe735/of_n711_2023_dis_lin_ia_minciencia.pdf) | MinCiencia and Ministry Secretariat General of the Presidency, Chile, Circular 711, December 11, 2023
 * [Plan de Acción de la Política Nacional de Inteligencia Artificial](https://minciencia.gob.cl/areas/inteligencia-artificial/Inteligencia-Artificial/politica-Nacional-Inteligencia-Artificial-Plan-Accion/) | Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
 
 #### China
@@ -683,6 +705,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [Progress in Implementing the European Union Coordinated Plan on Artificial Intelligence Volume 1: Croatia](https://www.oecd.org/en/publications/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1_6d530a88-en/croatia_38d8145c-en.html) | OECD
   * [PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1-country-notes_b0385317/croatia_5665ea22/38d8145c-en.pdf)
+
+#### Czechia
+
+* [National AI Strategy of the Czech Republic 2030](https://mpo.gov.cz/en/business/digital-economy/artificial-intelligence/) | Ministry of Industry and Trade, approved July 24, 2024
 
 #### Denmark
 
@@ -774,6 +800,10 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Opinion of the Data Ethics Commission: Executive Summary (English)](https://www.bfdi.bund.de/SharedDocs/Downloads/EN/Datenschutz/Data-Ethics-Commission_Opinion.pdf?__blob=publicationFile&v=2)
 * [OECD-Bericht zu Künstlicher Intelligenz in Deutschland](https://www.ki-strategie-deutschland.de/?cid=1338&file=files/downloads/OECD-Bericht_K%C3%BCnstlicher_Intelligenz_in_Deutschland.pdf) | OECD review commissioned by German federal ministries; external assessment of German AI policy and implementation
 
+#### Ghana
+
+* [National Artificial Intelligence Strategy 2025–2035](https://moc.gov.gh/downloads/) | Ministry of Communication, Digital Technology and Innovations, Ghana, official downloads page
+
 #### Greece
 
 ##### National AI strategy, foresight, and digital transformation
@@ -818,6 +848,7 @@ This section serves as a repository for policy documents, regulations, guideline
 #### Indonesia
 
 * [Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika Kecerdasan Artifisial](https://jdih.komdigi.go.id/produk_hukum/view/id/883/t/surat%2Bedaran%2Bmenteri%2Bkomunikasi%2Bdan%2Binformatika%2Bnomor%2B9%2Btahun%2B2023) | Ministry of Communication and Informatics, Circular No. 9 of 2023 on AI Ethics, December 19, 2023
+* [Tata Kelola Kecerdasan Artifisial Perbankan Indonesia](https://ojk.go.id/id/Publikasi/Roadmap-dan-Pedoman/Perbankan/Pages/Tata-Kelola-Kecerdasan-Artifisial-Perbankan-Indonesia.aspx) | Otoritas Jasa Keuangan (OJK), April 29, 2025
 
 #### Ireland
 
@@ -907,6 +938,11 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [The National Guidelines on AI Governance & Ethics](https://mastic.mosti.gov.my/publication/the-national-guidelines-on-ai-governance-ethics/)
 
+#### Mauritius
+
+* [FAIR Guidelines](https://mitci.govmu.org/mitci/wp-content/uploads/2026/04/FINAL-GUIDELINES-15AVRIL.pdf) | Ministry of Information Technology, Communication and Innovation, Mauritius, 2026
+* [National AI Strategy](https://mitci.govmu.org/mitci/wp-content/uploads/2026/04/aistrategy.pdf) | Ministry of Information Technology, Communication and Innovation, Mauritius, 2026
+
 #### Mexico
 
 * [Recomendaciones para el Tratamiento de Datos Personales Derivado del Uso de la Inteligencia Artificial](https://home.inai.org.mx/wp-content/documentos/DocumentosSectorPublico/RecomendacionesPDP-IA.pdf) | Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), June 2024
@@ -925,6 +961,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Call for input on prohibition on AI systems for emotion recognition in the areas of workplace or education institutions](https://www.autoriteitpersoonsgegevens.nl/en/documents/call-for-input-on-prohibition-on-ai-systems-for-emotion-recognition-in-the-areas-of-workplace-or-education-institutions) | October 31, 2024
   * [AScraping bijna altijd illegal](https://www.autoriteitpersoonsgegevens.nl/actueel/ap-scraping-bijna-altijd-illegaal) | Dutch Data Protection Authority, "Scraping is always illegal"
 * [General principles for the use of Artificial Intelligence in the financial sector](https://www.dnb.nl/media/jkbip2jc/general-principles-for-the-use-of-artificial-intelligence-in-the-financial-sector.pdf)
+* [Het Algoritmeregister](https://algoritmes.overheid.nl/en/algoritme) | Government of the Netherlands, public register of government algorithms
 * [Pathways on capacity building for AI supervisory authorities: insights and recommendations from the 1st UNESCO expert roundtable on AI supervision](https://unesdoc.unesco.org/ark:/48223/pf0000396637) | UNESCO and Dutch Authority for Digital Infrastructure, 2025
 
 #### New Zealand
@@ -1019,6 +1056,20 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Kunstig intelligens, knappe ressurser og klimaomstilling](https://teknologiradet.no/publication/kunstig-intelligens-knappe-ressurser-og-klimaomstilling/) | Teknologirådet
   * [Kunstig intelligens – muligheter, utfordringer og en plan for Norge](https://teknologiradet.no/publication/kunstig-intelligens-norge/) | Teknologirådet
 
+#### Oman
+
+* [General Policy for the Safe and Ethical Use of Artificial Intelligence Systems](https://mtcit.gov.om/library-3/legislations-policies-8/policies-73/general-policy-for-the-safe-and-ethical-use-of-artificial-intelligence-systems-291) | Ministry of Transport, Communications and Information Technology, Oman, 2025
+
+#### Pakistan
+
+* [National Artificial Intelligence Policy 2025](https://www.moitt.gov.pk/SiteImage/Policies/National%20AI%20Policy.pdf) | Ministry of Information Technology and Telecommunication, Government of Pakistan, 2025
+
+#### Peru
+
+* [Decreto Supremo N.° 115-2025-PCM: Reglamento de la Ley N.° 31814](https://www.gob.pe/institucion/pcm/normas-legales/7133522-115-2025-) | Presidencia del Consejo de Ministros, Peru, September 9, 2025
+* [Directiva N.° 002-2026-PCM/SGTD: Perfil y Responsabilidades del Oficial de Inteligencia Artificial](https://busquedas.elperuano.pe/dispositivo/NL/2566694-1) | Presidencia del Consejo de Ministros, Peru, approved by Resolución 004-2026-PCM/SGTD, published October 21, 2026
+* [Estrategia Nacional de Inteligencia Artificial 2026–2030](https://busquedas.elperuano.pe/dispositivo/NL/2511535-1) | Presidencia del Consejo de Ministros, Peru, Resolución Ministerial 152-2026-PCM, 2026
+
 #### Philippines
 
 * [Artificial Intelligence Governance and Advancement Ordinance](https://www2.naga.gov.ph/proposed-ordinance/nb6_2025-0731-hon-felix-nc-artificial-intelligence-ai-governance-and-advancement-ordinance/) | Naga City, proposed ordinance, 2025
@@ -1033,10 +1084,18 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Proposed Governance Framework on the Use of Human-Centered Augmented Intelligence in the Judiciary](https://sc.judiciary.gov.ph/wp-content/uploads/2026/03/AM-NO-25-11-28-SC.pdf) | Supreme Court of the Philippines, A.M. No. 25-11-28-SC, February 18, 2025
 
 
+#### Poland
+
+* [Przewodnik po Sztucznej Inteligencji dla Administracji Publicznej](https://samorzad.gov.pl/web/gov/przewodnik-po-sztucznej-inteligencji-dla-administracji-publicznej) | Ministry of Digital Affairs, Poland
+
 #### Portugal
 
 * [Agenda Nacional de Inteligência Artificial (ANIA)](https://digital.gov.pt/pt/estrategia-digital/agenda-nacional-de-ia) | Government of Portugal, national AI agenda overview
 * [Agenda Nacional de IA (ANIA)](https://digital.gov.pt/pt/documentos/agenda-nacional-de-ia) | Government of Portugal, agenda document and approving resolution, January 2026
+
+#### Qatar
+
+* [Guidelines for Secure Adoption and Usage of Artificial Intelligence](https://ncsa.gov.qa/sites/publications/374891) | National Cyber Security Agency (NCSA), Qatar, Version 1.0, 2024
 
 #### Rwanda
 
@@ -1056,6 +1115,8 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [Artificial Intelligence Model Risk Management: Observations from a Thematic Review](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/imd/2024/information-paper-on-ai-risk-management-final.pdf) | Monetary Authority of Singapore, Information Paper, December 2024
 * [Guide for Using Generative AI in the Legal Sector](https://www.mlaw.gov.sg/files/Guide_for_Using_Generative_AI_in_the_Legal_Sector.pdf) | Draft for Public Consultation (1 September to 30 September 2025)
+* [Model AI Governance Framework for Agentic AI](https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf) | Infocomm Media Development Authority (IMDA), Version 1.5, May 2026
+* [Model AI Governance Framework for Generative AI](https://aiverifyfoundation.sg/resources/mgf-gen-ai/) | AI Verify Foundation and Infocomm Media Development Authority (IMDA), May 30, 2024
 * [National Artificial Intelligence Strategy: Advancing Our Smart Nation Journey](https://file.go.gov.sg/nais2019.pdf) | Smart Nation Singapore, November 2019
 * Personal Data Protection Commission (PDPC)
   * [Companion to the Model AI Governance Framework – Implementation and Self-Assessment Guide for Organizations](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgisago.pdf)
@@ -1113,6 +1174,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [Digital Switzerland Strategy 2025](https://digital.swiss/userdata/uploads/strategie-dch-en.pdf)
 
+#### Taiwan
+
+* [Executive Yuan and Subordinate Agencies: Generative AI Guidance FAQ](https://www.nstc.gov.tw/folksonomy/qaList/ebe76b54-32d1-4ae7-8fe3-42fe12202111?l=ch) | National Science and Technology Council, Taiwan
+
 #### Tanzania
 
 * [Artificial Intelligence Readiness Assessment Report](https://tanzania.un.org/sites/default/files/2025-07/National%20AI%20Readiness%20Report.pdf) | UNESCO, 2025
@@ -1136,9 +1201,12 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [AI and the Law: A Discussion Paper](https://cloud-platform-e218f50a4812967ba1215eaecede923f.s3.amazonaws.com/uploads/sites/54/2025/07/AI-paper-PDF.pdf) | Law Commission, 2025
 * [AI Safety Institute, Safety cases at AISI](https://www.aisi.gov.uk/work/safety-cases-at-aisi) | (AISI)
+* [Algorithmic Transparency Recording Standard Hub](https://www.gov.uk/government/collections/algorithmic-transparency-recording-standard-hub) | Government Digital Service, updated May 8, 2025
 * [Artificial Intelligence Playbook for the UK Government](https://assets.publishing.service.gov.uk/media/67aca2f7e400ae62338324bd/AI_Playbook_for_the_UK_Government__12_02_.pdf) | Government Digital Service and Department for Science, Innovation & Technology, February 2025
 * [Beginner's guide to measurement GPG118](https://www.npl.co.uk/gpgs/beginners-guide-to-measurement) | National Physical Laboratory (NPL)
+* [Data and AI Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework) | UK Government, updated December 18, 2025
 * Department for Science, Innovation and Technology
+  * [Guidance for Using the AI Management Essentials Tool](https://www.gov.uk/government/consultations/ai-management-essentials-tool/guidance-for-using-the-ai-management-essentials-tool) | Department for Science, Innovation and Technology, consultation guidance, updated February 6, 2026
   * [The Bletchley Declaration by Countries Attending the AI Safety Summit](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023) | 1-2 November 2023
   * [Evaluation of the Cyber AI Hub programme | January 8, 2025](https://www.gov.uk/government/publications/evaluation-of-the-northern-ireland-cyber-ai-hub-programme/evaluation-of-the-cyber-ai-hub-programme)
   * [Frontier AI: capabilities and risks](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
@@ -1589,11 +1657,20 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Estrategia Nacional de Inteligencia Artificial 2024–2030](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-inteligencia-artificial-2024-2030) | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento (Agesic), November 2024
 * [Inteligencia Artificial y Datos](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/inteligencia-artificial-datos) | Agesic, official collection including AI governance materials and recommendations for AI regulation
 
+#### Vietnam
+
+* [National AI Strategy to 2030, with a Vision to 2045](https://vanban.chinhphu.vn/?classid=0&docid=219354&pageid=27160) | Government of Vietnam, Decision 1671/QĐ-TTg, August 28, 2026
+
 ### International and Multilateral Frameworks
+
+#### African Union
+
+* [Continental Artificial Intelligence Strategy](https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy) | African Union, August 2024
 
 #### ASEAN
 
 * [ASEAN Guide on AI Governance and Ethics](https://asean.org/wp-content/uploads/2024/02/ASEAN-Guide-on-AI-Governance-and-Ethics_beautified_201223_v2.pdf)
+* [Expanded ASEAN Guide on AI Governance and Ethics – Generative AI](https://asean.org/wp-content/uploads/2025/01/Expanded-ASEAN-Guide-on-AI-Governance-and-Ethics-Generative-AI.pdf) | ASEAN Secretariat, 2025
 
 #### European Union Policies and Regulations
 
@@ -1603,6 +1680,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Discussion paper on Draft Recommendation on AI literacy](https://rm.coe.int/discussion-paper-on-draft-recommendation-on-ai-literacy/1680b5b6f2) | Wayne Holmes, February 25, 2025
 * [European Audiovisual Observatory, IRIS, AI and the audiovisual sector: navigating the current legal landscape](https://rm.coe.int/iris-2024-3-ia-legal-landscape/1680b1e999)
 * [Guidelines on the Responsible Implementation of Artificial Intelligence Systems in Journalism](https://rm.coe.int/cdmsi-2023-014-guidelines-on-the-responsible-implementation-of-artific/1680adb4c6)
+* [HUDERIA: Risk and Impact Assessment of AI Systems](https://www.coe.int/en/web/artificial-intelligence/huderia-risk-and-impact-assessment-of-ai-systems) | Council of Europe, methodology approved February 2025; COBRA model approved February 2026
 * [On the Use of Artificial Intelligence in the Framework of the Syrian War](https://www.genocideprevention.eu/files/On_the_Use_of_Artificial_Intelligence_in_the_framework_of_the_Syrian_War.pdf) | Budapest Centre for Mass Atrocities Prevention, July 2021
 * [Privacy and Data Protection Risks in Large Language Models](https://rm.coe.int/privacy-and-data-protection-risks-in-large-language-models-llms-v1-0/1680b631dd) | Consultative Committee of the Convention for the Protection of Individuals with Regard to Automatic Processing of Personal Data, Convention 108, June 17, 2025
 * [Recommendation CM/Rec-2020-1 of the Committee of Ministers to member States on the human rights impacts of algorithmic systems](https://search.coe.int/cm?i=09000016809e1154) | Adopted by the Committee of Ministers on 8 April 2020 at the 1373rd meeting of the Ministers’ Deputies
@@ -1630,6 +1708,7 @@ This section serves as a repository for policy documents, regulations, guideline
   * [Ethics Guidelines for Trustworthy AI](https://www.aepd.es/sites/default/files/2019-12/ai-ethics-guidelines.pdf) | European Commission Independent High-Level Expert Group on Artificial Intelligence, April 8, 2019
   * [European approach to artificial intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
   * [First Draft of the General-Purpose AI Code of Practice published, written by independent experts](https://ec.europa.eu/newsroom/dae/redirection/document/109946)
+  * [The General-Purpose AI Code of Practice](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai) | European Commission, final version, July 10, 2025
   * [A Framework to Categorise Modified General-Purpose AI Models as New Models Based on Behavioural Changes](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143257/JRC143257_01.pdf)
   * [Generative AI and the EUDPR. Orientations for ensuring data protection compliance when using Generative AI systems. Version 2](https://www.edps.europa.eu/system/files/2025-10/25-10_28_revised_genai_orientations_en.pdf) | European Data Protection Supervisor, October 28, 2025
   * [Hiroshima Process International Guiding Principles for Advanced AI system](https://digital-strategy.ec.europa.eu/en/library/hiroshima-process-international-guiding-principles-advanced-ai-system)
@@ -1643,6 +1722,7 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Proposal for a directive on adapting non-contractual civil liability rules to artificial intelligence: Complementary impact assessment](https://tinyurl.com/3yvcp8pa)
 * [Proposal for a Regulation laying down harmonised rules on artificial intelligence](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence) | (Artificial Intelligence Act)
   * [Amendments adopted by the European Parliament on 14 June 2023 on the proposal for a regulation of the European Parliament and of the Council on laying down harmonised rules on artificial intelligence and amending certain Union legislative acts](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.html) |  (Artificial Intelligence Act)
+* [Regulation (EU) 2024/1689 (Artificial Intelligence Act)](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32024R1689) | European Parliament and Council of the European Union, June 13, 2024
 * [The Digital Services Act package](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package) | (EU Digital Services Act and Digital Markets Act)
 * [The impact of the General Data Protection Regulation on artificial intelligence](https://tinyurl.com/ynf3m8zf) | (GDPR), European Parliament
 * [Roadmap for lawful and effective access to data for law enforcement](https://data.consilium.europa.eu/doc/document/ST-10806-2025-INIT/en/pdf) | June 24, 2025
@@ -1787,6 +1867,7 @@ This section includes official tribal, First Nations, Indigenous, public-sector,
   * [Caribbean Artificial Intelligence Policy Roadmap](https://unesdoc.unesco.org/ark:/48223/pf0000391996/PDF/391996eng.pdf.multi)
   * [Consultation paper on AI regulation: emerging approaches across the world](https://unesdoc.unesco.org/ark:/48223/pf0000390979)
   * [Global AI Ethics and Governance Observatory](https://www.unesco.org/ethics-ai/en)
+  * [Guidelines for the Use of AI Systems in Courts and Tribunals](https://www.unesco.org/en/articles/guidelines-use-ai-systems-courts-and-tribunals) | UNESCO, Juan David Gutiérrez, December 2025
   * [Pathways on capacity building for AI supervisory authorities: insights and recommendations from the 1st UNESCO expert roundtable on AI supervision](https://unesdoc.unesco.org/ark:/48223/pf0000396637) | UNESCO and Dutch Authority for Digital Infrastructure, 2025
   * [Readiness assessment methodology: a tool of the Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/readiness-assessment-methodology-tool-recommendation-ethics-artificial-intelligence)
   * [Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000381137/PDF/381137eng.pdf.multi) | Adopted on 23 November 2021
@@ -1992,6 +2073,7 @@ This section contains links to papers, studies, and general resources pertaining
 * [Evaluating the Impact of AI on the Labor Market: Current State of Affairs](https://budgetlab.yale.edu/research/evaluating-impact-ai-labor-market-current-state-affairs) | Yale Budget Lab, October 1, 2025
 * [Future of Jobs Report 2025](https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf) | World Economic Forum, Insight Report, January 2025
 * [Generative AI and jobs: A global analysis of potential effects on job quantity and quality](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@inst/documents/publication/wcms_890761.pdf) | International Labour Organization, ILO Working Paper 96, August 2023
+* [Generative AI and Jobs: A Refined Global Index of Occupational Exposure](https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure) | International Labour Organization, Working Paper 140, May 20, 2025
 * [Generative AI and Labor: Power, Hype, and Value at Work](https://datasociety.net/wp-content/uploads/2024/12/DS_Generative-AI-and-Labor-Primer_Final.pdf) | Data & Society, December 2024
 * [Generative AI and the future of work in America](https://www.mckinsey.com/~/media/mckinsey/mckinsey%20global%20institute/our%20research/generative%20ai%20and%20the%20future%20of%20work%20in%20america/generative-ai-and-the-future-of-work-in-america-vf1.pdf) | McKinsey Global Institute, July 2023
 * [Impact and regulations of AI on labor markets and employment in USA](https://ijsra.net/sites/default/files/IJSRA-2024-1670.pdf) | September 9, 2024
