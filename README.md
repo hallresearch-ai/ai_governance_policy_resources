@@ -187,6 +187,11 @@ This section serves as a repository for policy documents, regulations, guideline
 
 ### National and Regional Government Guidance
 
+#### Argentina
+
+* [Disposición 2/2023: Recomendaciones para una Inteligencia Artificial Fiable](https://www.argentina.gob.ar/normativa/nacional/384656/texto) | Jefatura de Gabinete de Ministros, Subsecretaría de Tecnologías de la Información, June 2023
+* [Recomendaciones para una Inteligencia Artificial Fiable](https://www.argentina.gob.ar/sites/default/files/2023/08/sip_-_ia_recomendaciones.pdf) | Secretaría de Innovación Pública, PDF
+
 #### Australia
 
 ##### National strategy, AI safety, ethics, and standards
@@ -494,6 +499,10 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Draft artificial intelligence responsible use principles](https://digital.gov.bc.ca/ai/draft-responsible-use-principles/) | Province of British Columbia
 * [Alberta’s artificial intelligence lab GovLab.ai](https://www.alberta.ca/albertas-artificial-intelligence-lab-govlab-ai) | Government of Alberta
 
+#### Chile
+
+* [Plan de Acción de la Política Nacional de Inteligencia Artificial](https://minciencia.gob.cl/areas/inteligencia-artificial/Inteligencia-Artificial/politica-Nacional-Inteligencia-Artificial-Plan-Accion/) | Ministerio de Ciencia, Tecnología, Conocimiento e Innovación
+
 #### China
 
 ##### National AI strategy, ethics, and safety governance
@@ -570,6 +579,16 @@ This section serves as a repository for policy documents, regulations, guideline
 * [National Strategy for Digitalisation: Together in the digital development](https://en.digst.dk/media/mndfou2j/national-strategy-for-digitalisation-together-in-the-digital-development.pdf) | Ministry of Finance, May 2022
 * [Progress in Implementing the EU Coordinated Plan on Artificial Intelligence, Denmark](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-1-country-notes_b0385317/denmark_86fcfcf7/89c393fa-en.pdf) | OECD, 2025
 * [Strategic Approach to Artificial Intelligence: A more robust foundation for the responsible development and use of AI in Denmark](https://www.english.digmin.dk/Media/638719220318136690/Stategic%20Approach%20to%20Artificial%20Intelligence.pdf) | The Ministry of Digital Affairs, December 2024
+
+#### Egypt
+
+* [Egypt National Artificial Intelligence Strategy](https://ai.gov.eg/SynchedFiles/en/Resources/AIstrategy%20English%2016-1-2025-1.pdf) | Government of Egypt, Second Edition, 2025–2030
+* [Egyptian Charter for Responsible AI](https://ai.gov.eg/SynchedFiles/en/Resources/Egyptian%20Charter%20For%20Responsible%20AI.pdf) | National Council for Artificial Intelligence, Version 1.0, 2023
+
+#### Estonia
+
+* [Guidelines](https://www.kratid.ee/en/parimad-praktikad) | Kratid, AI, data governance, data protection, and implementation guidance
+* [Mapping AI and Algorithms in Use in the Public Sector](https://www.kratid.ee/en/algoritm-ulevaade) | Kratid, algorithmic transparency document and public-sector reporting guidance
 
 #### Finland
 
@@ -683,6 +702,10 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [AI Governance Framework for India 2025-26](https://www.aigl.blog/content/files/2025/09/AI-Governance-Framework-for-India.pdf) | National Cyber and AI Center
 * [Stakeholders consultation on "Draft Standard for the Schema and Taxonomy of an AI Incident Database in Telecommunications and Critical Digital Infrastructure"](https://www.tec.gov.in/pdf/consultations/TEC_57090.pdf) | Telecommunications Engineering Centre, May 27, 2025
+
+#### Indonesia
+
+* [Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika Kecerdasan Artifisial](https://jdih.komdigi.go.id/produk_hukum/view/id/883/t/surat%2Bedaran%2Bmenteri%2Bkomunikasi%2Bdan%2Binformatika%2Bnomor%2B9%2Btahun%2B2023) | Ministry of Communication and Informatics, Circular No. 9 of 2023 on AI Ethics, December 19, 2023
 
 #### Ireland
 
@@ -898,6 +921,21 @@ This section serves as a repository for policy documents, regulations, guideline
 * [Proposed Governance Framework on the Use of Human-Centered Augmented Intelligence in the Judiciary](https://sc.judiciary.gov.ph/wp-content/uploads/2026/03/AM-NO-25-11-28-SC.pdf) | Supreme Court of the Philippines, A.M. No. 25-11-28-SC, February 18, 2025
 
 
+#### Portugal
+
+* [Agenda Nacional de Inteligência Artificial (ANIA)](https://digital.gov.pt/pt/estrategia-digital/agenda-nacional-de-ia) | Government of Portugal, national AI agenda overview
+* [Agenda Nacional de IA (ANIA)](https://digital.gov.pt/pt/documentos/agenda-nacional-de-ia) | Government of Portugal, agenda document and approving resolution, January 2026
+
+#### Rwanda
+
+* [National Artificial Intelligence Policy](https://www.minict.gov.rw/ai-policy) | Ministry of ICT and Innovation (MINICT), 2023
+* [Policies](https://www.minict.gov.rw/policies) | Ministry of ICT and Innovation (MINICT), official collection including the AI Readiness and Maturity Framework for Rwanda
+
+#### Saudi Arabia
+
+* [AI Ethics Principles](https://dgp.sdaia.gov.sa/wps/wcm/connect/4c56ed1c-1b82-447d-ac29-638f5f99c12e/ai-principles-EN.pdf?MOD=AJPERES) | Saudi Data & AI Authority (SDAIA), Version 1.0, September 2023
+* [Laws & Regulations](https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx) | Saudi Data & AI Authority (SDAIA), official collection including generative AI guidelines, deepfake guidelines, and the AI Adoption Framework
+
 #### Sierra Leone
 
 * [Artificial Intelligence and Automation: Preserving Human Agency in a World of Automation](https://statehouse.gov.sl/wp-content/uploads/2025/01/H.E.KEYNOTE-ACE-EDUCATION-WEEK-2025-JAN-2025-3.pdf) | Keynote Statement on the Annual Celebration of Education Week (ACE Week) 2025 by His Excellency, Dr. Julius Maada Bio, President of the Republic of Sierra Leone at Makeni, Sierra Leone, Friday, 24th January 2025
@@ -945,6 +983,11 @@ This section serves as a repository for policy documents, regulations, guideline
 * [인공지능 발전과 신뢰 기반 조성 등에 관한 기본법](https://www.law.go.kr/%25EB%25B2%2595%25EB%25A0%25B9/%25EC%259D%25B8%25EA%25B3%25B5%25EC%25A7%2580%25EB%258A%25A5%2520%25EB%25B0%259C%25EC%25A0%2584%25EA%25B3%25BC%2520%25EC%258B%25A0%25EB%25A2%25B0%2520%25EA%25B8%25B0%25EB%25B0%2598%2520%25EC%25A1%25B0%25EC%2584%25B1%2520%25EB%2593%25B1%25EC%2597%2590%2520%25EA%25B4%2580%25ED%2595%259C%2520%25EA%25B8%25B0%25EB%25B3%25B8%25EB%25B2%2595/%2820676,20250121%29) | Ministry of Science and ICT, Framework Act on the Development of Artificial Intelligence and Creation of a Trust Foundation, January 21, 2025
 * [생성형 인공지능(AI) 개발·활용을 위한 개인정보 처리 안내서(안)](https://www.aitimes.kr/news/download.php?subUploadDir=202508/&savefilename=35952_300.pdf&filename=%EC%83%9D%EC%84%B1%ED%98%95%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5(AI)%20%EA%B0%9C%EB%B0%9C%C2%B7%ED%99%9C%EC%9A%A9%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%B2%98%EB%A6%AC%20%EC%95%88%EB%82%B4%EC%84%9C.pdf&idxno=300) | Personal Information Protection Commission, Guidelines on Personal Information Processing for the Development and Utilization of Generative Artificial Intelligence (Draft), August 2025
 
+#### Spain
+
+* [Guías prácticas para el cumplimiento del Reglamento europeo de Inteligencia Artificial](https://aesia.digital.gob.es/es/actualidad/recursos/guias-practicas-para-el-cumplimiento-del-ria) | Agencia Española de Supervisión de Inteligencia Artificial (AESIA), collection of 16 non-binding AI Act implementation guides
+* [Innovación y Tecnología](https://www.aepd.es/areas-de-actuacion/innovacion-y-tecnologia) | Agencia Española de Protección de Datos (AEPD), collection including AI, automated decision-making, auditing, and data-protection guidance
+
 #### Sweden
 
 * [Främja den offentliga förvaltningens förmåga att använda AI](https://www.digg.se/download/18.129a4fef1939e2e1c1f240b2/1647952779554/framja-den-offentliga-forvaltningens-formaga-att-anvanda-ai.pdf)
@@ -962,12 +1005,20 @@ This section serves as a repository for policy documents, regulations, guideline
 
 * [Artificial Intelligence Readiness Assessment Report](https://tanzania.un.org/sites/default/files/2025-07/National%20AI%20Readiness%20Report.pdf) | UNESCO, 2025
 
+#### Thailand
+
+* [Generative AI Governance Guideline for Organizations](https://www.etda.or.th/getattachment/6050a4b7-defd-4dba-8cbc-ff6a444a3d08/20240910_GenerativeAIGovernanceGuideline_Vol1_AIGC.pdf.aspx) | Electronic Transactions Development Agency (ETDA), AI Governance Center
+
 #### Ukraine
 
 * Ministry of Digital Transformation
   * [White Paper on Artificial Intelligence Regulation in Ukraine: Vision of the Ministry of Digital Transformation of Ukraine](https://thedigital.gov.ua/storage/uploads/files/page/community/docs/%D0%91%D1%96%D0%BB%D0%B0_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_%D0%B7_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%A8%D0%86_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_%D0%90%D0%9D%D0%93%D0%9B.pdf) | Version for Consultation
   * [Дорожня карта з регулювання штучного інтелекту в Україні: Bottom-Up Підхід](https://cms.thedigital.gov.ua/storage/uploads/files/page/community/docs/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%B7_%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%A8%D0%86_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_compressed.pdf)
 * [Guidelines on the Responsible Use of Artificial Intelligence in the News Media](https://webportal.nrada.gov.ua/wp-content/uploads/2024/05/Ukraine-AI-Guidelines-for-Media.pdf) | Ministry of Digital Transformation, Ministry of Culture and Information Policy, and National Council of Television and Radio Broadcasting
+
+#### United Arab Emirates
+
+* [The UAE Charter for the Development and Use of Artificial Intelligence](https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/Ai/The-UAE-Charter-for-the-Development-and-Use-of-Artificial-Intelligence) | UAE Government
 
 #### United Kingdom
 
@@ -1420,6 +1471,11 @@ This section serves as a repository for policy documents, regulations, guideline
 * Wyoming Department of Education (WDE)
  * [AI Guidance Resources](https://wde.instructure.com/courses/826)
  * [Guidance for Wyoming School Districts on Developing Artificial Intelligence Use Policy](https://edu.wyoming.gov/wp-content/uploads/2024/06/Guidance-for-AI-Policy-Development.pdf)
+
+#### Uruguay
+
+* [Estrategia Nacional de Inteligencia Artificial 2024–2030](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-inteligencia-artificial-2024-2030) | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento (Agesic), November 2024
+* [Inteligencia Artificial y Datos](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/inteligencia-artificial-datos) | Agesic, official collection including AI governance materials and recommendations for AI regulation
 
 ### International and Multilateral Frameworks
 
