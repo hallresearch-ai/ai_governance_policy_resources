@@ -18,6 +18,33 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
 
 - [Institutional AI Governance](https://github.com/hallresearch-ai/ai_governance_policy_resources#institutional-ai-governance)
   - [University Policies and Teaching Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#university-policies-and-teaching-guidance)
+  - [Public Library Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance)
+
+    <details>
+    <summary>Browse public library guidance by country and region</summary>
+
+    - [International and regional](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-international-and-regional)
+    - [Australia](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-australia)
+    - [Canada](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-canada)
+    - [Czech Republic](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-czech-republic)
+    - [Denmark](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-denmark)
+    - [Finland](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-finland)
+    - [France](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-france)
+    - [Germany](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-germany)
+    - [Latvia](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-latvia)
+    - [Lithuania](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-lithuania)
+    - [Netherlands](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-netherlands)
+    - [New Zealand](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-new-zealand)
+    - [Norway](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-norway)
+    - [Poland](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-poland)
+    - [Singapore](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-singapore)
+    - [Sweden](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-sweden)
+    - [Taiwan](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-taiwan)
+    - [United Kingdom](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-united-kingdom)
+    - [United States](https://github.com/hallresearch-ai/ai_governance_policy_resources#public-library-guidance-united-states)
+
+    </details>
+
 - [Government and Multilateral AI Policy Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#government-and-multilateral-ai-policy-guidance)
   - [National and Regional Government Guidance](https://github.com/hallresearch-ai/ai_governance_policy_resources#national-and-regional-government-guidance)
 
@@ -271,6 +298,236 @@ For courses, curricula, tutorials, and educational materials designed to teach A
 * [Yale University, AI at Yale](https://ai.yale.edu/)
 * [Yale University, AI Guidance for Teachers](https://poorvucenter.yale.edu/AIguidance)
 * [Yale University, Guidelines for the Use of Generative AI Tools](https://provost.yale.edu/news/guidelines-use-generative-ai-tools)
+
+### Public Library Guidance
+
+AI policies and practical guidance for public libraries, including resources from library associations and support agencies. Local library names include state/province markers; full source titles appear on hover.
+
+<a id="public-library-guidance-international-and-regional"></a>
+
+#### International and regional (Public Libraries)
+
+- [EIFL — AI literacy training for young people](https://www.eifl.net/node/4575 "Smart Use of Artificial Intelligence (AI) – a presentation for public library trainers to use in AI literacy training for children and teenagers")
+- [Iberbibliotecas — Practical AI guide](https://www.iberbibliotecas.org/guia-practica-para-el-uso-reflexivo-y-el-analisis-de-herramientas-de-inteligencias-artificial-en-bibliotecas/ "GUÍA PRÁCTICA PARA EL USO REFLEXIVO Y EL ANÁLISIS DE HERRAMIENTAS DE INTELIGENCIAS ARTIFICIAL EN BIBLIOTECAS")
+- [IFLA — Copyright and AI statement](https://repository.ifla.org/rest/api/core/bitstreams/0e914873-e316-49d6-a7f2-d48fbb8ed3d0/content "IFLA Statement on Copyright and Artificial Intelligence (AI)")
+- [IFLA — Libraries and AI resource hub](https://www.ifla.org/g/ai/entry-point/ "Entry point for libraries and AI")
+- [IFLA — Libraries and AI statement](https://repository.ifla.org/items/8c05d706-498b-42c2-a93a-3d47f69f7646 "IFLA Statement on Libraries and Artificial Intelligence")
+
+<a id="public-library-guidance-australia"></a>
+
+#### Australia (Public Libraries)
+
+- [Australian Library and Information Association — AI resources](https://www.alia.org.au/Web/Web/Research-and-Publications/ai-resources.aspx "AI Resources")
+
+<a id="public-library-guidance-canada"></a>
+
+#### Canada (Public Libraries)
+
+- [Barrie Public Library (ON) — AI policy](https://www.barrielibrary.ca/about-bpl/about-the-library/policies/ai-policy.pdf "Artificial Intelligence Policy")
+- [Bibliothèque de Beaumont Library (AB) — AI and automated system use policy](https://beaumontlibrary.com/content/download/180902/file/PMP-07%20Artificial%20Intelligence%20%28AI%29%20and%20Automated%20System%20Use.pdf "Artificial Intelligence (AI) and Automated System Use Policy")
+- [Blue Mountains Public Library (ON) — AI policy (board packet)](https://www.thebluemountainslibrary.ca/sites/default/files/2025-05/2025-05-15%20Board%20Package%20%28Complete%29.pdf "Board Meeting Agenda")
+- [Caledon Public Library (ON) — AI policy](https://caledon.library.on.ca/wp-content/uploads/about-us-page-assets/library-policies/26-35_Artificial-Intelligence-Policy.pdf "Artificial Intelligence (AI) Policy")
+- [Calgary Public Library (AB) — LearnAI resources](https://learnai.calgarylibrary.ca/ "LearnAI")
+- [Canadian Federation of Library Associations — Generative AI copyright response](https://cfla-fcab.ca/wp-content/uploads/2024/03/CFLAwebsiteversion.Generative-Artificial-Intelligence.form_.2024-2.docx.pdf "Consultation on Copyright in the Age of Generative Artificial Intelligence: CFLA Response")
+- [Canadian Urban Libraries Council — AI competency mapping tool](https://culc.ca/wp-content/uploads/2026/09/05-AI-Competency-Mapping-Tool.pdf "AI Competency Mapping Tool")
+- [Canadian Urban Libraries Council — AI disclosure statement](https://culc.ca/wp-content/uploads/2026/09/12-AI-Disclosure-Statement.pdf "AI Disclosure (AID) Statement")
+- [Canadian Urban Libraries Council — AI organization toolkit](https://culc.ca/project/building-an-ai-informed-organization-toolkit/ "Building an AI-Informed Organization Toolkit")
+- [Canadian Urban Libraries Council — AI prompting guide for staff](https://culc.ca/wp-content/uploads/2026/09/08-AI-Prompting-Guide-for-Library-Workers.pdf "AI Prompting Guide for Library Workers")
+- [Canadian Urban Libraries Council — AI training recommendations](https://culc.ca/wp-content/uploads/2026/09/06-AI-Training-Recommendations.pdf "AI Training Recommendations at a Glance")
+- [Canadian Urban Libraries Council — Common AI use scenarios](https://culc.ca/wp-content/uploads/2026/09/04-Common-AI-Use-Scenarios-by-Staff-Function.pdf "Common AI Use Scenarios")
+- [Canadian Urban Libraries Council — Eight strategic considerations for AI](https://culc.ca/wp-content/uploads/2026/09/02-Strategic-Considerations-for-Becoming-an-AI-Informed-Library.pdf "8 Strategic Considerations for Becoming an AI-Informed Library")
+- [Canadian Urban Libraries Council — Staff AI competency framework](https://culc.ca/wp-content/uploads/2026/09/03-AI-Staff-Competency-Framework-for-Public-Libraries-1.pdf "AI Staff Competency Framework for Public Libraries")
+- [Collingwood Public Library (ON) — AI policy](https://pub-collingwood.escribemeetings.com/filestream.ashx?DocumentId=6429 "Artificial Intelligence")
+- [East Gwillimbury Public Library (ON) — AI policy](https://www.egpl.ca/content/download/46998/file/Artificial%20Intelligence%20Policy%202026.pdf "Artificial Intelligence Policy")
+- [Grey Highlands Public Library (ON) — Staff AI usage policy](https://ghpl.ca/wp-content/uploads/2026/03/AI-Policy-OP05.pdf "AI Usage Policy")
+- [Hanover Public Library (ON) — AI use policy](https://hanoverlibrary.ca/wp-content/uploads/OP-17-Artificial-Intelligence-2024-board-approved.pdf "Use of AI in the Library")
+- [Milton Public Library (ON) — Draft AI policy (board packet)](https://beinspired.ca/wp-content/uploads/2026/03/Board-Agenda-Package-March-25-2026.pdf "Regular Meeting of the Milton Public Library Board")
+- [Oakville Public Library (ON) — AI policy](https://opl.ca/getattachment/0a74ae1c-8c39-4e97-ba2c-7579446c00e4/GOV-015-Artificial-Intelligence-Policy-%282025%29.pdf?lang=en-US "Artificial Intelligence Policy")
+- [Okanagan Regional Library (BC) — AI policy (policy manual)](https://orl.bc.ca/wp-content/uploads/2026/02/Board-Policy-and-Regulations-February-18-2026.pdf "Board Policy and Regulations")
+- [Peace Library System (AB) — AI policy](https://www.peacelibrarysystem.ab.ca/Media/HQ-Sites/Peace/Files/About-Us/Policies/m12-ai-policy-2026 "Artificial Intelligence (AI)")
+- [Prince George Public Library (BC) — AI policy](https://www.pgpl.ca/sites/default/files/policy/policy%20manual/Section%206.23%20Artificial%20Intelligence.pdf "Article 6.23: Artificial Intelligence")
+- [Sault Ste. Marie Public Library (ON) — AI use policy](https://ssmpl.ca/documents/assets/uploads/files/en/400-15_using_artificial_intelligence_policy.pdf "Using Artificial Intelligence Policy")
+- [SDG Library (ON) — Generative AI policy](https://www.sdglibrary.ca/wp-content/uploads/sites/144/2025/11/SDG-Library_Generative-AI-Policy.pdf "Generative AI Policy")
+- [St. Catharines Public Library (ON) — AI use policy](https://www.myscpl.ca/media/42ekehla/pol_g09_ai-use_2025-05-15.pdf "Artificial Intelligence Use")
+- [Sylvan Lake Library (AB) — AI policy](https://www.sylvanlakelibrary.ca/_files/ugd/d61e4e_0f81dfa900aa48cc977291d2419e9dd3.pdf "Artificial Intelligence (AI) Policy")
+- [Toronto Public Library (ON) — AI policy](https://tpl.ca/policies-and-terms-of-use/artificial-intelligence-policy/ "Artificial Intelligence (AI) Policy")
+- [Toronto Public Library (ON) — Learn AI resources](https://tpl.ca/programs-and-classes/featured/learnai/ "Learn AI")
+- [Vaughan Public Libraries (ON) — AI policy](https://www.vaughanpl.info/files/services/Artificial_Intelligence_Policy.pdf "Artificial Intelligence Policy")
+- [Waterloo Public Library (ON) — Acceptable AI use policy](https://www.wpl.ca/policies/acceptable-ai-use/ "Acceptable AI Use Policy")
+- [Western Manitoba Regional Library (MB) — AI approach policy](https://wmrl.ca/wp-content/uploads/2025/08/Policy-Artificial-Intelligence-Mar-2025.pdf "Artificial Intelligence Approach Policy")
+
+<a id="public-library-guidance-czech-republic"></a>
+
+#### Czech Republic (Public Libraries)
+
+- [Knihovna.ai — AI adaptation toolkit](https://knihovna.ai.knihovna.cz/ "Služby pro adaptaci knihoven v éře umělé inteligence.")
+
+<a id="public-library-guidance-denmark"></a>
+
+#### Denmark (Public Libraries)
+
+- [Bornholms Folkebiblioteker — Responsible AI use guide](https://bibliotek.brk.dk/artikler/ai-kunstig-intelligens/det-skal-du-vaere-opmaerksom-pa-nar-du-bruger-ai "Det skal du være opmærksom på, når du bruger AI")
+- [Danmarks Biblioteksforening — Libraries, disinformation, and AI](https://db.dk/disinformation_og_ai/ "Bibliotekerne i en verden med disinformation og AI")
+- [Vejle Bibliotekerne — Responsible AI use guide](https://vejlebib.dk/artikler/digitalt/det-skal-du-vaere-opmaerksom-pa-nar-du-bruger-ai "Det skal du være opmærksom på, når du bruger AI")
+
+<a id="public-library-guidance-finland"></a>
+
+#### Finland (Public Libraries)
+
+- [Kirjastot.fi — Staff AI guidance](https://www.kirjastot.fi/materiaaleja-ja-verkkosivuja?language_content_entity=fi "Materiaaleja ja verkkosivuja")
+
+<a id="public-library-guidance-france"></a>
+
+#### France (Public Libraries)
+
+- [Bibliothèque publique d’information — AI resources for public libraries](https://pro.bpi.fr/dossier/ia-et-bibliotheques/ "IA et bibliothèques")
+- [Médiathèque départementale de Lozère — AI tools guide](https://biblio.lozere.fr/me-former/les-outils-de-lia "Les outils de l'Intelligence Artificielle")
+
+<a id="public-library-guidance-germany"></a>
+
+#### Germany (Public Libraries)
+
+- [Bibliotheksportal — AI resources for libraries](https://bibliotheksportal.de/fuer-bibliotheken/digitale-services/bibliotheken-und-ki/ "Bibliotheken und KI")
+- [Goethe-Institut — LIBRA.I AI literacy methodology](https://www.goethe.de/prj/lib/en/mth.html "Methodology")
+
+<a id="public-library-guidance-latvia"></a>
+
+#### Latvia (Public Libraries)
+
+- [National Library of Latvia — Media and AI literacy guide](https://medijpratiba.neplp.lv/wp-content/uploads/2026/03/MEDIJPRATIBAS-PAMATI-BIBLIOTEKU-SPECIALISTIEM.pdf "Medijpratības pamati bibliotēku speciālistiem")
+
+<a id="public-library-guidance-lithuania"></a>
+
+#### Lithuania (Public Libraries)
+
+- [Biblioteka visiems — AI literacy training materials](https://mirkt.bibliotekavisiems.lt/bibliotekininkui/mediju-ir-informacinio-rastingumo-kompetenciju-tobulinimo-programa/dirbtinis-intelektas/ "Dirbtinis intelektas")
+
+<a id="public-library-guidance-netherlands"></a>
+
+#### Netherlands (Public Libraries)
+
+- [Bibliotheek Rotterdam — AI rules](https://www.bibliotheek.rotterdam.nl/images/Banners%20Landingpagina/Spelregels%20AI%20september%2025.pdf "Spelregels voor AI")
+- [Informatie Professional — Seven principles for using AI](https://zenodo.org/records/3686729 "7 principes om kunstmatige intelligentie in te zetten")
+- [KB and NBD Biblion — AI ethics framework](https://doi.org/10.5281/zenodo.10375857 "Op weg naar een AI-normenkader. Een advies voor de bibliotheeksector")
+
+<a id="public-library-guidance-new-zealand"></a>
+
+#### New Zealand (Public Libraries)
+
+- [Hamilton City Libraries — AI collection guidance (collection policy)](https://hamiltonlibraries.co.nz/about/library-policies-and-guidelines/collection-management-policy "Hamilton City Libraries Collection Management Policy")
+- [LIANZA — Everyday AI prompt examples](https://www.lianza.org.nz/media/f4mfqwhm/ai-in-practice-everyday-usefulness-shared-prompts.pdf "AI in Practice – Topic 1: Everyday usefulness (Prompts shared)")
+- [Nelson Public Libraries — AI collection guidance (policies page)](https://www.nelsonpubliclibraries.co.nz/about/our-policies "Our Policies")
+
+<a id="public-library-guidance-norway"></a>
+
+#### Norway (Public Libraries)
+
+- [National Library of Norway — AI copyright guidance for public libraries](https://bibliotekutvikling.no/juridiske-ressurser/opphavrett-og-andsverk-for-bibliotek/bruk-av-ki-i-folkebibliotek-en-juridisk-vurdering-og-veiledning/ "Bruk av KI i folkebibliotek- en juridisk veiledning om opphavsrett")
+
+<a id="public-library-guidance-poland"></a>
+
+#### Poland (Public Libraries)
+
+- [Polish Librarians Association — Safe AI use guidelines](https://api.sbp.pl/portal/files/ai/grupa_2.pdf "Zalecenia dotyczące bezpiecznego korzystania z narzędzi AI (dla bibliotekarzy i użytkowników bibliotek) – GRUPA II")
+
+<a id="public-library-guidance-singapore"></a>
+
+#### Singapore (Public Libraries)
+
+- [National Library Board — Generative AI literacy guide](https://www.nlb.gov.sg/main/site/-/media/NLBMedia/Documents/Read-to-be-SURE/What-is-RTBS/Volume-3/NLB-RTBS-Vol-3-1.pdf "Read to be SURE — Volume 3—2023/24, Issue 1: Generative AI")
+
+<a id="public-library-guidance-sweden"></a>
+
+#### Sweden (Public Libraries)
+
+- [Digiteket — AI and information evaluation](https://digiteket.se/inspirationsartikel/ai-i-bibliotek-hur-vi-soker-varderar-och-hanterar-information/ "AI i bibliotek: hur vi söker, värderar och hanterar information")
+- [Digiteket — AI ethics, privacy, and democracy](https://digiteket.se/inspirationsartikel/ai-i-bibliotek-etik-integritet-och-demokrati/ "AI i bibliotek: etik, integritet och demokrati")
+- [Digiteket — AI orientation for staff and patrons](https://digiteket.se/kurs/ai-orientering-for-bibliotekspersonal-och-besokare/ "AI-orientering för bibliotekspersonal och besökare")
+- [Digiteket — AI, library missions, and democracy](https://digiteket.se/kurs/ai-i-bibliotek-fran-uppdrag-till-demokrati-verktyg-och-utmaningar/ "AI i bibliotek: från uppdrag till demokrati – verktyg och utmaningar")
+- [Digiteket — Introduction to generative AI tools](https://digiteket.se/kurs/en-praktisk-introduktion-till-generativ-ai-chatgpt-gemini-och-copilot/ "En praktisk introduktion till generativ AI – ChatGPT, Gemini och Copilot")
+- [Digiteket — NotebookLM guide](https://digiteket.se/kurs/notebooklm-chatta-med-din-data/ "NotebookLM – chatta med din data")
+- [Digiteket — Recognizing AI-generated images](https://digiteket.se/inspirationsartikel/lar-dig-kanna-igen-ai-bilder-fem-konkreta-tips-och-ett-quiz/ "Lär dig känna igen AI-bilder – fem konkreta tips (och ett quiz!)")
+
+<a id="public-library-guidance-taiwan"></a>
+
+#### Taiwan (Public Libraries)
+
+- [National Library of Public Information — AI guidance (information page)](https://w3.nlpi.edu.tw/FileList/government-information?ID=2e0befc6-8fcb-487f-807b-e7f97f01366c&PageIndex=1&PageType=1&SubCategoryID=cdc75d0c-75a2-44af-8384-34df9a39d262 "公開資訊")
+- [National Library of Public Information — AI literacy video](https://literacy-hub.nlpi.edu.tw/video/w8bPopw29Vy0 "我的小幫手？")
+
+<a id="public-library-guidance-united-kingdom"></a>
+
+#### United Kingdom (Public Libraries)
+
+- [CILIP — AI policy development](https://oldsite-ym.cilip.org.uk/news/663916/Why-every-librarian-needs-to-be-involved-in-shaping-your-AI-Policy.htm "Why every librarian needs to be involved in shaping your AI Policy")
+- [Libraries Connected — AI and digital media literacy guidance](https://www.librariesconnected.org.uk/resources/how-libraries-can-support-ai-and-digital-media-literacy-good-practice-innovating-trusted "How libraries can support AI and digital media literacy: Good practice from the Innovating in Trusted Spaces project")
+- [LibraryOn — AI statement](https://libraryon.org/legal/ai-statement "Artificial Intelligence (AI) statement")
+- [Newham Libraries — AI guidance (policies page)](https://libraries.newham.gov.uk/digital-content/libraries/library-policies "Library Policies")
+
+<a id="public-library-guidance-united-states"></a>
+
+#### United States (Public Libraries)
+
+- [Adams County Public Library (OH) — Staff AI guidance (personnel policies)](https://www.adamscolibrary.org/content/section-iii-personnel-policies "Section III - Personnel Policies")
+- [Alaska State Library — AI resources](https://lam.alaska.gov/tech/artificial-intelligence "Artificial Intelligence (AI) - Library Technology")
+- [American Library Association — AI use guidance](https://www.ala.org/tools/standards-and-guidelines/guidance-use-artificial-intelligence-libraries "Guidance on the Use of Artificial Intelligence in Libraries")
+- [Barrington Public Library (NH) — AI policy](https://barringtonlibrary.com/wp-content/uploads/ai-policy-2025-approved.pdf "Artificial intelligence (AI) Policy")
+- [Carmel Clay Public Library (IN) — AI policy](https://static.libnet.info/images/pdfs/carmel/CCPL_Artificial_Intelligence_Policy.pdf "Artificial Intelligence Policy")
+- [Charlevoix Public Library (MI) — Staff AI usage policy](https://www.charlevoixlibrary.org/media/634 "Staff Artificial Intelligence (AI) Usage Policy")
+- [Colorado State Library — AI working guide](https://www.librarieslearn.org/blog/ai-and-colorado-libraries-a-working-guide "AI and Colorado Libraries: A Working Guide")
+- [Crandall Public Library (Glens Falls, NY) — AI and language model guidelines](https://www.crandalllibrary.org/assets/Documents-PDFs/Admin/Policies/CPL-Artificial-Intelligence-Policy-Adopted-07-23-25.pdf "Artificial Intelligence & Large Language Model Usage Guidelines")
+- [DeKalb Public Library (IL) — AI use policy](https://dkpl.org/wp-content/uploads/2025/01/AI-policy_2024.pdf "DeKalb Public Library Use of Artificial Intelligence Policy")
+- [Dothan Houston County Library System (AL) — AI policy (policies page)](https://www.dhcls.org/about-us/library-policies/ "Library Policies")
+- [Emporia Public Library (KS) — AI policy](https://www.emporialibrary.org/_files/ugd/9b3683_2c757109dda14fc0a4225e0390139c96.pdf "Artificial Intelligence Policy")
+- [Escondido Public Library (CA) — Staff generative AI guidelines (project record)](https://www.urbanlibraries.org/innovations/practical-guidelines-for-generative-ai "Practical Guidelines for Generative AI")
+- [Exeter Public Library (NH) — AI use policy (policy manual)](https://www.exeterpl.org/_files/ugd/48fbf9_3647bdd6feec4c3f862f48dd29aea931.pdf?index=true "Policies Manual")
+- [Garfield County Libraries (CO) — AI policy (policies page)](https://gcpld.org/about-us/policies-and-notices/ "Policies and Notices")
+- [Geneva Public Library District (IL) — Staff AI policy (policies page)](https://gpld.org/gpld-policies "GPLD Policies")
+- [Half Hollow Hills Community Library (NY) — Staff AI rules (technology policy)](https://www.hhhlibrary.org/policies/policy-employee-use-library-equipment-email-internet-and-technology-systems "Employee Use of Library Equipment, Email, The Internet, and Technology Systems")
+- [Hastings Public Library (MI) — Staff AI usage policy](https://www.hastingspubliclibrary.org/site-assets/files/tec-5_staff-ai-usage-policy.pdf "Staff AI Usage Policy")
+- [Henderson County Public Library (KY) — Employee AI use policy](https://www.hcpl.org/policies/employee-ai-use "Employee AI Use")
+- [Holbrook Public Library (MA) — Generative AI policy (policies page)](https://holbrookpubliclibrary.org/policies "Policies")
+- [Holderness Free Library (NH) — AI policy](https://www.holdernessfreelibrary.org/uploads/1/2/0/0/120063836/holderness_free_library_ai_policy_2023.pdf "Artificial Intelligence (AI) Policy")
+- [Horicon Public Library (WI) — Staff AI use policy](https://www.horiconwi.gov/DocumentCenter/View/2238/Library-Use-of-AI-Policy "Library Use of Artificial Intelligence (AI) Policy")
+- [Houston County Public Library System (GA) — Employee AI use policy](https://webgen1files1.revize.com/houstonlibraryga/Document%20Center/Policies/HOUPL%20-%20AI%20Policy%20-%20Final.pdf "Employee AI Use Policy")
+- [Jaffrey Public Library (NH) — Employee AI use policy](https://townofjaffrey.com/DocumentCenter/View/1069/Employee-Use-of-AI-PDF "Jaffrey Public Library Employee Use of Artificial Intelligence (AI) Policy")
+- [Johnson County Library (KS) — AI policy](https://www.jocolibrary.org/plans-policies/arm_50-40-10/ "Artificial Intelligence Policies – ARM 50-40-10")
+- [Kaukauna Public Library (WI) — AI policy (policies page)](https://kaukaunalibrary.org/library-services/ "Library Policies")
+- [Kenosha Public Library (WI) — AI and machine learning policy](https://mykpl.info/wp-content/uploads/sites/120/2024/08/AI-Policy-V1-Final.pdf "Artificial Intelligence & Machine Learning Usage Policy")
+- [Kenosha Public Library (WI) — AI vetting process](https://docs.google.com/document/d/1HbldZyYCFiIsneo8GWa-_Mvg-XldJ2De_XFy_AdyqUo/edit?tab=t.0 "Artificial Intelligence Vetting Process")
+- [Kingston Community Library (NH) — AI policy](https://nhlta.org/resources/Documents/Resourc/9_ai_for_public_policy_1245pm.pdf "Artificial Intelligence (AI) Policy")
+- [Kingston Community Library (NH) — Staff AI usage policy](https://nhlta.org/resources/Documents/Resourc/9_ai_staff_usage_policy_1245pm.pdf "AI (Artificial Intelligence) Usage Policy")
+- [Lake Bluff Public Library (IL) — Staff AI use policy](https://www.lakeblufflibrary.org/policy/artificial-intelligence-policy/ "Staff Artificial Intelligence (AI) Use Policy")
+- [Lancaster Public Library (PA) — AI policy](https://lancasterpubliclibrary.org/ai-policy/ "Lancaster Public Library Artificial Intelligence Policy")
+- [Laurens County Public Library (SC) — Staff AI policy (policies page)](https://lcpl.org/policies/ "Policies")
+- [Library Freedom Project — AI vendor questions](https://libraryfreedom.org/wp-content/uploads/2025/06/AI-questions-for-vendors.pdf "Questions to Ask Vendors About AI")
+- [Lower Merion Library System (PA) — AI policy](https://lmls.org/ld.php?content_id=84926901 "Artificial Intelligence Policy")
+- [Massachusetts Library System — AI policy resources](https://guides.masslibsystem.org/ai/aipolicy "ChatGPT and Generative Artificial Intelligence: AI Policy Resources")
+- [Massachusetts Library System — Generative AI guide](https://guides.masslibsystem.org/ai "ChatGPT and Generative Artificial Intelligence: MLS Generative AI Home")
+- [Mattituck-Laurel Library (NY) — Staff AI use policy](https://www.mattitucklaurellibrary.org/policies/artificial-intelligence-ai-use-policy-library-staff "Artificial Intelligence (A.I.) Use Policy - For Library Staff")
+- [Midlothian Public Library (IL) — Staff AI policy](https://midlothianlibrary.org/policies-main/artificial-intelligence-ai-policy "Artificial Intelligence (AI) Policy")
+- [New York Public Library (NY) — AI guide](https://libguides.nypl.org/ai "Artificial Intelligence : About")
+- [Pickerington Public Library (OH) — Acceptable AI use policy](https://pickeringtonlibrary.org/ai-policy/ "Acceptable Use of Artificial Intelligence Policy")
+- [Plainedge Public Library (NY) — AI-generated collection materials](https://plainedgelibrary.org/wp-content/uploads/2026/04/AI-Materials-Policy-2026.pdf "Materials Generated by Artificial Intelligence (AI)")
+- [Public Library Association — AI resources](https://www.ala.org/pla/initiatives/ai "Artificial Intelligence")
+- [Public Library Association — AI skills training](https://www.ala.org/pla/initiatives/AIskilling/libraries "Building AI Skills and Agency Through Libraries - Trainings")
+- [Rochester Hills Public Library (MI) — AI policy](https://77440f96-bae5-4d3a-96e8-eefbde2d7570.filesusr.com/ugd/071121_719c34dd88f746298a8bec55386c1c80.pdf "Artificial Intelligence (AI) Policy")
+- [Salt Lake County Library (UT) — AI-generated materials (collection policy)](https://www.slcolibrary.org/policies/pdfs/Collection-Management-Policy.pdf "Collection Management Policy")
+- [Schaumburg Library (IL) — AI policy](https://www.schaumburglibrary.org/about/policies/artificial-intelligence "Artificial Intelligence (AI)")
+- [Seattle Public Library (WA) — AI use policy](https://www.spl.org/about-us/policies/library-use-of-artificial-intelligence "Library Use of Artificial Intelligence")
+- [Springdale Public Library (AR) — Staff AI policy (policies page)](https://springdalelibrary.org/policies/ "Policies")
+- [St. Charles Public Library District (IL) — AI use policy](https://www.scpld.org/wp-content/uploads/2024/09/Artificial-Intelligence-Use-Policy.pdf "Artificial Intelligence Use Policy")
+- [St. Louis Public Library (MO) — AI policy](https://www.slpl.org/service-policies/artificial-intelligence-ai-policy/ "Artificial Intelligence (AI) Policy")
+- [State Library of Kansas — AI literacy resources](https://library.ks.gov/AI "Artificial Intelligence Literacy")
+- [Sustainable Libraries Initiative — AI resources](https://www.sustainablelibrariesinitiative.org/artificial-intelligence-resources "Artificial Intelligence Resources")
+- [Timberland Regional Library (WA) — Staff AI use guidelines](https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/140/2026/04/Artificial-Intelligence-AI-Use-Guidelines-1.pdf "Artificial Intelligence (AI) Use Guidelines")
+- [Urban Libraries Council — Generative AI leadership brief](https://www.urbanlibraries.org/files/AI_Leadership-Brief_October2023.pdf "Leadership Brief: Explorations of Generative AI for Library Systems")
+- [WebJunction — AI collection policy framework](https://www.webjunction.org/news/webjunction/ai-collection-policy-framework.html "Considering AI in your collection policy: A practical framework for libraries")
+- [WebJunction — AI literacy programming guidance](https://www.webjunction.org/news/webjunction/ai-programming-for-patrons.html "How public libraries are teaching AI and digital literacy skills")
+- [WebJunction — Introduction to AI](https://www.webjunction.org/news/webjunction/introduction-to-AI.html "Introduction to AI")
+- [WebJunction — Using AI at work](https://www.webjunction.org/news/webjunction/using-ai-on-the-job.html "Evolving technology: Using AI on the job")
+- [Westmont Public Library (IL) — Generative AI policy](https://westmontlibrary.org/wp-content/uploads/Generative-Artificial-Intelligence-AI-Policy-2.18.2025.pdf "Generative Artificial Intelligence (AI) Policy")
+- [Wolfeboro Public Library (NH) — AI technology use policy](https://wolfeboropubliclibrary.org/wp-content/uploads/use-of-artificial-intelligence-policy-wpl.pdf "Use of Artificial Intelligence Technologies Policy")
 
 ---
 
