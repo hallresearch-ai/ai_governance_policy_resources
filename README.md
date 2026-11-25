@@ -147,6 +147,17 @@ This repository grew out of the original [*Awesome Machine Learning Interpretabi
   - [AI Incident Databases, Reporting Systems, and Information-Sharing Resources](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-incident-databases-reporting-systems-and-information-sharing-resources)
   - [Bibliography and Research on AI Incidents and Failures](https://github.com/hallresearch-ai/ai_governance_policy_resources#bibliography-and-research-on-ai-incidents-and-failures)
   - [AI Contestability and Redress](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-contestability-and-redress)
+
+    <details>
+    <summary>Browse contestability and redress resources</summary>
+
+    - [Rights, Explanations, and Complaints](https://github.com/hallresearch-ai/ai_governance_policy_resources#rights-explanations-and-complaints)
+    - [Advocacy and Litigation Tools](https://github.com/hallresearch-ai/ai_governance_policy_resources#advocacy-and-litigation-tools)
+    - [Cases and Case-Law Resources](https://github.com/hallresearch-ai/ai_governance_policy_resources#cases-and-case-law-resources)
+    - [Research and Design Frameworks](https://github.com/hallresearch-ai/ai_governance_policy_resources#research-and-design-frameworks)
+
+    </details>
+
 - [AI, Labor, and Social Impact](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-labor-and-social-impact)
   - [AI and Labor Resources](https://github.com/hallresearch-ai/ai_governance_policy_resources#ai-and-labor-resources)
   - [Responsible and Critical Perspectives on Agentic AI](https://github.com/hallresearch-ai/ai_governance_policy_resources#responsible-and-critical-perspectives-on-agentic-ai)
@@ -2292,13 +2303,56 @@ The resources below provide additional classification, visualization, aggregatio
 
 This section collects resources on challenging AI-influenced decisions and seeking remedies for harm, including the information and institutional support people need to make those challenges effective.
 
+#### Rights, Explanations, and Complaints
+
+* [AEPD — Automated-decision rights](https://www.aepd.es/derechos-y-deberes/conoce-tus-derechos/derecho-no-ser-objeto-de-decisiones-individuales) | Spain; Spanish
+* [AEPD — Automated-decision rights request form](https://www.aepd.es/documento/formulario-derecho-de-oposicion-decisiones-automatizadas.pdf) | Spain; Spanish
+* [ANPD — Data-subject rights](https://www.gov.br/anpd/pt-br/assuntos/titular-de-dados/direito-dos-titulares) | Brazil; Portuguese; includes review and explanation of automated decisions
+* [CNIL — Human intervention in automated decisions](https://www.cnil.fr/fr/vos-droits-lintervention-humaine-face-votre-profilage-ou-une-decision-automatisee) | France; French
+* [Data Protection Commission — Automated-decision rights](https://www.dataprotection.ie/en/individuals/know-your-rights/your-rights-relation-automated-decision-making-including-profiling) | Ireland
+* [European Commission — AI Act complaint channels](https://ai-act-service-desk.ec.europa.eu/en/ai-act/faq/what-are-entry-channels-complaints) | European Union
+* [European Data Protection Board — Automated decision-making and profiling](https://www.edpb.europa.eu/documents/guideline/automated-decision-making-and-profiling_en) | European Union
+* [Guidance 8. Contestability](https://www.digital.gov.au/policy/ai/pilot-ai-assurance-framework/guidance/step-8)
+* [ICO — Automated-decision rights](https://ico.org.uk/for-the-public/your-rights-relating-to-decisions-being-made-about-you-without-human-involvement) | United Kingdom; guidance flagged by the ICO as under review
+* [Information and Privacy Commission NSW — Automated decisions and information-access rights for citizens](https://www.ipc.nsw.gov.au/resources/fact-sheet-automated-decision-making-digital-government-and-preserving-information-access-rights-citizens) | New South Wales, Australia
+* [NSW Ombudsman — Automated decision-making systems](https://www.ombo.nsw.gov.au/guidance-for-organisations/improving-public-administration/automated-decision-making-systems) | New South Wales, Australia; includes the Ombudsman’s complaints role
+* [PIPC — Automated-decision rights guidance release](https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=10611) | South Korea; Korean
+* [Québec Government — Exclusively automated decisions](https://www.quebec.ca/gouvernement/travailler-gouvernement/normes-gouvernance-pratiques-internes/protection-des-renseignements-personnels/technologie-et-droit-a-la-protection-des-renseignements-personnels/decision-traitement-automatise) | Québec, Canada; French
+
+#### Advocacy and Litigation Tools
+
+* [AI Now Institute — Litigating Algorithms 2019 U.S. Report: New Challenges to Government Use of Algorithmic Decision Systems](https://ainowinstitute.org/publications/litigating-algorithms-2019-u-s-report-2) | United States, 2019
+* [AI Now Institute — Litigating Algorithms: Challenging Government Use of Algorithmic Decision Systems](https://ainowinstitute.org/wp-content/uploads/2023/04/litigatingalgorithms.pdf) | United States, 2018
 * [Algorithmic Equity Toolkit](https://www.aclu-wa.org/aekit/)
+* [Amnesty International — Algorithmic Accountability Toolkit](https://www.amnesty.org/en/latest/research/2025/12/algorithmic-accountability-toolkit/) | Investigation, advocacy, and routes to justice
+* [Benefits Tech Advocacy Hub — Advocates’ Guide to Automated Notices](https://www.btah.org/resources/advocates-guide-to-automated-notices.html) | United States
+* [Benefits Tech Advocacy Hub — Making Sense of Technology Problems Framework](https://www.btah.org/resources/making-sense-of-technology-problems-framework.html) | United States
+* [Benefits Tech Advocacy Hub — Public Records Request Guide](https://www.btah.org/resources/public-records-request-guide.html) | United States
+* [CDT Europe — Potential Avenues for Redress for AI-related Harms: A Visual Explanation](https://cdt.org/insights/a-visual-explanation-of-potential-avenues-for-redress-for-ai-related-harms-under-the-ai-act/) | European Union
+* [Défenseur des droits — Algorithms, AI Systems and Public Services: What Rights Do Users Have?](https://www.defenseurdesdroits.fr/algorithmes-intelligence-artificielle-et-services-publics-2024) | France; French and English reports
+* [Digital Freedom Fund — Strategic Litigation Toolkit](https://digitalfreedomfund.org/wp-content/uploads/2022/06/Strategic-Litigation-Toolkit_V3.pdf) | Includes a litigating-algorithms case study
+* [Public Law Project — Missing Pieces: Transparency and Accountability in Public Body Automated (and Automated Assisted) Decision-making](https://publiclawproject.org.uk/resources/ai-in-public-body-decision-making/) | United Kingdom
+
+#### Cases and Case-Law Resources
+
+* [Benefits Tech Advocacy Hub — Arkansas Medicaid care-allocation challenges](https://www.btah.org/case-study/arkansas-medicaid-home-and-community-based-services-hours-cuts.html) | Arkansas, United States; case study
+* [CJEU — Dun & Bradstreet Austria: Explanations of automated credit assessments](https://curia.europa.eu/site/upload/docs/application/pdf/2025-02/cp250022en.pdf) | European Union, 2025; judgment press release
+* [CJEU — SCHUFA: Credit scoring and data retention](https://curia.europa.eu/site/upload/docs/application/pdf/2023-12/cp230186en.pdf) | European Union, 2023; judgments press release
+* [Courts and Tribunals Judiciary — R (Bridges) v Chief Constable of South Wales Police](https://www.judiciary.uk/judgments/r-bridges-v-cc-south-wales/) | United Kingdom, 2020; facial-recognition appeal
+* [EEOC — iTutorGroup automated-hiring settlement](https://www.eeoc.gov/newsroom/itutorgroup-pay-365000-settle-eeoc-discriminatory-hiring-suit) | United States, 2023
+* [Hertie School — Tech Litigation Database](https://tech-litigation.com/) | Global case-law resource
+* [Michigan Attorney General — Bauserman unemployment-fraud settlement](https://www.michigan.gov/ag/news/press-releases/2023/01/23/state-of-michigan-announces-court-approval-of-the-bauserman-uia-false-fraud) | Michigan, United States, 2023; preliminary settlement approval
+* [Royal Commission into the Robodebt Scheme — Report](https://robodebt.royalcommission.gov.au/publications/report) | Australia, 2023
+* [The Hague District Court — SyRI judgment summary](https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-den-haag/nieuws/2020/02/syri-legislation-in-breach-of-european-convention-on-human-rights) | Netherlands, 2020; welfare-fraud risk assessment
+* [Worker Info Exchange — Uber and Ola automated-decision appeal](https://www.workerinfoexchange.org/post/historic-digital-rights-win-for-wie-and-the-adcu-over-uber-and-ola-at-amsterdam-court-of-appeal) | Netherlands, 2023; claimant-side account
+
+#### Research and Design Frameworks
+
 * [Challenging the Machine: Contestability in Government AI Systems](https://arxiv.org/abs/2406.10430)
 * [Conceptualising Contestability: Perspectives on Contesting Algorithmic Decisions](https://arxiv.org/abs/2103.01774)
 * [Contestable AI by Design: Towards a Framework](https://link.springer.com/article/10.1007/s11023-022-09611-z)
 * [Contestation in artificial intelligence as a practice: from a system-centered perspective of contestability toward normative contextualization, situative critique and organizational culture](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1638257/full)
 * [Enhancing human agency through redress in Artificial Intelligence Systems](https://link.springer.com/article/10.1007/s00146-022-01454-7)
-* [Guidance 8. Contestability](https://www.digital.gov.au/policy/ai/pilot-ai-assurance-framework/guidance/step-8)
 * [Human Intervention in Automated Decision-Making: Toward the Construction of Contestable Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3264189)
 * [Humans-in-the-Contestability-Loop: Designing for Social Counselors to Understand and Challenge Algorithmic Decisions](https://doi.org/10.1145/3805689.3812271)
 * [Identifying Algorithmic Decision Subjects' Needs for Meaningful Contestability](https://doi.org/10.1145/3757415)
